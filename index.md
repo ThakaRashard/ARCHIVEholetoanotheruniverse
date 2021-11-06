@@ -1,3 +1,7 @@
+##HOW_DO_YOU_POST##
+
+“Everything should be done in love.” — 1 Corinthians 16:14
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThakaRashard/Hole_To_Another_UNiVERSE_BLOG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
