@@ -1,3 +1,13 @@
+## SYNTAX_HiGHLiGHTiNG
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
 ## HOW_Do_YOU_INSERT_A_YOUTUBE_ViDEO_INTO_A_JEKYLL_POST
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAtP6PLnCow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
