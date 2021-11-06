@@ -1,3 +1,7 @@
+## HOW_Do_YOU_INSERT_A_YOUTUBE_ViDEO_INTO_A_JEKYLL_POST
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAtP6PLnCow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## HOW_DO_YOU_POST##
 
 ![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
