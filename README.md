@@ -1,0 +1,2 @@
+# Hole_To_Another_UNiVERSE_BLOG
+DiS_iS_THE_OFFiCiAL_BLOG_OF_THAKA_and_SARTUs
