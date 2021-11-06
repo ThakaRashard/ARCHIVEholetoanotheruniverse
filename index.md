@@ -1,5 +1,8 @@
 ## HOW_DO_YOU_POST##
 
+![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
+
+
 “Everything should be done in love.” — 1 Corinthians 16:14
 
 ## Welcome to GitHub Pages
