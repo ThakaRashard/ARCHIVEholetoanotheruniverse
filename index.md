@@ -1,4 +1,4 @@
-##HOW_DO_YOU_POST##
+## HOW_DO_YOU_POST##
 
 “Everything should be done in love.” — 1 Corinthians 16:14
 
