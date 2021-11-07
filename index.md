@@ -8,14 +8,23 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # SUNDAY, NOVEMBER 11TH, 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:1000px; height:300px; border: 50px solid white;" allowfullscreen></iframe>
+
+
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
 https://forum.12ozprophet.com/topic/88098-rip-zexor/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AT-Km8ToCGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ##DOPE_ASS_RESUMES
 I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
-## GOOD_EXAMPLES_FROM = ( https://blog.hubspot.com/marketing/best-personal-websites )
+## GOOD_EXAMPLES_FROM = [ https://blog.hubspot.com/marketing/best-personal-websites ]
 https://quinntonharris.mystrikingly.com/ 
+http://brandoncjohnson.com/
+http://www.garysheng.com/
+http://www.garicruze.com/
+https://melaniedaveid.com/
+
 
 # ##DOPE_ASS_EMAiL_PROViDERS
 ### PROTONMAiL.COM = SWiTZERLAND
@@ -32,7 +41,7 @@ LETS_HiDE_EVERYTHiNG" ]
 {% endhighlight %}
 
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:1000px; height:300px; border: 50px solid black;"></iframe>
 
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>">
 # ##UCLA_DiNiNG_DURiNG_MY_SURGiCAL_RECOVERY_PERiODs = ##ALL_YOU_CAN_EAT
