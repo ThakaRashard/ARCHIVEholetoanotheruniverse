@@ -9,7 +9,7 @@
 # LATEST_POST ############# ~>
 # SUNDAY, NOVEMBER 11TH, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:1000px; height:300px; border: 50px solid white;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:1000px; height:300px; border: 50px solid black;" allowfullscreen></iframe>
 
 
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
