@@ -7,7 +7,13 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+
+
 # SUNDAY, NOVEMBER 11TH, 2021
+## RAPSODY = "LAiLAS_WiSDOM"
+<iframe src="https://pixelfed.tokyo/p/THAKA/363094015438763292/embed?caption=true&likes=true&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.tokyo/embed.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btYlWphnfbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 42_DUGG = "YOU_DA_ONE"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cnHs-oB2eCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
