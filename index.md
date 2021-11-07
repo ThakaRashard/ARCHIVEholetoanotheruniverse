@@ -10,6 +10,11 @@
 
 
 # SUNDAY, NOVEMBER 11TH, 2021
+
+##VAN_BODE##HAS_BEEN_ACCEPTED_GLOBALLY##
+<iframe width="full" height="315" src="https://www.youtube.com/embed/YoNEmhIeckw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## RAPSODY = " Ibtihaj ft. D'Angelo, GZA "
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/jhMk_wLm07E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
