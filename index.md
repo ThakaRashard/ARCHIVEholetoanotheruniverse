@@ -1,11 +1,10 @@
-### #!/usr/bin/ruby -w --debug
-### ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-{% highlight ruby %}
+## #!/usr/bin/ruby -w --debug
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-# HOLE_TO_ANOTHER_UNiVERSE##############################
-# TO##############################################################
-# ANOTHER#############################################################
-# UNiVERSE#########################################################
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # SUNDAY, NOVEMBER 11TH, 2021
@@ -19,7 +18,10 @@ I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
 https://quinntonharris.mystrikingly.com/ 
 
 # ##DOPE_ASS_EMAiL_PROViDERS
+
+{% highlight ruby %}
 ## EXCUSES_FOR_QUARANTiNE =  [  [ "CORONAViRUS", "SARS", "COViD_19, THE_COMMON_COLD_SYMTOMS ], QUARANTiNE,MiLF_RAPE_ON_PORNHUB ] ]
+{% endhighlight %}
 The socialweb has become very unhealthy. I have been blacklisted and everything including my gmail account and #ZUCK_KNOWS_EVERYTHiNG have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
 
 ### PROTONMAiL.COM
