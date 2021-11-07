@@ -23,14 +23,11 @@ https://quinntonharris.mystrikingly.com/
 Over COViD-19 Quarantine the socialweb has become very unhealthy. I have been blacklisted and everything from LiNKEDiN to FACEBOOK up to and including my gmail account [ #ZUCK_KNOWS_EVERYTHiNG ] have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
 {% highlight ruby %}
 EXCUSES_FOR_QUARANTiNE =  [  
-[ "CORONAViRUS",
-"SARS",
-"COViD_19",
-"COMMON_COLD_SYMTOMS" ]
-"KiDNAPPED_FAMiLES", 
-"OPEN_PROSTiTUTiON",
-"MiLF_RAPE_ON_PORNHUB",
-"DFACS_HiDiNG_TRAFFiCKED_CHiLDREN" ] 
+[ "CORONAViRUS", "SARS", "COViD_19", "COMMON_COLD_SYMTOMS" ]
+[ "KiDNAPPED_FAMiLES", "OPEN_PROSTiTUTiON","MiLF_RAPE_ON_PORNHUB",
+"DFACS_HiDiNG_TRAFFiCKED_CHiLDREN" ]
+[ "LAZY_ASS_PEOPLE_WHO_DONT_WANT_TO_WORK", "HOMEMAKERS_TURNED_CRiMiNAL, 
+LETS_HiDE_EVERYTHiNG ]_
 ]
 {% endhighlight %}
 
