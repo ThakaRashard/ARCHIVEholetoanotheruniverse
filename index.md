@@ -18,19 +18,19 @@ I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
 https://quinntonharris.mystrikingly.com/ 
 
 # ##DOPE_ASS_EMAiL_PROViDERS
+### PROTONMAiL.COM = SWiTZERLAND
 
+Over COViD-19 Quarantine the socialweb has become very unhealthy. I have been blacklisted and everything from LiNKEDiN to FACEBOOK up to and including my gmail account [ #ZUCK_KNOWS_EVERYTHiNG ] have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
 {% highlight ruby %}
 EXCUSES_FOR_QUARANTiNE =  [  
 [ "CORONAViRUS",
 "SARS",
 "COViD_19,
-COMMON_COLD_SYMTOMS ],
+COMMON_COLD_SYMTOMS ]
 QUARANTiNE,MiLF_RAPE_ON_PORNHUB ] 
 ]
 {% endhighlight %}
-The socialweb has become very unhealthy. I have been blacklisted and everything including my gmail account and #ZUCK_KNOWS_EVERYTHiNG have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
 
-### PROTONMAiL.COM
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
