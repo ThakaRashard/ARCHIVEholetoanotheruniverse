@@ -19,11 +19,12 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/jhMk_wLm07E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## RAPSODY = "LAiLAS_WiSDOM"
-<iframe src="https://pixelfed.tokyo/p/THAKA/363094015438763292/embed?caption=true&likes=true&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.tokyo/embed.js"></script>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/btYlWphnfbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/btYlWphnfbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://pixelfed.tokyo/p/THAKA/363094015438763292/embed?caption=false&likes=false&layout=compact" class="pixelfed__embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.tokyo/embed.js"></script>
+
 
 ## 42_DUGG = "YOU_DA_ONE"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cnHs-oB2eCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cnHs-oB2eCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## CSS_FOR_YOUTUBE_ViDEOS
 {% highlight css %}
@@ -36,12 +37,12 @@ Medium.com used to be a domain for spirituality but the Neo_Nazi anti-spirituali
 ![###iRONMAN_COVER##GHOSTFACEKiLLA_aka_Dennis_Coles__RAEKWON##CAPPADONNA##ALL_GOT_MiSSiNG_FAMiLY GHOSTFACE_KiLLAH iRONMAN_1996_ViNYL iNSiDE_COVER_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/ZPF2wjK0Aq9i/yCtmg92jcOMo8ZBGZmDCmmGYCbQZEDITwBAcjyS6.jpg)
 ![##GHOSTFACE_KiLLAH iRONMAN_1996_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/Sgxi3ezl418M/BhXrTZlje3VNGouB4lfi1bW11qC0XOwUk9c4byMH.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
 https://forum.12ozprophet.com/topic/88098-rip-zexor/
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AT-Km8ToCGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/AT-Km8ToCGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ##DOPE_ASS_RESUMES
 I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
@@ -68,7 +69,7 @@ LETS_HiDE_EVERYTHiNG" ]
 {% endhighlight %}
 
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:1000px; height:300px; border: 50px solid black;"></iframe>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:1000px; height:300px; border: 50px solid black;"></iframe>
 
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>">
 # ##UCLA_DiNiNG_DURiNG_MY_SURGiCAL_RECOVERY_PERiODs = ##ALL_YOU_CAN_EAT
