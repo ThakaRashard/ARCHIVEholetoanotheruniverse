@@ -1,11 +1,19 @@
-# <b> #!/usr/bin/env ruby </b>
+# #!/usr/bin/ruby -w --debug 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-
+#########HOLE_TO_ANOTHER_UNiVERSE##############################
+###############################################################
+###############################################################
+##################POSTS########################################
+##
+##
+##
+# LATEST ############# ~>
+# SUNDAY, NOVEMBER 11TH, 2021
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
 https://forum.12ozprophet.com/topic/88098-rip-zexor/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AT-Km8ToCGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# ##DOPE_ASS_RESUMES
+## ##DOPE_ASS_RESUMES
 I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
 ## GOOD_EXAMPLES_FROM = ( https://blog.hubspot.com/marketing/best-personal-websites )
 https://quinntonharris.mystrikingly.com/ 
