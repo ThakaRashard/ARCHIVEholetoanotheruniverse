@@ -1,4 +1,4 @@
-# #!/usr/bin/env ruby
+# <b> #!/usr/bin/env ruby </b>
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
