@@ -16,6 +16,9 @@ style="width:1000px; height:300px; border: 50px solid black;"
 Medium.com used to be a domain for spirituality but the Neo_Nazi anti-spirituality movement ##FLUSHED_US_OWT */
 {% endhighlight %}
 
+## GHOSTFACE_KiLLAH = iRONMAN_1996
+![###iRONMAN_COVER##GHOSTFACEKiLLA_aka_Dennis_Coles__RAEKWON##CAPPADONNA##ALL_GOT_MiSSiNG_FAMiLY GHOSTFACE_KiLLAH iRONMAN_1996_ViNYL iNSiDE_COVER_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/ZPF2wjK0Aq9i/yCtmg92jcOMo8ZBGZmDCmmGYCbQZEDITwBAcjyS6.jpg)
+![##GHOSTFACE_KiLLAH iRONMAN_1996_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/Sgxi3ezl418M/BhXrTZlje3VNGouB4lfi1bW11qC0XOwUk9c4byMH.jpg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; autoplay;clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:100%; height:100%; border: 50px solid black;" allowfullscreen></iframe>
 
 
