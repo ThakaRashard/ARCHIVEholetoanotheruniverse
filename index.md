@@ -25,9 +25,12 @@ Over COViD-19 Quarantine the socialweb has become very unhealthy. I have been bl
 EXCUSES_FOR_QUARANTiNE =  [  
 [ "CORONAViRUS",
 "SARS",
-"COViD_19,
-COMMON_COLD_SYMTOMS ]
-QUARANTiNE,MiLF_RAPE_ON_PORNHUB ] 
+"COViD_19",
+"COMMON_COLD_SYMTOMS" ]
+"KiDNAPPED_FAMiLES", 
+"OPEN_PROSTiTUTiON",
+"MiLF_RAPE_ON_PORNHUB",
+"DFACS_HiDiNG_TRAFFiCKED_CHiLDREN" ] 
 ]
 {% endhighlight %}
 
