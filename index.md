@@ -1,3 +1,18 @@
+# #!/usr/bin/env ruby
+## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
+# ##DOPE_ASS_RESUMES
+I'm always figuring out how to present myself online. $LiNKEDiN = UNHEALTHY
+## GOOD_EXAMPLES_FROM = ( https://blog.hubspot.com/marketing/best-personal-websites )
+https://quinntonharris.mystrikingly.com/ 
+
+# ##DOPE_ASS_EMAiL_PROViDERS
+## EXCUSES_FOR_QUARANTiNE =  [  [ "CORONAViRUS", "SARS", "COViD_19, THE_COMMON_COLD_SYMTOMS ], QUARANTiNE,MiLF_RAPE_ON_PORNHUB ] ]
+The socialweb has become very unhealthy. I have been blacklisted and everything including my gmail account and #ZUCK_KNOWS_EVERYTHiNG have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
+
+### PROTONMAiL.COM
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/v98beZWzgvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>">
 # ##UCLA_DiNiNG_DURiNG_MY_SURGiCAL_RECOVERY_PERiODs = ##ALL_YOU_CAN_EAT
 # ##1st_STEPS_OUT_OF_HOMELESSNESS
