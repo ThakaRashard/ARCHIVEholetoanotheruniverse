@@ -9,7 +9,14 @@
 # LATEST_POST ############# ~>
 # SUNDAY, NOVEMBER 11TH, 2021
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:1000px; height:300px; border: 50px solid black;" allowfullscreen></iframe>
+## CSS_FOR_YOUTUBE_ViDEOS
+{% highlight css %}
+style="width:1000px; height:300px; border: 50px solid black;"
+/* This_Article_helped https://medium.com/rockedscience/smartify-your-video-embeds-f1cc13b775b5 
+Medium.com used to be a domain for spirituality but the Neo_Nazi anti-spirituality movement ##FLUSHED_US_OWT */
+{% endhighlight %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCx9Jn8rpG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; autoplay;clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="width:100%; height:100%; border: 50px solid black;" allowfullscreen></iframe>
 
 
 ## #ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY
