@@ -1,5 +1,5 @@
 ## #!/usr/bin/ruby -w --debug
-## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
+#ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
