@@ -11,6 +11,9 @@
 
 # SUNDAY, NOVEMBER 11TH, 2021
 
+## ##_CHASiNG_ViCTORY
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FJZ-BHBKyos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ##_THiS_SONG_REAL = #iM_GRATEFUL_SEE_YA_SOON_BHATi
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qUc43ygJvOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
