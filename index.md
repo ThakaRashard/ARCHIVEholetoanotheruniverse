@@ -11,6 +11,11 @@
 
 # SUNDAY, NOVEMBER 11TH, 2021
 
+## ##KURT_COBAiN_UNDERSTANDS_ME##
+##_PLEASE_GiVE_ME_A_JOB_i_SORRY_FOR_HURTiNG_PEOPLES_FEELiNGS_iN_ATLANTA
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/x_tcoBOn6Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aWmkuH1k7uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ##THESE_PEOPLE_KNOW_WHERE_MUNA_iS_BUT_iTS_TOO_DANGEROUS_TO_TALK##
 ##_i_SAW_HER_ON_SKiD_ROW = ##THiS_CANT_BE_LiFE##THERES_GOTTA_BE_MORE
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ACXye620uk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
