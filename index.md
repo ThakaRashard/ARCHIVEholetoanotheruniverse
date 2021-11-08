@@ -11,6 +11,13 @@
 
 # SUNDAY, NOVEMBER 11TH, 2021
 
+## ##RAP_DUO5 = "CHECK_THE_RHYTHM_and_RHYME_SCHEME##_ADVANCED"TRiNA_iS_iN_THiS_BUiLDiNG"
+Super advance duet song... LEvels up ##RUnDMCs_PETER_PiPER
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NaFqyJG8ung" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+RUN_DMC had a great run##COLD_CRUSH_BROTHERS_and_OTHER_PiONEERS_STARTED_iT_iN_THiS_GENRE
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/fKCzZfuuEaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Kuzp6r1zNZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ##KURT_COBAiN_UNDERSTANDS_ME##
 ##_PLEASE_GiVE_ME_A_JOB_i_SORRY_FOR_HURTiNG_PEOPLES_FEELiNGS_iN_ATLANTA
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/x_tcoBOn6Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
