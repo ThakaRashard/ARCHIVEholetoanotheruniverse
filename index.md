@@ -11,6 +11,10 @@
 
 # SUNDAY, NOVEMBER 11TH, 2021
 
+## ##JANET_JACKSON##EMPTY##PROSTITUTiON_##
+### ##JANET_HAS_STRUGGLED_SO_LONG##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/q37CHEMiXi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## ##RAP_DUO5 = "CHECK_THE_RHYTHM_and_RHYME_SCHEME##_ADVANCED"TRiNA_iS_iN_THiS_BUiLDiNG"
 Super advance duet song... LEvels up ##RUnDMCs_PETER_PiPER
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NaFqyJG8ung" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
