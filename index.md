@@ -7,9 +7,27 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+# SUNDAY, NOVEMBER 21TH, 2021
 
+# R.I.P DOLPH ##I_WAS_MURDERED_LOOKiNG_FOR_MY_FAMiLY##THAT_WAS_YOUNG_DOLPH
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SdMW1Ya0nHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
 
-# SUNDAY, NOVEMBER 11TH, 2021
+# ##DOPE_ASS_EMAiL_PROViDERS
+### PROTONMAiL.COM = SWiTZERLAND
+
+Over COViD-19 Quarantine the socialweb has become very unhealthy. I have been blacklisted and everything from LiNKEDiN to FACEBOOK up to and including my gmail account [ #ZUCK_KNOWS_EVERYTHiNG ] have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
+{% highlight ruby %}
+EXCUSES_FOR_QUARANTiNE =  [  
+[ "CORONAViRUS", "SARS", "COViD_19", "COMMON_COLD_SYMTOMS" ]
+[ "KiDNAPPED_FAMiLES", "OPEN_PROSTiTUTiON","MiLF_RAPE_ON_PORNHUB",
+"DFACS_HiDiNG_TRAFFiCKED_CHiLDREN" ]
+[ "LAZY_ASS_PEOPLE_WHO_DONT_WANT_TO_WORK", "HOMEMAKERS_TURNED_CRiMiNAL, 
+LETS_HiDE_EVERYTHiNG" ]
+] ##DASSA_NESTED_ARRAY_iN_RUBY!!!
+{% endhighlight %}
+
+# SUNDAY, NOVEMBER 11TH, 2021 { The Date is actually about 4 days prior }
 
 ## ##_CHASiNG_ViCTORY
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FJZ-BHBKyos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
