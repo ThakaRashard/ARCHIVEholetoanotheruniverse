@@ -15,19 +15,11 @@ I miss my friend, the explosive barritone lows of his voice coupled with cruck a
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SdMW1Ya0nHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Memphis police release photos of 2 suspects wanted over Young Dolph's shooting death](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
 
-# ##DOPE_ASS_EMAiL_PROViDERS
-### PROTONMAiL.COM = SWiTZERLAND
+# ##DEAR_WiLLOW
+###I_WiSH_I_HAD_A_PAiR_OF_HEADPHONES_AND_A_MUSiC_PLAYER 
 
-Over COViD-19 Quarantine the socialweb has become very unhealthy. I have been blacklisted and everything from LiNKEDiN to FACEBOOK up to and including my gmail account [ #ZUCK_KNOWS_EVERYTHiNG ] have been taken from me rendering me banned from working and homeless so to get a job i need to get my email need satisfied overseas... >> GOOGLE EVEN STOPPED MY VOiCE ACCOUNT WiTH NO WARNiNG!! <<
-{% highlight ruby %}
-EXCUSES_FOR_QUARANTiNE =  [  
-[ "CORONAViRUS", "SARS", "COViD_19", "COMMON_COLD_SYMTOMS" ]
-[ "KiDNAPPED_FAMiLES", "OPEN_PROSTiTUTiON","MiLF_RAPE_ON_PORNHUB",
-"DFACS_HiDiNG_TRAFFiCKED_CHiLDREN" ]
-[ "LAZY_ASS_PEOPLE_WHO_DONT_WANT_TO_WORK", "HOMEMAKERS_TURNED_CRiMiNAL, 
-LETS_HiDE_EVERYTHiNG" ]
-] ##DASSA_NESTED_ARRAY_iN_RUBY!!!
-{% endhighlight %}
+Sartu's bizarre and nearly deadly for her affair with Travis, left me without anything to access the internet and the cyberbullying from the social media companies has turned hundreds possibly thousands into "KEEP##THAKA_OFF_THE_INTERNET##ZOMBiES"! Im in the mood for this classic. Maybe I can get some studiotime with your dad someday as his DJ.
+
 
 # SUNDAY, NOVEMBER 11TH, 2021 { The Date is actually about 4 days prior }
 
