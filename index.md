@@ -10,8 +10,9 @@
 # SUNDAY, NOVEMBER 21TH, 2021
 
 # R.I.P DOLPH ##I_WAS_MURDERED_LOOKiNG_FOR_MY_FAMiLY##THAT_WAS_YOUNG_DOLPH
+<iframe style="height: 100vh; width: 100%; border: 0 none;" src="https://en.wikipedia.org/wiki/Young_Dolph"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SdMW1Ya0nHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Link](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
+[Memphis police release photos of 2 suspects wanted over Young Dolph's shooting death](https://www.npr.org/2021/11/19/1057194115/memphis-police-suspects-wanted-young-dolph-murder)
 
 # ##DOPE_ASS_EMAiL_PROViDERS
 ### PROTONMAiL.COM = SWiTZERLAND
