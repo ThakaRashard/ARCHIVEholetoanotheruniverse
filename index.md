@@ -7,6 +7,12 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+# Tuesday, NOVEMBER 23rd, 2021
+### PalmdaleVibesTonight
+I am so in the mood fo dis saymple ProjectPiZZAT...how_dope_can_you_be
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bqiZP-XY1mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XFRI5y5pWLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # SUNDAY, NOVEMBER 21TH, 2021
 # Im working on CSS
 
