@@ -9,7 +9,7 @@
 # LATEST_POST ############# ~>
 # Tuesday, NOVEMBER 23rd, 2021
 ### PalmdaleVibesTonight
-![https://img.discogs.com/PgzqBtQAG2NtHqHJ5tZoHfgwI0k=/fit-in/600x747/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1512383344-8255.jpeg.jpg]
+![##TAYLOR_SWIFT_IS_HIZ_WIFE](https://img.discogs.com/PgzqBtQAG2NtHqHJ5tZoHfgwI0k=/fit-in/600x747/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1512383344-8255.jpeg.jpg)
 I am so in the mood fo dis saymple ProjectPiZZAT...how_dope_can_you_be
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bqiZP-XY1mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XFRI5y5pWLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
