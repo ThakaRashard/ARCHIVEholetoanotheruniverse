@@ -9,6 +9,16 @@
 # LATEST_POST ############# ~>
 # Tuesday, NOVEMBER 23rd, 2021
 ### PalmdaleVibesTonight
+{% highlight html %}
+<img
+  src="https://assets.digitalocean.com/articles/alligator/css/object-fit/example-object-fit.jpg"
+  width="600"
+  height="337"
+  style="width: 600px; height: 337px;"
+  alt="Sample image of a turtle riding on top of an alligator that is swimming in the water - scaled to 600 x 337."
+/>
+<!-- ##CODE_TAKEN_CAUSE_DiGiTAL_OCEAN_HELPS_PEOPLE ## https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit -->
+{% endhighlight %}
 <link rel="stylesheet" href="style.css">
 .grid-container {
     display: grid;
