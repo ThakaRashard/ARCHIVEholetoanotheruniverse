@@ -25,6 +25,8 @@
     </div>
   
 </div>
+![CSS_DEViANT](https://www.deviantart.com/hextupleyoodot/art/Cascading-Style-Sheet-333510968)
+[I_NEED_TO_WORK_ON_BOXES_FOR_IMAGES](https://www.deviantart.com/hextupleyoodot/art/Cascading-Style-Sheet-333510968)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tCXGJQYZ9JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EUoe7cf0HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 !#[##I_LOVE_YOU_TAYLER](https://img.discogs.com/ZNl0MnC-zKNjDFtBcyLh79njUC8=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1510765865-7593.jpeg.jpg)
