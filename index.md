@@ -9,6 +9,7 @@
 # LATEST_POST ############# ~>
 # Tuesday, NOVEMBER 23rd, 2021
 ### PalmdaleVibesTonight
+<link rel="stylesheet" href="style.css">
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -25,7 +26,7 @@
     </div>
   
 </div>
-![CSS_DEViANT](https://www.deviantart.com/hextupleyoodot/art/Cascading-Style-Sheet-333510968)
+![CSS_DEViANT](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1de748d-3d83-46fc-8f59-a14df839dd8d/d5ikapk-852730ff-7695-4da7-8eb0-271cb3b6d5c6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxZGU3NDhkLTNkODMtNDZmYy04ZjU5LWExNGRmODM5ZGQ4ZFwvZDVpa2Fway04NTI3MzBmZi03Njk1LTRkYTctOGViMC0yNzFjYjNiNmQ1YzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9sP26D_6VR3faH2bXR_g5O8ETdJExoT9UWblzpG-IWo)
 [I_NEED_TO_WORK_ON_BOXES_FOR_IMAGES](https://www.deviantart.com/hextupleyoodot/art/Cascading-Style-Sheet-333510968)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/tCXGJQYZ9JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EUoe7cf0HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
