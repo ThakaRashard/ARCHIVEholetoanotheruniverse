@@ -7,6 +7,65 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+# Sunday, November 28th
+## Eric is helping me here
+[Eric_Meyer](https://github.com/meyerweb) got me interested in webdesign years ago with what I call his [ Nautilus design](https://meyerweb.com/eric/css/edge/complexspiral/glassy.html). I have always enjoyed graphic arts. After my mother and I were kidnapped, the home I grew up in with her sister and her kidnapper was stocked high with [National Geographic Magazines ](https://lifeasahuman.com/2015/media-tech/media/why-i-save-old-national-geographic-magazines/) and [ Watchtower and AWAKE Magazines](https://vatican.com/The-Americas-Watchtower-Magazines%e2%80%92-Jehovah-Witness/6633/502/4583/g17Watchtower%20Magazines-%20Jehovah%20Witness'e16'1/295/) and being from ##LOS_ANGELES I had a lot of exposure to [graffiti art](https://www.graffiti.org/) and my brothers were [Graffiti Writers](http://www.at149st.com/history.html). So when I got my first exposure to the web in 1997, I wanted in, but had no Idea what to do. After two to three years of infreaquent browsing due to the rarity and scarcity of computers, much less computers with internet connections [SCAD opened its library to the public](https://www.scad.edu/life/buildings-and-facilities/jen-library) and while I wanted to go for graphic design, my foster parents could not affor it. It was about $100,000 for a ##GRAPHIC_DESIGN_DEGREE. ##WiLLiE_KELLY_JR_MY_KIDNAPPER only made around $35,000 a year. Even if he would pay for college it was not even worth asking and SCAD had noprograms for local residents. Eric's Design looked incredible on the library's [Bondi Blue First Generation iMACS](https://everymac.com/systems/apple/imac/specs/imac_ab.html). That machine was like $1,300 so I could never get one on my own... I struggled to get [The Original Playstation in 1995](https://www.britannica.com/topic/PlayStation), it was only $300. I have never had a new computer of my own. I did use them in corporate... I in someways worked for new computers for years while dealing with ##East_AFRICAN_ISSUES. THis codeblock will  according to Eric, make my site more readable across more platforms >>>
+{% highlight css %}
+/* <-- Begin #ERiC_MEYERS_CSS_TOOLS */
+/* <-- Begin #ERiC_MEYERS_CSS_TOOL */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* <-- end #ERiC_MEYERS_CSS_RESET_TOOL */
+
+{% endhighlight %}
+
+
 # Saturday, November 27th 
 
 <h1> &#x1F525</p><p>&#x1F525</p><p>&#x1F525</p><p>&#x1F525</p> </h1>
@@ -17,12 +76,13 @@
 ## ##LiNKiN_PARK_NAWT_LiNKEDiN_ERiKA
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2UnWZMsTwHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## ABOUT_HOLE_TO_ANOTHER_UNiVERSE
- I Got the concept from <em> [Life Is StRanGe, by ##SQUARE_ENIX](https://lifeisstrange.square-enix-games.com/en-us/)</em> and via ##TELICATION##THEY_GAVE_ME_PERMISSION_TO_USE_EVERYTHING_I_CREATED_AS_FAN_ART_FOR_RECREATIVE_PURPOSES I might sell my art once Travis and Kendrick stop bootlegging it. I am in my own videos #CRACKHEAD_MARQUiS_and_CHANCE_and_TRAViS_HAVE_BEEN_IMPERSONATING_ME##SARTU_JUST_OBEYS_TO_STAY_ALiVE##THATS_MY_ART##ASK_ERIKA_SHE_TURNED_ME_ON_TO_THE_SHiT_AND_iS_PART_OWNER_OF_A_LOT_OF_MY_ART_NOT_HER_FAGGOT_ASS_KIDNAPPER_CHILD_MOLESTING_LIFE_PARTNER____THATS_STILL_MY_WIFE!
+ I Got the concept from <em> [Life Is StRanGe, by ##SQUARE_ENIX](https://lifeisstrange.square-enix-games.com/en-us/)</em> and via ##TELICATION##THEY_GAVE_ME_PERMISSION_TO_USE_EVERYTHING_I_CREATED_AS_FAN_ART_FOR_RECREATIVE_PURPOSES
+ I might sell my art once Travis and Kendrick stop bootlegging it. I am in my own videos #CRACKHEAD_MARQUiS_and_CHANCE_and_TRAViS_HAVE_BEEN_IMPERSONATING_ME##SARTU_JUST_OBEYS_TO_STAY_ALiVE##THATS_MY_ART##ASK_ERIKA_SHE_TURNED_ME_ON_TO_THE_SHiT_AND_iS_PART_OWNER_OF_A_LOT_OF_MY_ART_NOT_HER_FAGGOT_ASS_KIDNAPPER_CHILD_MOLESTING_LIFE_PARTNER____THATS_STILL_MY_WIFE!
  <iframe width="100%" height="315" src="https://www.youtube.com/embed/eehrU51Ra-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Who_iS_UsiNG_MY_ART_WORK__I_NEVER_POSTED_THiS_TO_ViMEO(or_edited_it!!!)
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/337908544?h=c8849dac41&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Blog entry heading for @lovebomrs"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-### Original_FrOM_YOU_TUBE ^^^^ THAT one above is edited!
+### Original_FrOM_YOU_TUBE_Below VVV!! THAT one above ^^^^ is edited!
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7TRStCd7qYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### DATE_iN_FOR_BLOG_iN_RUBY_BROKEN_RN_(syntax_issues_in_Jekyll)
 Im experimenting with some code i found in the <em> [Learn Ruby Documentation](https://learnandlearn.com/ruby-programming/ruby-reference/ruby-get-today-or-current-date-today-method-with-examples) To show users the current date. I dont post daily because I own no computer or cellphone, and there is no internet access for patrons of my homeless recoupe center so I cant make time commitments to the blog at this point... However just seeing the date is a little user interaction that lets people know that something is changing... If time is moving, Im progressing offline in someway even if there are no posts. Posting is personal, thanks fo checkin' on me tho. I was scared for a few days that I was being sabatoged again after #MATT_LETRS_FiELD and #ERiKA_MUNA_CORAL_and_SARTUs_KiDNAP_POSSE destroyed me on the social web... My my video links appeared broken at [Best Buy in PalmDale](www.bestbuy.com). When I got to the library all was well. Sometimes network filtering changes what we see... Im going to move to permalinks to see if that changes the results. Its important for all sharing information to see the same thing! </em> 
