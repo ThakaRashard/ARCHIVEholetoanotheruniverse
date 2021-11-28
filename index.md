@@ -122,8 +122,8 @@ puts date
 
     <div class="grid-child purple">
         <img 
-             width="600"
-             height="337"
+             width="500"
+             height="500"
              style="width: 600px; height: 337px;"
              src="https://img.discogs.com/ZNl0MnC-zKNjDFtBcyLh79njUC8=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1510765865-7593.jpeg.jpg" alt="Italian Trulli">
         ![##I_LOVE_YOU_TAYLER](https://img.discogs.com/ZNl0MnC-zKNjDFtBcyLh79njUC8=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1510765865-7593.jpeg.jpg)
@@ -131,8 +131,8 @@ puts date
 
     <div class="grid-child green">
         <img             
-             width="600"
-             height="337"
+             width="500"
+             height="500"
              style="width: 600px; height: 337px;"
              src="https://img.discogs.com/PgzqBtQAG2NtHqHJ5tZoHfgwI0k=/fit-in/600x747/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1512383344-8255.jpeg.jpg" alt="Italian Trulli">
         ![##TAYLOR_SWIFT_IS_HIZ_WIFE](https://img.discogs.com/PgzqBtQAG2NtHqHJ5tZoHfgwI0k=/fit-in/600x747/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11117067-1512383344-8255.jpeg.jpg)
