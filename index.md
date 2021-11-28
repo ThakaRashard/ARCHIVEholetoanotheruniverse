@@ -17,7 +17,7 @@
  I Got the concept from <em> [Life Is StRanGe, by ##SQUARE_ENIX](https://lifeisstrange.square-enix-games.com/en-us/)</em> and via ##TELICATION##THEY_GAVE_ME_PERMISSION_TO_USE_EVERYTHING_I_CREATED_AS_FAN_ART_FOR_RECREATIVE_PURPOSES I might sell my art once Travis and Kendrick stop bootlegging it. I am in my own videos #CRACKHEAD_MARQUiS_and_CHANCE_and_TRAViS_HAVE_BEEN_IMPERSONATING_ME##SARTU_JUST_OBEYS_TO_STAY_ALiVE##THATS_MY_ART##ASK_ERIKA_SHE_TURNED_ME_ON_TO_THE_SHiT_AND_iS_PART_OWNER_OF_A_LOT_OF_MY_ART_NOT_HER_FAGGOT_ASS_KIDNAPPER_CHILD_MOLESTING_LIFE_PARTNER____THATS_STILL_MY_WIFE!
  <iframe width="100%" height="315" src="https://www.youtube.com/embed/eehrU51Ra-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Who_iS_UsiNG_MY_ART_WORK__I_NEVER_POSTED_TO_ViMEO!!!
+## Who_iS_UsiNG_MY_ART_WORK__I_NEVER_POSTED_THiS_TO_ViMEO(or_edited_it!!!)
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/337908544?h=c8849dac41&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Blog entry heading for @lovebomrs"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ### Original_FrOM_YOU_TUBE ^^^^ THAT one above is edited!
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7TRStCd7qYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
