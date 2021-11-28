@@ -6,6 +6,7 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
+<body>
 # LATEST_POST ############# ~>
 # Sunday, November 28th
 ## Eric is helping me here
