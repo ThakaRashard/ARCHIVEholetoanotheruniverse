@@ -9,6 +9,8 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # Sunday, November 28th
+## WH0L3$LBUM
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0peB5TbATTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## B25_CRASHED_iNTO_EMPiRE_STATE_TOWERE_1945
 ##### Why did'nt the whole building go down?
 [I found out about it in the book The New York Times Page One: Major Events 1900-1998 As Presented in the New York Times Hardcover](https://www.alibris.com/search/books/isbn/9781578660322)
