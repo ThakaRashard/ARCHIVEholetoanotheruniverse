@@ -9,6 +9,15 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # Sunday, November 28th
+
+<div class="container">
+    <h1 class="neonText">
+          404
+    </h1>
+    <h2 class="neonText">2005 - 2020</h2> 
+
+ </div>
+
 <h2> PSYCHOLOGICAL_SEPARATION_USING_PADDING </h2>
 I need to separate post and days cleanly... 
 [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top)
