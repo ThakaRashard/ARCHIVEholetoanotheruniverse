@@ -9,8 +9,24 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # Sunday, November 28th
-## HTML5 Video
-https://www.w3schools.com/html/html5_video.asp
+## HTML5 Video (w3SCHOOLS_eXAMPLE)
+[Bare_Bones_HTML5 Video_Embed](https://www.w3schools.com/html/html5_video.asp)
+[iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean!:: As I read the article FRAMES not iFRAMES are deprecated but the HTML5 <code><video></code> tage appears much more useful for my purposes.
+{% highlight html %}
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+<-- Your browser does not support the video tag. -->
+</video>
+{% endhighlight %}
+	<em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information.
+		
+### HTML5 tEST -> [ALL_ABOUT_Que]
+		https://youtu.be/wGAQNzCXX-c
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/wGAQNzCXX-c">
+</video>
+		
 ## Eric is helping me here
 [Eric_Meyer](https://github.com/meyerweb) got me interested in webdesign years ago with what I call his [ Nautilus design](https://meyerweb.com/eric/css/edge/complexspiral/glassy.html). I have always enjoyed graphic arts. After my mother and I were kidnapped, the home I grew up in with her sister and her kidnapper was stocked high with [National Geographic Magazines ](https://lifeasahuman.com/2015/media-tech/media/why-i-save-old-national-geographic-magazines/) and [ Watchtower and AWAKE Magazines](https://vatican.com/The-Americas-Watchtower-Magazines%e2%80%92-Jehovah-Witness/6633/502/4583/g17Watchtower%20Magazines-%20Jehovah%20Witness'e16'1/295/) and being from ##LOS_ANGELES I had a lot of exposure to [graffiti art](https://www.graffiti.org/) and my brothers were [Graffiti Writers](http://www.at149st.com/history.html). So when I got my first exposure to the web in 1997, I wanted in, but had no Idea what to do. After two to three years of infreaquent browsing due to the rarity and scarcity of computers, much less computers with internet connections [SCAD opened its library to the public](https://www.scad.edu/life/buildings-and-facilities/jen-library) and while I wanted to go for graphic design, my foster parents could not affor it. It was about $100,000 for a ##GRAPHIC_DESIGN_DEGREE. ##WiLLiE_KELLY_JR_MY_KIDNAPPER only made around $35,000 a year. Even if he would pay for college it was not even worth asking and SCAD had noprograms for local residents. Eric's Design looked incredible on the library's [Bondi Blue First Generation iMACS](https://everymac.com/systems/apple/imac/specs/imac_ab.html). That machine was like $1,300 so I could never get one on my own... I struggled to get [The Original Playstation in 1995](https://www.britannica.com/topic/PlayStation), it was only $300. I have never had a new computer of my own. I did use them in corporate... I in someways worked for new computers for years while dealing with ##East_AFRICAN_ISSUES. THis codeblock will  according to Eric, make my site more readable across more platforms >>>
 {% highlight css %}
