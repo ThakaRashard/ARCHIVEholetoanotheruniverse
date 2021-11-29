@@ -9,7 +9,13 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # Sunday, November 28th
+## B25_CRASHED_iNTO_EMPiRE_STATE_TOWERE_1945
+##### Why did'nt the whole building go down?
+[I found out about it in the book The New York Times Page One: Major Events 1900-1998 As Presented in the New York Times Hardcover](https://www.alibris.com/search/books/isbn/9781578660322)
+[Original article](https://www.nytimes.com/1945/07/29/archives/b25-crashes-in-fog-hole-18-by-20-feet-torn-through-north-wall-by.html?smid=url-share)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BfWB9HpoRXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## NEON_TEXT_TESTS_QUE
 <div class="container">
     <h1 class="neonText">
           404
