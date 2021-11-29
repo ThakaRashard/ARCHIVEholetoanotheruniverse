@@ -9,7 +9,7 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 # Sunday, November 28th
-## PSYCHOLOGICAL_SEPARATION_USING_PADDING
+<h2> PSYCHOLOGICAL_SEPARATION_USING_PADDING </h2>
 I need to separate post and days cleanly... 
 [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top)
 [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top)
