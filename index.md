@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="style.css">
-<script> (function() { var v = document.getElementsByClassName("youtube-player"); for (var n = 0; n < v.length; n++) { v[n].onclick = function () { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube.com/embed/" + this.dataset.id + "?autoplay=1&autohide=2&border=0&wmode=opaque&enablejsapi=1&rel="+ this.dataset.related +"&controls="+this.dataset.control+"&showinfo=" + this.dataset.info); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("id", "youtube-iframe"); iframe.setAttribute("style", "width: 100%; height: 100%; position: absolute; top: 0; left: 0;"); if (this.dataset.fullscreen == 1){ iframe.setAttribute("allowfullscreen", ""); } while (this.firstChild) { this.removeChild(this.firstChild); } this.appendChild(iframe); }; } })(); </script>
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
@@ -11,7 +10,7 @@
 # LATEST_POST ############# ~>
 <h2 class="neonText">##DANiELLE_MASHONGA_CURSED_ME##I_THINK_SHES_FUCKING_MY_9yEaRoLD </h2>
 I, have no benefits and two more days in [my recoupe center](https://recuperativecare.org/). I need help! I got a laptop, if they send me to one of those shelters my new laptop will get stolen. I hope the transisionme to a safe place. I almost got kidnapped yesterday so Im still on edge... My family is in this area
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/wfeKcWXEk1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wfeKcWXEk1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Hn-9lhj_epA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div id='rg_embed_link_1825845' class='rg_embed_link' data-song-id='1825845'>Read <a href='https://genius.com/Goapele-different-lyrics'>“Different” by Goapele</a> on Genius</div> <script crossorigin src='//genius.com/songs/1825845/embed.js'></script>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uUsxseXL6mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
