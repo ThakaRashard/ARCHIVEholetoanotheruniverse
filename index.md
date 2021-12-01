@@ -9,11 +9,8 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 
-{% include youtube.html width="100%" height="450" id="XOHvOhADAic" start="12" title="Top 10 iOS Apps of October 2019" %}
 
-
-
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/S6rxanIXIv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
