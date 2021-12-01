@@ -8,6 +8,10 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+[Peoples_Choice_Social_Security_Please_Pay_Me_My_Money. Even_if_I_had_SCHIZOPHRENIA_its_illegal_to_steal_my_money](http://peopleschoicepayee.com/home.html) In the vid belo they gave me some money to get out of town. I moved to Los Angeles with my wife Sartu_aka_SarTuZee, and never got another dime. I have so much backed social security and no stable place to stay. I told them they were doing me wrong and they just said " This is where you are right now"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OaLU6pmVGsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/evKl6imTvZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Tuesday, November 30th, 2021
 <h2 class="neonText">##DANiELLE_MASHONGA_OF_Georgia_Family_Services_CURSED_ME</h2>
 I, have no benefits and two more days in [my recoupe center](https://recuperativecare.org/). I need help! I got a laptop, if they send me to one of those shelters my new laptop will get stolen. I hope the transisionme to a safe place. I almost got kidnapped yesterday so Im still on edge... My family is in this area##EURO_TRASH_please_HELP_ETHIOSOMOLI_TRASH##BASSDROPS_COMFORT_EVERYONE##WHERE_IS_SARTU_PALMDALE??!##I_CAN_NOT_LIVE_IN_DOWNTOWN_LOS_ANGELES##MY_FAMILY_IS_PROSTITUTED_THERE##IT_IS_WAY_TOO_DANGEROUS_FOR_ME_AND_PEOPLE_HAVE_STARTED_GOING_TO_JAIL##REVENGE_FROM_THE_PIMPS_IS_WHAT_I_FEAR_MOST_AND_THIER_IMMORAL_FAMILIES_THAT_SUPPORTED_DAH_SHIT
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Rr46FS7tkk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
