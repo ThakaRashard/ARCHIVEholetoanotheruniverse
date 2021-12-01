@@ -8,6 +8,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dYDL0iNBuaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Peoples_Choice_Social_Security_Please_Pay_Me_My_Money. Even_if_I_had_SCHIZOPHRENIA_its_illegal_to_steal_my_money](http://peopleschoicepayee.com/home.html) In the vid belo they gave me some money to get out of town. I moved to Los Angeles with my wife Sartu_aka_SarTuZee, and never got another dime. I have so much backed social security and no stable place to stay. I told them they were doing me wrong and they just said " This is where you are right now"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OaLU6pmVGsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/evKl6imTvZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
