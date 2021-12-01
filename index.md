@@ -81,7 +81,7 @@ I need to separate post and days cleanly...
 [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top)
 ## HTML5 Video (w3SCHOOLS_eXAMPLE)
 [Bare_Bones_HTML5 Video_Embed](https://www.w3schools.com/html/html5_video.asp)
-[iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean! As I read the article FRAMES not iFRAMES are deprecated but the HTML5 <code><video></code> tage appears much more useful for my purposes.
+[iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean! As I read the article <FRAME> not <iFRAME> is deprecated but the HTML5 <em><video></em> tag appears much more useful for my purposes.
 {% highlight html %}
 <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">
