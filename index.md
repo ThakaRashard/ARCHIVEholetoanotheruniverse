@@ -67,12 +67,12 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/BfWB9HpoRXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## NEON_TEXT_TESTS_QUE
-
+<div class="container">
     <h1 class="neonText">
           404
     </h1>
     <h2 class="neonText">2005 - 2020</h2> 
-
+</div>
  
 
 <h2> PSYCHOLOGICAL_SEPARATION_USING_PADDING </h2>
