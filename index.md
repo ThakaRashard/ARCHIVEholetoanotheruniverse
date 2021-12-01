@@ -10,6 +10,9 @@
 # LATEST_POST ############# ~>
 <h2 class="neonText">##DANiELLE_MASHONGA_CURSED_ME##I_THINK_SHES_FUCKING_MY_9yEaRoLD </h2>
 I, have no benefits and two more days in [my recoupe center](https://recuperativecare.org/). I need help! I got a laptop, if they send me to one of those shelters my new laptop will get stolen. I hope the transisionme to a safe place. I almost got kidnapped yesterday so Im still on edge... My family is in this area
+![AMON_TOBIN##PERMUTATION##](https://f4.bcbits.com/img/a1983715436_10.jpg)
+[DOWNLOAD_AMON_TOBIN_PERMUTATION_FROM_BANDCAMP](https://music.amontobin.com/album/permutation)
+[##THAKA_BEKELE_SELASSIE = ##SULTAN_DROPS##](https://www.youtube.com/watch?v=MbVPev7akDI)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wfeKcWXEk1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Hn-9lhj_epA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div id='rg_embed_link_1825845' class='rg_embed_link' data-song-id='1825845'>Read <a href='https://genius.com/Goapele-different-lyrics'>“Different” by Goapele</a> on Genius</div> <script crossorigin src='//genius.com/songs/1825845/embed.js'></script>
