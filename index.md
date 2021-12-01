@@ -9,7 +9,9 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
- <div class="youtube-player" data-id="uUsxseXL6mw" data-related="0" data-control="0" data-info="1" data-fullscreen="1" style="width:100%;display: block; position: relative;cursor: pointer;max-height:360px;height:100%; overflow:hidden;padding-bottom:56.25%;margin:0 auto"> <img src="//i.ytimg.com/vi/uUsxseXL6mw/hqdefault.jpg" style="bottom: -100%; display: block; left: 0; margin: auto; max-width: 100%; width: 100%;height:auto; position: absolute; right: 0; top: -100%;"> <div style="height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; background: url('http://i.imgur.com/TxzC70f.png') no-repeat;"></div> </div> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hn-9lhj_epA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id='rg_embed_link_1825845' class='rg_embed_link' data-song-id='1825845'>Read <a href='https://genius.com/Goapele-different-lyrics'>“Different” by Goapele</a> on Genius</div> <script crossorigin src='//genius.com/songs/1825845/embed.js'></script>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uUsxseXL6mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sp6fqNqaJmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/S6rxanIXIv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
