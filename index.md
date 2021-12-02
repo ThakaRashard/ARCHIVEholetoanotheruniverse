@@ -8,7 +8,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
-https://www.youtube.com/watch?v=_P0XsjWmBlw
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_P0XsjWmBlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
 ## GOODTIMES_WITH_CORAL_aka_LAROC_WIT_BOBBY_RAY
 ## PALMDALE_MALL_WITH_MY_CHILD_2015##SOUNDTRACK##SINGLE_FATHER_TYPESHiT
