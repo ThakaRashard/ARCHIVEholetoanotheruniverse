@@ -8,6 +8,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oHAruiqxkgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # ##_SARTU##PLEASE_CONTACT_ME_YOU_HAVE_ALSO_BEEN_MISSING_AND_SO_HAS_ERIKA##IM_DESTITUTE##
 # DEAR_AMERICA,_CAN_I_SEE_CORAL_FOR_CHRISTMAS?!?!
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/6hbFasshg4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
