@@ -9,6 +9,10 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 https://www.youtube.com/watch?v=_P0XsjWmBlw
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PctUKuCVCD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## SiMON_IM_IN_A_SHELTER_AND_DOWNLOADING_YOUR_MUSIC_ILL_PAY_YA_SOON_WHEN_SSi_DROPS
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mzj927xUG3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## DEAR_NELLY##YOU_ARE_TELLING_THE_STORY_OF_ME_AND_SARTU_iN_EXPLODE
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ogHDTOUhmxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xw5AiRVqfqk" title="##SARTU_I_REALLY_LOVE_LISTENING_TO_APHEX_TWIN##NO_FRONTING_FOR_Q_OR_BIG_STUFF_OR_FLEXING_ON_ERIKA##" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
