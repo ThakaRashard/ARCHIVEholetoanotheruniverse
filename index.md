@@ -8,6 +8,20 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+<div class="float-container">
+
+  <div class="float-child">
+    <div class="green"> ![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
+    <div class="green"> ![IMG](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
+  </div>
+
+  <div class="float-child">
+    <div class="blue"> ![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
+    <div class="blue"> ![IMG](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
+  </div>
+
+</div>
+
 ## HOW_DO_YOU_POST##
 
 ![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
