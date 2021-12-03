@@ -5,11 +5,11 @@
 <div class="float-container">
 
   <div class="float-child">
-    <div class="green"> ![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142)</div>
+    <div class="green"> ![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
   </div>
   
   <div class="float-child">
-    <div class="blue">![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142)</div>
+    <div class="blue"> ![dual_pain_security_test](https://mediacdn.aent-m.com/prod-img/500/00/3972700-2748423.jpg?ae=2058568142) </div>
   </div>
   
 </div>
