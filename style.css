@@ -34,27 +34,6 @@ h1 {
 h2 {    
 	
 }	
-/* <-- Begin #ERiC_MEYERS_CSS_TOOL */
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
- body {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	 line-height: 120%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-
 .float-container {
     border: 3px solid #fff;
     padding: 20px;
@@ -66,26 +45,8 @@ footer, header, hgroup, menu, nav, section {
     padding: 5px;
     border: 2px solid red;
 }  
-body {
-	
-        font-family: Arial, Helvetica, sans-serif;
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+
+
 /* <-- end #ERiC_MEYERS_CSS_RESET_TOOL */
 
 
