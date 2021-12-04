@@ -8,6 +8,10 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+<section>
+    <div class="green">Width: 50%</div>
+    <div class="blue">Width: 50%</div>
+</section>
 <div class="green">Width: 50%</div><div class="blue">Width: 50%</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/jYdaQJzcAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
