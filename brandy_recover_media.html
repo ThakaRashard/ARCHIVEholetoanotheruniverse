@@ -1,0 +1,317 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ThakaRashard 
+ThakaRashard
+/
+hole_to_another_universe_blog
+Public
+1
+10
+Code
+Issues
+1
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+hole_to_another_universe_blog/brandy_final_draf.html
+@ThakaRashard
+ThakaRashard ##MULTIMEDIA_INTERFACE##WRITTEN_BY_ME_AND_BRANDY_SELASSIE##
+Latest commit aa96c6f yesterday
+ History
+ 1 contributor
+272 lines (209 sloc)  5.59 KB
+   
+<body>
+    <head>
+        <script>
+    
+        </script>
+        <style>
+          
+          .neonText {
+      color: #fff;
+      text-shadow:
+          0 0 7px #fff,
+          0 0 10px #fff,
+          0 0 21px #fff,
+          0 0 42px #0fa,
+          0 0 82px #0fa,
+          0 0 92px #0fa,
+          0 0 102px #0fa,
+          0 0 125px #0fa;
+    }
+    
+    @import url('https://fonts.googleapis.com/css?family=Lato');
+    
+    /* default */
+    *,
+    *::after,
+    *::before {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    /* body */
+    body {
+      min-height: 100vh;
+      padding: 40px;
+    
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    
+      background: hsl(220, 10%, 12%);
+      font-family: "Lato", "Segoe Ui", -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    /* .flip-card-container */
+    .flip-card-container {
+      --hue: 150;
+      --primary: hsl(var(--hue), 50%, 50%);
+      --white-1: hsl(0, 0%, 90%);
+      --white-2: hsl(0, 0%, 80%);
+      --dark: hsl(var(--hue), 25%, 10%);
+      --grey: hsl(0, 0%, 50%);
+    
+      width: 700px;
+      height: 500px;
+      margin: 1px;
+      padding-top: 5%;
+      padding-bottom: 25%;
+      perspective: 1000px;
+    }
+    
+    /* .flip-card */
+    .flip-card {
+      width: inherit;
+      height: inherit;
+    
+      position: relative;
+      transform-style: preserve-3d;
+      transition: .6s .1s;
+    }
+    
+    /* hover and focus-within states */
+    .flip-card-container:hover .flip-card,
+    .flip-card-container:focus-within .flip-card {
+      transform: rotateY(180deg);
+    }
+    
+    /* .card-... */
+    .card-front,
+    .card-back {
+      width: 100%;
+      height: 100%;
+      border-radius: 24px;
+    
+      background: var(--dark);
+      position: absolute;
+      top: 0;
+      left: 0;
+      overflow: hidden;
+    
+      backface-visibility: hidden;
+    
+      display: flex;
+      justify-content: left;
+      align-items: left;
+    }
+    
+    /* .card-front */
+    .card-front {
+      transform: rotateY(0deg);
+      z-index: 2;
+    }
+    
+    /* .card-back */
+    .card-back {
+      transform: rotateY(180deg);
+      z-index: 1;
+    }
+    
+    /* figure */
+    figure {
+      z-index: -1;
+    }
+    
+    /* figure, .img-bg */
+    figure,
+    .img-bg {
+      position: absolute;
+      top: 0;
+      left: 0;
+    
+      width: 100%;
+      height: 100%;
+    }
+    
+    /* img */
+    img {
+      height: 100%;
+      border-radius: 24px;
+    }
+    
+    /* figcaption */
+    figcaption {
+      display: block;
+    
+      width: auto;
+      margin-top: 12%;
+      padding: 8px 22px;
+    
+      font-weight: regular;
+      line-height: 1.6;
+      letter-spacing: 2px;
+      word-spacing: 6px;
+      text-align: right;
+    
+      position: absolute;
+      top: 0;
+      right: 0px;
+    
+      color: var(--white-1);
+      background: hsla(var(--hue), 25%, 10%, .5);
+    }
+    
+    /* .img-bg */
+    
+    .img-bg {
+      width: 100%;
+    }
+    
+    .card-front .img-bg {
+      clip-path: polygon(0 20%, 100% 40%, 100% 100%, 0 100%);
+    }
+    
+    .card-front .img-bg::before {
+      content: "";
+    
+      position: absolute;
+      top: 34%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(18deg);
+    
+      width: 100%;
+      height: 6px;
+      border: 0px solid var(--primary);
+      border-left-color: transparent;
+      border-right-color: transparent;
+    
+      transition: .1s;
+    }
+    
+    .card-back .img-bg {
+      clip-path: polygon(0 0, 100% 0, 100% 80%, 0 60%);
+    }
+    
+    
+    /* hover state */
+    .flip-card-container:hover .card-front .img-bg::before {
+      width: 6px;
+      border-left-color: var(--primary);
+      border-right-color: var(--primary);
+    }
+    
+    
+    
+    /* button */
+    button {
+      font-family: inherit;
+      font-weight: bold;
+      color: var(--white-1);
+    
+      letter-spacing: 2px;
+    
+      padding: 9px 20px;
+      border: 0px solid var(--grey);
+      border-radius: 1000px;
+      background: transparent;
+      transition: .3s;
+    
+      cursor: pointer;
+    }
+    
+    button:hover,
+    button:focus {
+      color: var(--primary);
+      background: hsla(var(--hue), 25%, 10%, .2);
+      border-color: currentColor;
+    }
+    
+    button:active {
+      transform: translate(2px);
+    }
+    
+    
+    /* states */
+    button:hover+.design-container,
+    button:active+.design-container,
+    button:focus+.design-container {
+      --tr: 20;
+      --op: .7;
+    }
+    
+    
+          
+        </style>     
+    </head>
+    <body>
+    <div><div>
+      <span class="neonText"><h1>##EXPLORE_BRANDY##</h1></span>
+    </div> 
+    <!-- flip-card-container -->
+<div class="flip-card-container" style="--hue: 220">
+  <div class="flip-card">
+
+    <div class="card-front">
+      <figure>
+        <div class="img-bg"></div>
+        <img src="Brandy-Norwood.jpg" alt="Brohm Lake">
+        
+      </figure>
+
+        <figcaption class="neonText">BRANDY##NORWOOD,,B7</figcaption>
+ 
+    </div>
+
+    <div class="card-back">
+      
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/7nB4hLP5yKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <div class="img-bg"></div>
+       
+
+    </div>
+
+  </div>
+</div>
+<!-- /flip-card-container -->
+     
+
+ 
+</div> 
+ </body>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
