@@ -10,7 +10,7 @@
 # LATEST_POST ############# ~>
 ## 12/8th, 2021 
 
-<h3 class="neonText"> Its been 563 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h3> 
+<h3 class="neonText"> Its been 572 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h3> 
 Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
  
 Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask <h2>##Where_is_mommy?!?</h2>I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her. [DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent.  They [forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying ["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her.
@@ -31,8 +31,12 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## KELELA_PLEASE_CHANNEL_US
 <div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+  <div class="column">
+	![Quxube](https://pixelfed.tokyo/p/THAKA/374057788025611028)
+	</div>
+  <div class="column">
+	![QuXube](https://pixelfed.tokyo/p/THAKA/374057639636071187)
+	</div>
 </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_dGVe0uI5ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Wjq7x2d_s1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,7 +47,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 
 # Tuesday, November 30th, 2021
 <h2 class="neonText">##DANiELLE_MASHONGA_OF_Georgia_Family_Services_CURSED_ME</h2>
-I, have no benefits and two more days in [my recoupe center](https://recuperativecare.org/). I need help! I got a laptop, if they send me to one of those shelters my new laptop will get stolen. I hope the transisionme to a safe place. I almost got kidnapped yesterday so Im still on edge... My family is in this area##EURO_TRASH_please_HELP_ETHIOSOMOLI_TRASH##BASSDROPS_COMFORT_EVERYONE##WHERE_IS_SARTU_PALMDALE??!##I_CAN_NOT_LIVE_IN_DOWNTOWN_LOS_ANGELES##MY_FAMILY_IS_PROSTITUTED_THERE##IT_IS_WAY_TOO_DANGEROUS_FOR_ME_AND_PEOPLE_HAVE_STARTED_GOING_TO_JAIL##REVENGE_FROM_THE_PIMPS_IS_WHAT_I_FEAR_MOST_AND_THIER_IMMORAL_FAMILIES_THAT_SUPPORTED_DAH_SHIT
+I, have no benefits and two more days in [my recoupe center](https://recuperativecare.org/). I need help! I got a laptop, if they send me to one of those shelters my new laptop will get stolen. I hope the transisionme to a safe place. I almost got kidnapped yesterday so Im still on edge... My family is in this area
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Rr46FS7tkk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GM92f-BUoow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xf1YF_MH1xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,7 +79,7 @@ I need to separate post and days cleanly...
 <-- Your browser does not support the video tag. -->
 </video>
 {% endhighlight %}
-	<em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information.
+	Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information.
 		
 ### HTML5 tEST -> [ALL_ABOUT_Que]
 		https://youtu.be/wGAQNzCXX-c
