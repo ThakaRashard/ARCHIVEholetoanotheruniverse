@@ -33,10 +33,10 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 ## KELELA_PLEASE_CHANNEL_US
 <div class="row">
   <div class="column">
-	![Quxube](https://pixelfed.tokyo/p/THAKA/374057788025611028)
+	![Quxube](https://pixelfed.tokyo/p/THAKA/374057788025611028/embed?caption=true&likes=false&layout=full)
 	</div>
   <div class="column">
-	![QuXube](https://pixelfed.tokyo/p/THAKA/374057639636071187)
+	![QuXube](https://pixelfed.tokyo/p/THAKA/374057788025611028/embed?caption=true&likes=false&layout=full)
 	</div>
 </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_dGVe0uI5ME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
