@@ -13,25 +13,6 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0lQJ-ulEwqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UxdazAGsTFA" title="BIGBOI_DAUGHTAH_HIS_WIFE_TOO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="border:1px dashed #cccccc; width: 1200px;">
-
-  This is the first text
-
-  <div style="border: 2px dashed red; float: right;">
-	  ![##ATLiENS##FAVORITE_ALBUM](https://img.discogs.com/-BFQ3-L0DS16yNVpoDhtpuuA5i8=/fit-in/543x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4314309-1381258461-8927.jpeg.jpg)
-	</div>
-	
-	
-  <div style="border: 2px dashed green;">
-	![##ATLiENS##FAVORITE_ALBUM](https://img.discogs.com/-BFQ3-L0DS16yNVpoDhtpuuA5i8=/fit-in/543x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4314309-1381258461-8927.jpeg.jpg) 
-	</div>
-
-  This is the last text
-</div>
-
-![##OUTKAST](https://hiphopgoldenage.com/wp-content/uploads/2016/08/outkast-atliens_s.jpg)
-![##OUTKAST](https://hiphopgoldenage.com/wp-content/uploads/2016/08/outkast-atliens_s.jpg)
-
 <h4 class="neonText"> 12/8th, 2021 <h4> 
 <h3 class="neonText"> Its been 572 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h3> 
 <span class="firstcharacter">H</span>er mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
