@@ -8,6 +8,10 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0lQJ-ulEwqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UxdazAGsTFA" title="BIGBOI_DAUGHTAH_HIS_WIFE_TOO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![##ATLiENS##FAVORITE_ALBUM](https://img.discogs.com/-BFQ3-L0DS16yNVpoDhtpuuA5i8=/fit-in/543x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4314309-1381258461-8927.jpeg.jpg)
 ![##OUTKAST](https://hiphopgoldenage.com/wp-content/uploads/2016/08/outkast-atliens_s.jpg)
 ## 12/8th, 2021 
 
