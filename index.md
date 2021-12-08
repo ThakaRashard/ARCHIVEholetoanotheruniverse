@@ -13,7 +13,7 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0lQJ-ulEwqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UxdazAGsTFA" title="BIGBOI_DAUGHTAH_HIS_WIFE_TOO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div>
-<div style="border:1px dashed #cccccc;">
+<div style="border:1px dashed #cccccc; width: 1200px;">
 
   This is the first text
 
