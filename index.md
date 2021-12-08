@@ -8,7 +8,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
-![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
+![##OUTKAST](https://hiphopgoldenage.com/wp-content/uploads/2016/08/outkast-atliens_s.jpg)
 ## 12/8th, 2021 
 
 <h3 class="neonText"> Its been 572 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h3> 
