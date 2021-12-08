@@ -1,7 +1,7 @@
 .firstcharacter {
   color: #903;
   float: left;
-  font-family: Georgia;
+ /* font-family: Georgia; */
   font-size: 75px;
   line-height: 60px;
   padding-top: 4px;
