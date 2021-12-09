@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="style.css">
-
+<style style = "text/css">
+   <!--
+      body {
+         margin:9px 9px 0 9px;
+         padding:0;
+         background:#F40;
+      }
+   -->
+</style>
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
