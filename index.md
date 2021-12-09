@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="style.css">
 <style style = "text/css">
-   <!--
+  
       body {
          margin:9px 9px 0 9px;
          padding:0;
          background:##020421;
       }
-   -->
+   
 </style>
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
