@@ -1,27 +1,5 @@
 <link rel="stylesheet" href="style.css">
 <script> 
-	
-/**
- *
- * AT-AT
- *
- * You should play with $unit-beta.
- *
- * "nth-letter"-something is provided by lettering.js
- * -> every letter is wrapped into a span!
- * http://letteringjs.com
- *
- *
- * 2013 by Tim Pietrusky
- * timpietrusky.com
- */
-
-
-/* Lettering.JS 0.6.1 by Dave Rupert  - http://daverupert.com */
-(function($){function injector(t,splitter,klass,after){var a=t.text().split(splitter),inject='';if(a.length){$(a).each(function(i,item){inject+='<span class="'+klass+(i+1)+'">'+item+'</span>'+after});t.empty().append(inject)}}var methods={init:function(){return this.each(function(){injector($(this),'','char','')})},words:function(){return this.each(function(){injector($(this),' ','word',' ')})},lines:function(){return this.each(function(){var r="eefec303079ad17405c889e092e105b0";injector($(this).children("br").replaceWith(r).end(),r,'line','')})}};$.fn.lettering=function(method){if(method&&methods[method]){return methods[method].apply(this,[].slice.call(arguments,1))}else if(method==='letters'||!method){return methods.init.apply(this,[].slice.call(arguments,0))}$.error('Method '+method+' does not exist on jQuery.lettering');return this}})(jQuery);  
-
-
-$(".candybox2").lettering();
 
 	</script>
 ## #!/usr/bin/ruby -w --debug
@@ -34,6 +12,14 @@ $(".candybox2").lettering();
 {% endhighlight %}
 # LATEST_POST ############# ~>
 .bb
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="lEDBj" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Rplus/pen/lEDBj">
+  [PURE CSS] border animation without svg</a> by Rplus (<a href="https://codepen.io/Rplus">@Rplus</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 
 <article>
   <pre class="candybox2">           ________
