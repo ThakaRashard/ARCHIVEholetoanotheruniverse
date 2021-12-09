@@ -10,8 +10,13 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 
-
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="640" scrolling="no"></iframe>
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="aOoBXq" data-editable="true" data-user="samarkandiy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/samarkandiy/pen/aOoBXq">
+  Animate sprite with CSS</a> by Avaz Bokiev (<a href="https://codepen.io/samarkandiy">@samarkandiy</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
 <amp-iframe width=100% height=620 sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" resizable frameborder="0" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark"> <amp-img layout="fill" src="https://rebed.redditmedia.com/assets/03657792c480fd6bbb7bef821c859742.svg" placeholder></amp-img> <div overflow>Click to expand</div> </amp-iframe>
 ![DREEZY_IS_HIS_WIFE](https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sjzxd9o4v1b8x4pbh20211209191816?height=2048&source=spaceship&width=2048&s=e898eadaf2e90a6453b4e4cbd3b3ca3e5a67f8b9&Expires=1639081101&Signature=gUqZ2nQT9AKhOkEhyhRIcNqv660GLaaX~fV1PKJconQndLf4wCn7t7C2SDpAof4UjYgsmgvocIvcHtl60XPDsRWox3cKI3dqB0VRgCMJAKqCxmK1TLzzX3K2mexfmiUjj~KhFQ2CvQrqwAP34BfM99PZG0BRbPmPtGxdRGSfjhcte9jpTRR-ID8Mu2Eu7nZvO80~G7dBy9lOCpSUhvbZt1ji4ZZcVFUugIPf-A3yciSWAmTd8-DGOrPyRyEw-w-m0wc8nY2d~iOPyF7ZnbZjyuQ6fQbe6p2m3AvqxJ5wnasqgg3jgcWO4cCIa539F~Rp-djjg9Z42aOGp2PzofrViw__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ)
 <iframe height="300" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
