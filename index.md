@@ -8,7 +8,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gcKXb3hz0PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gcKXb3hz0PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![test](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpitchfork.com%2Freviews%2Falbums%2F22135-no-hard-feelings%2F&psig=AOvVaw0AIEwK6darCtQvVqn9PdUg&ust=1639099971197000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCtjLDJ1fQCFQAAAAAdAAAAABAd)
 
 
