@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<script> 
 
-	</script>
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
@@ -11,6 +9,12 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+![DREEZY_IS_HIS_WIFE](https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sjzxd9o4v1b8x4pbh20211209191816?height=2048&source=spaceship&width=2048&s=e898eadaf2e90a6453b4e4cbd3b3ca3e5a67f8b9&Expires=1639081101&Signature=gUqZ2nQT9AKhOkEhyhRIcNqv660GLaaX~fV1PKJconQndLf4wCn7t7C2SDpAof4UjYgsmgvocIvcHtl60XPDsRWox3cKI3dqB0VRgCMJAKqCxmK1TLzzX3K2mexfmiUjj~KhFQ2CvQrqwAP34BfM99PZG0BRbPmPtGxdRGSfjhcte9jpTRR-ID8Mu2Eu7nZvO80~G7dBy9lOCpSUhvbZt1ji4ZZcVFUugIPf-A3yciSWAmTd8-DGOrPyRyEw-w-m0wc8nY2d~iOPyF7ZnbZjyuQ6fQbe6p2m3AvqxJ5wnasqgg3jgcWO4cCIa539F~Rp-djjg9Z42aOGp2PzofrViw__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ)
+<iframe height="300" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/suez/pen/GJKRPN">
+  Pure CSS 3D Synthesizer (mousedown for rotation)</a> by Nikolay Talanov (<a href="https://codepen.io/suez">@suez</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 <img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/s5h3kpkljjeo4134l20211209185320?height=2048&source=spaceship&width=2048&s=7c2d8359b221cc60d37994c95878ff3e98537aac&Expires=1639079610&Signature=gzehJ~JE8AD1B8490aoh37~af0IyNGj4htu~qFgBg8b5NmJoS-FWWZyEcVMBL4PHOAuy27WjrD~wqBIb0ozmB0a5E3DSOg-8veRlmaqGo~IINLMG1BqHtUmWu0SlZSawoDGL5n5Qv80qpiWA~C1Ggnr9v6Dj23s54Gdc~v56XYj~Xiea-DyGPvLu0cwsjGy9bnAfvbIPrOzCgi0e0i1P7tD9ABz1C3BKFlxnfPpRlXQhBqZMAoLm6QXzrri1WgkEG5yWrQ-W3bIhyLY7Fh9A~tltHQxhCmR8rTNXi8-qhnB52pA~9mD-Sy8moizSaW1evJX1in~fEHPTQZnwMH8IDA__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" >
 <h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="lEDBj" data-editable="true" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
