@@ -12,7 +12,13 @@
 {% endhighlight %}
 # LATEST_POST ############# ~>
 .bb
-
+<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="lEDBj" data-editable="true" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Rplus/pen/lEDBj">
+  [PURE CSS] border animation without svg</a> by Rplus (<a href="https://codepen.io/Rplus">@Rplus</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="lEDBj" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/Rplus/pen/lEDBj">
   [PURE CSS] border animation without svg</a> by Rplus (<a href="https://codepen.io/Rplus">@Rplus</a>)
