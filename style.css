@@ -1,4 +1,55 @@
 
+@import "compass/css3";
+
+$color-alpha: #000;
+
+$list-alpha: 
+  rgba(#fff, .5),
+  #2ecc71, 
+  #27ae60,
+  #f1c40f,
+  #f39c12,
+  #3498db,
+  #2980b9,
+  #e74c3c,
+  #c0392b,
+  #9b59b6,
+  #8e44ad, 
+  #1abc9c,
+  #16a085
+;
+
+$unit-alpha: length($list-alpha);
+$unit-beta: .5s;
+$unit-gamma: 100% / ($unit-alpha);
+
+article {
+  @extend %center;
+}
+
+.candybox2 {
+  font-weight: bold;
+  
+  span {
+    @for $i from 1 through $unit-alpha {
+      &:nth-child(#{$unit-alpha}n+#{$i}) {
+        @include animation(candy linear $unit-beta infinite forwards (-$unit-beta / $unit-alpha * $i));
+      }
+    }
+  }
+}
+
+@include keyframes(candy) {
+    @for $i from 1 through ($unit-alpha + 1) {
+      #{$unit-gamma * ($i - 1)} {
+        color: darken(nth($list-alpha, ($i % $unit-alpha) + 1), 15%);
+        text-shadow: 
+          .1em 0 .1em nth($list-alpha, ($i % $unit-alpha) + 1),
+   .15em 0 .1em nth($list-alpha, ($i % $unit-alpha) + 1)
+        ;
+      }
+    }
+}
 /* ------BOXESSTART_NOW------- */
 
 $anime-time: 8s;
