@@ -4,7 +4,7 @@
       body {
          margin:9px 9px 0 9px;
          padding:0;
-         background:#F40;
+         background:#606060;
       }
    -->
 </style>
