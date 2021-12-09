@@ -9,12 +9,13 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
-
+<div class="box-shadow"> 
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="aOoBXq" data-editable="true" data-user="samarkandiy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/samarkandiy/pen/aOoBXq">
   Animate sprite with CSS</a> by Avaz Bokiev (<a href="https://codepen.io/samarkandiy">@samarkandiy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+  </div>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
 <amp-iframe width=100% height=620 sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" resizable frameborder="0" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark"> <amp-img layout="fill" src="https://rebed.redditmedia.com/assets/03657792c480fd6bbb7bef821c859742.svg" placeholder></amp-img> <div overflow>Click to expand</div> </amp-iframe>
