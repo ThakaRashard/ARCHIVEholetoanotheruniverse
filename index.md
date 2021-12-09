@@ -17,6 +17,7 @@
 4 # UNiVERSE##############################################
 {% endhighlight %}
 # LATEST_POST ############# ~>
+<iframe width="70%" height="315" src="https://www.youtube.com/embed/Qd176cCPJRs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/ssVpXj9dOB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/sSHzosSNjbM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KHDOj2QxAfQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
