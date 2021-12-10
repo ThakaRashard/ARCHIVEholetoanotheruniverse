@@ -31,23 +31,29 @@
       0 0 102px #0fa,
       0 0 151px #0fa;
 }	
-.introMenu a:hover + li
-{
-    display: block;
-    background-color: blue;
-}
-	cssnav li a:hover,#cssnav li.current a {background:transparent;color:#000} /* hide anchor on hover (and set current tab)*/
+
 </style>
   	 
-## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
- <div class="neonText">Hole To Another Universe 
+## #!/usr/bin/ruby -w --debug 
+<div class="neonText">
+#ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
+ Hole To Another Universe 
+<ul>
+  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
+  <li><a href="#news">2 # TO###MY_RESUME#######################################</a></li>
+  <li><a href="#contact">3 # ANOTHER###SANDBOX####################################</a></li>
+  <li><a href="#about">4 # UNiVERSALCONTACKT####################################</a></li>
+</ul>
+</div>
+<div class="neonText">
+
  <ul>
     <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
     <li>2 # TO###MY_RESUME#######################################</li>
     <li>3 # ANOTHER###SANDBOX####################################</li>
     <li>4 # UNiVERSALCONTACKT####################################</li>
  </ul>
-	<h2> Now i get it, </h2>
+	Now i get it, 
 </div>  
 
     	 
