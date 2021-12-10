@@ -1,4 +1,38 @@
+<style>
 
+.firstcharacter {
+    color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}	
+	
+</style>
   	 
 ## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
@@ -9,10 +43,13 @@
 	 
  
 ##START##
-##MMAKING_PLANS_##4_SAATU##
+<span class="neonText"> 
+	<h2> ##MMAKING_PLANS_##4_SAATU## </h2> 
+<span>
 
   <!-- ======================================-->
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OTnH3zs8wRo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zJBC8L3pG_Y" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kuDuDKvV2Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qi2lPz2F3vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
