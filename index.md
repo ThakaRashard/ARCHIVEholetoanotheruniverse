@@ -24,7 +24,7 @@ div#header {
 div#menu {
   border:2px solid green;
   
-  float:center;
+  float:right;
   margin:0px 0 0px 0px;
   
 }
