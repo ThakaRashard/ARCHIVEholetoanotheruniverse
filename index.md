@@ -74,7 +74,8 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU##
 
 # LATEST_POST ############# ~>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DqDeH3hwxfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/DqDeH3hwxfw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <li><a href="https://www.rferl.org/a/exiled-jehovahs-witness-i-dont-know-what-the-russian-government-is-doing-/29917297.html">1 # Exiled Jehovah's Witness: 'I Don't Know What The Russian Government Is Doing'</a>  
 	![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
 
