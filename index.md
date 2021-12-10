@@ -57,8 +57,8 @@ li a:hover {
 	
 </style>
 
-<span class="glow">  # #!/usr/bin/ruby -w --debug  
-</span>
+<span class="glow">  # #!/usr/bin/ruby -w --debug  </span>
+
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
 
@@ -70,16 +70,9 @@ Hole To Another Universe
   <li><a href="#about">4 # UNiVERSALCONTACKT####################################</a></li>
 </ul>
 
+    	
+##START#######MMAKING_PLANS_##4_SAATU##
 
-</div>
-
-    	 
- 
-##START##
-### ##MMAKING_PLANS_##4_SAATU##
-
-
-  <!-- ======================================-->
 # LATEST_POST ############# ~>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DqDeH3hwxfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <li><a href="https://www.rferl.org/a/exiled-jehovahs-witness-i-dont-know-what-the-russian-government-is-doing-/29917297.html">1 # Exiled Jehovah's Witness: 'I Don't Know What The Russian Government Is Doing'</a>  
