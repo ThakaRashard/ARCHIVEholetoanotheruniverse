@@ -5,17 +5,6 @@
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
-	  <body>
-	
- <div id="header"> 
-	 
-## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-	 
-	 Header</div>
 
 	 
  
@@ -27,7 +16,8 @@
  <div id="content">
 		  
 		  # LATEST_POST ############# ~>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/MOwP-woHsnw" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-9aqK0nCPPk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MOwP-woHsnw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1147966270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/only-love-with-brijean" title="Only Love (with Brijean)" target="_blank" style="color: #cccccc; text-decoration: none;">Only Love (with Brijean)</a></div>
 	 <iframe width="100%" height="315" src="https://www.youtube.com/embed/i-UXy-b8TaU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
