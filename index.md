@@ -69,9 +69,10 @@ Hole To Another Universe
   <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
   <li><a href="#about">4 # UNiVERSALCONTACKT#################################</a></li>
 </ul>
-
-    	
-##START#######MMAKING_PLANS_##4_SAATU##
+<script language="javascript">
+alert("Hello there, and welcome.")
+</script>
+##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="dpZVOr" data-editable="true" data-user="luke__duncan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
