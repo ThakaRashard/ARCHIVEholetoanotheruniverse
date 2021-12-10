@@ -64,10 +64,10 @@ li a:hover {
 
 Hole To Another Universe  
 <ul>
-  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
-  <li><a href="#news">2 # TO###MY_RESUME#######################################</a></li>
-  <li><a href="#contact">3 # ANOTHER###SANDBOX####################################</a></li>
-  <li><a href="#about">4 # UNiVERSALCONTACKT####################################</a></li>
+  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##################</a></li>
+  <li><a href="#news">2 # TO###MY_RESUME###################################</a></li>
+  <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
+  <li><a href="#about">4 # UNiVERSALCONTACKT#################################</a></li>
 </ul>
 
     	
