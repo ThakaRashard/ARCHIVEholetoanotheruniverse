@@ -2,6 +2,109 @@
   <head>
 <style>
   
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  list-style: none;
+  text-decoration: none;
+  background-color: #113311;
+  background-color: #000000;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 800 800'%3E%3Cg fill-opacity='0.59'%3E%3Ccircle fill='%23000000' cx='400' cy='400' r='600'/%3E%3Ccircle fill='%23180d1c' cx='400' cy='400' r='500'/%3E%3Ccircle fill='%23261431' cx='400' cy='400' r='400'/%3E%3Ccircle fill='%23351947' cx='400' cy='400' r='300'/%3E%3Ccircle fill='%23451e5e' cx='400' cy='400' r='200'/%3E%3Ccircle fill='%23552277' cx='400' cy='400' r='100'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+.middle{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  box-shadow: 3px 5px 5px 2px rgba(0,0,0,0.75);
+}
+.menu {
+  width: 300px;
+  overflow: hidden;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.item {
+  border-top: 1px solid rgb(51, 32, 63);
+  overflow: hidden;
+}
+.btn {
+  display: block;
+  padding: 16px 20px;
+  background: #4A1F66;
+  color: white;
+  position: relative;
+}
+.btn:before{
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background: #4A1F66;
+  z-index: 9999;
+  left: 20px;
+  bottom: -7px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+}
+.btn i {
+  margin-right: 10px;
+  background: none;
+}
+.smenu {
+  overflow:hidden;
+  max-height: 0;
+  transition: max-height 0.4s;
+  -webkit-transition: max-height 0.4s;
+  -moz-transition: max-height 0.4s;
+  -ms-transition: max-height 0.4s;
+  -o-transition: max-height 0.4s;
+}
+.smenu a {
+  display: block;
+  padding: 16px 26px;
+  color: #fff;
+  font-size: 14px;
+  margin: 4px 0;
+  position: relative;
+  background:#1C0F24;
+}
+.smenu a:before {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 100%;
+  background-color: #4A1F66;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.3s;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+}
+.smenu a:hover:before {
+  opacity: 1;
+}
+
+.item:target .smenu {
+  max-height: 10em;
+}	
+	
 div#page {
   border:1px solid purple;
   width:755px;
@@ -84,7 +187,40 @@ table {
   <body>
 	  <div id="page">
  <div id="header">Header</div>
- <div id="menu">Menu</div>
+ <div id="menu"> 
+	 
+	   <div class="middle">
+    <div class="menu">
+      <li class="item" id="profile">
+        <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
+        <div class="smenu">
+          <a href="#">Posts</a>
+          <a href="#">Picture</a>
+        </div>
+      </li>
+      <li class="item" id="messages">
+        <a href="#messages" class="btn"><i class="far fa-envelope"></i>Messages</a>
+        <div class="smenu">
+          <a href="#">New</a>
+          <a href="#">Sent</a>
+          <a href="#">Spam</a>
+        </div>
+      </li>
+      <li class="item" id="settings">
+        <a href="#settings" class="btn"><i class="fas fa-cog"></i>Settings</a>
+        <div class="smenu">
+          <a href="#">Password</a>
+          <a href="#">Language</a>
+        </div>
+      </li>
+      <li class="item">
+        <a href="#" class="btn"><i class="fas fa-sign-out-alt"></i>Logout</a>
+      </li>
+    </div>
+  </div>
+  <!-- ======================================-->
+	 
+	 Menu</div>
  <div id="content">
 		  
 		  # LATEST_POST ############# ~>
