@@ -35,13 +35,7 @@ div#content {
   
 }
 
-	div#menu {
-  border:2px solid green;
-  width:20%;
-  float:left;
-  margin:0px 0 0px 0px;
-  
-}
+
 	
 div#footer {
   border:2px solid red;
@@ -258,7 +252,7 @@ input:checked ~ .questions {
 4 # UNiVERSE##############################################
 	 
 	 Header</div>
- <div id="menu"> 
+
 	 
  
 ##START##
@@ -306,8 +300,7 @@ input:checked ~ .questions {
 
 
   <!-- ======================================-->
-	 
-	 Menu</div>
+	
  <div id="content">
 		  
 		  # LATEST_POST ############# ~>
