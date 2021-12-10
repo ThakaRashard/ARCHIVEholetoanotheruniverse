@@ -40,7 +40,6 @@ li a:hover {
 
 	
 .glow {
-  font-size: 80px;
   color: #fff;
   text-align: center;
   animation: glow 5s ease-in-out infinite alternate;
@@ -59,7 +58,7 @@ li a:hover {
 </style>
 
 # #!/usr/bin/ruby -w --debug  
-<p class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</p>
+<p><span class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</p> </span>
 
 
  <div class="glow >
