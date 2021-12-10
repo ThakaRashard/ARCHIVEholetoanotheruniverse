@@ -3,6 +3,8 @@
 <style>
   
 
+	
+	
 div#page {
   border:1px solid purple;
   width:855px;
@@ -79,7 +81,91 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-   
+   < -- ----------------------------- -->
+	   $light-blue: #3c3c3c
+$blue: #f1f1f1
+$text: #ffb650
+$dark-bg: #2a2a2a
+    
+*
+    margin: 0
+    padding: 0
+    font-family: 'Rubik', sans-serif
+    list-style: none
+    text-decoration: none
+
+.middle
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+
+.menu
+    width: 300px
+    border-radius: 8px
+    overflow: hidden
+
+.item
+    border-top: 1px solid $blue
+    position: relative
+    overflow: hidden
+    & input[type=checkbox]
+            width: 100%
+            height: 100%
+            position: absolute
+            z-index: 1
+            opacity: 0
+            cursor: pointer
+            background: $light-blue
+            &:checked ~ .smenu
+                max-height: 10em 
+
+.btn
+    display: block
+    padding: 16px 20px
+    background: $light-blue
+    color: $text
+    position: relative
+    &::before
+        content: ""
+        position: absolute
+        width: 14px
+        height: 14px
+        background: $light-blue
+        left: 20px
+        bottom: -7px
+        transform: rotate(45deg)
+    i
+        margin-right: 10px
+.smenu
+    background: $dark-bg
+    overflow: hidden
+    transition: max-height 0.3s
+    max-height: 0
+    position: relative
+    z-index: 10
+
+    a
+        display: block
+        padding: 16px 26px
+        color: $text
+        font-size: 14px
+        margin: 4px 0
+        position: relative
+        
+        &:before
+            content: ""
+            position: absolute
+            width: 6px
+            height: 100%
+            background: $light-blue
+            left: 0
+            top: 0
+            opacity: 0
+            transition: 0.3s
+        
+        &:hover:before
+            opacity: 1
 </style>
   </head>
   <body>
@@ -95,35 +181,46 @@ table {
 	 Header</div>
  <div id="menu"> 
 	 
-	   <div class="middle">
-    <div class="menu">
-      <li class="item" id="profile">
-        <a href="#profile" class="btn"><i class="far fa-user"></i>Profile</a>
-        <div class="smenu">
-          <a href="#">Posts</a>
-          <a href="#">Picture</a>
+    <div class="middle">
+        <div class="menu">
+
+            <li class="item" id="profile">
+                <input type="checkbox" name="" id="" class="acc-control">
+                <a href="#profile" class="btn"><i class="fas fa-user-alt"></i>Web Designing</a>
+                <div class="smenu">
+                    <a href="">HTML</a>
+                    <a href="">CSS</a>
+                    <a href="">JavaScript</a>
+                </div>
+            </li>
+
+            <li class="item" id="messages">
+                <input type="checkbox" name="" id="" class="acc-control">
+                <a href="#messages" class="btn"><i class="fas fa-envelope"></i>Web Development</a>
+                <div class="smenu">
+                    <a href="">PHP</a>
+                    <a href="">.Net</a>
+                </div>
+            </li>
+
+            <li class="item" id="settings">
+                <input type="checkbox" name="" id="" class="acc-control">
+                <a href="#settings" class="btn"><i class="fas fa-cog"></i>Settings</a>
+                <div class="smenu">
+                    <a href="">Password</a>
+                    <a href="">Language</a>
+                </div>
+            </li>
+
+            <li class="item">
+                <a href="" class="btn"><i class="fas fa-sign-out-alt"></i>Sign-Out</a>
+            </li>
+
+
+
+
         </div>
-      </li>
-      <li class="item" id="messages">
-        <a href="#messages" class="btn"><i class="far fa-envelope"></i>Messages</a>
-        <div class="smenu">
-          <a href="#">New</a>
-          <a href="#">Sent</a>
-          <a href="#">Spam</a>
-        </div>
-      </li>
-      <li class="item" id="settings">
-        <a href="#settings" class="btn"><i class="fas fa-cog"></i>Settings</a>
-        <div class="smenu">
-          <a href="#">Password</a>
-          <a href="#">Language</a>
-        </div>
-      </li>
-      <li class="item">
-        <a href="#" class="btn"><i class="fas fa-sign-out-alt"></i>Logout</a>
-      </li>
     </div>
-  </div>
   <!-- ======================================-->
 	 
 	 Menu</div>
