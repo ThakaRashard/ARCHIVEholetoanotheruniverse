@@ -74,7 +74,8 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU##
 
 # LATEST_POST ############# ~>
-<iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" width="90%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-RbSogwKY94" allowfullscreen></iframe>
