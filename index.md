@@ -74,6 +74,8 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU##
 
 # LATEST_POST ############# ~>
+##THiS_iS_LOS_ANGELES
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hkygiqC7ulQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Ldil3a7Y3g" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bPrBzreWZW0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ### Deazeer! PORNHUB##WHERE_ARE_MY_WIVES##A_HOTEL_IN_LANCASTER?!##
