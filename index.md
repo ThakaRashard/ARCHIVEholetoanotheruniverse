@@ -43,7 +43,7 @@ li a:hover {
   font-size: 80px;
   color: #fff;
   text-align: center;
-  animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 5s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
@@ -59,10 +59,10 @@ li a:hover {
 </style>
 
 # #!/usr/bin/ruby -w --debug  
-<h3 class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</h3>
+<p class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</p>
 
 
- <div class="neonText" >
+ <div class="glow >
  Hole To Another Universe 
 <ul>
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
