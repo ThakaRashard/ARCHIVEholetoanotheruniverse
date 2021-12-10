@@ -12,7 +12,7 @@ body {
 	
 div#page {
   border:1px solid purple;
-  width:100%;
+  width:96%;
   margin:0 auto;
   padding:5px;
   text-align:left;
@@ -29,7 +29,7 @@ div#header {
 div#menu {
   border:2px solid green;
   width:25%;
-  float:right;
+  float:left;
   margin:0px 0 0px 0px;
   
 }
