@@ -59,7 +59,7 @@ li a:hover {
 </style>
 
 # #!/usr/bin/ruby -w --debug  
-<h1 class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</h1>
+<h3 class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</h3>
 
 
  <div class="neonText" >
