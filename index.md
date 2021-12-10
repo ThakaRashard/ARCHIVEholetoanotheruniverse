@@ -5,7 +5,7 @@
 
 div#page {
   border:1px solid purple;
-  width:755px;
+  width:855px;
   margin:0 auto;
   padding:5px;
   text-align:left;
@@ -25,13 +25,13 @@ div#menu {
   border:2px solid green;
   width:200px;
   float:left;
-  margin:10px 0 10px 5px;
+  margin:0px 0 0px 0px;
   height:350px;
 }
 	
 div#content {
   border:2px solid blue;
-  width:500px;
+  width:800px;
   margin:10px 0 10px 235px;
   min-height:500px;
   _height:500px
