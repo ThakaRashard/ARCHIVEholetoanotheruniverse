@@ -31,12 +31,16 @@
       0 0 102px #0fa,
       0 0 151px #0fa;
 }	
-
+.introMenu a:hover + li
+{
+    display: block;
+    background-color: blue;
+}
 	cssnav li a:hover,#cssnav li.current a {background:transparent;color:#000} /* hide anchor on hover (and set current tab)*/
 </style>
   	 
 ## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
- <div class="neonText">Hole to another universe 
+ <div class="neonText">Hole To Another Universe 
  <ul>
     <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
     <li>2 # TO###MY_RESUME#######################################</li>
@@ -55,6 +59,8 @@
 
   <!-- ======================================-->
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/b-7-mgnseB8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gJktf4aTNvk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HbqQL0J_Vr0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 	<a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a> <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bJ9r8LMU9bQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
