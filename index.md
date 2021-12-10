@@ -12,9 +12,8 @@ body {
 	
 div#page {
   border:1px solid purple;
-  width:96%;
-  margin:0 auto;
-  padding:5px;
+  width:90%;
+
   text-align:left;
 }
 div {
