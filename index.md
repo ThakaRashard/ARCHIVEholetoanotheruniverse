@@ -85,18 +85,9 @@ table {
 	  <div id="page">
  <div id="header">Header</div>
  <div id="menu">Menu</div>
- <div id="content">Content</div>
- <div id="footer">Footer</div>
-</div>
-## #!/usr/bin/ruby -w --debug
-#ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-{% highlight ruby %}
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
-{% endhighlight %}
-# LATEST_POST ############# ~>
+ <div id="content">
+		  
+		  # LATEST_POST ############# ~>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kGDhHxgY6uo" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_11uQVI21mQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r-Nw7HbaeWY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
@@ -240,3 +231,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and weâ€™ll help you sort it out.
+		  
+		  
+		  </div>
+ <div id="footer">Footer</div>
+</div>
+## #!/usr/bin/ruby -w --debug
+#ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
+
