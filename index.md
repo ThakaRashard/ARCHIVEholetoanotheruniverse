@@ -38,7 +38,7 @@ div#content {
 
 	div#menu {
   border:2px solid green;
-  width:25%;
+  width:20%;
   float:left;
   margin:0px 0 0px 0px;
   
