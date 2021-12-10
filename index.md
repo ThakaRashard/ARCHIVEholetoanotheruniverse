@@ -35,10 +35,16 @@
 </style>
   	 
 ## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
-1 # HOLE_TO_ANOTHER_UNiVERSE##############################
-2 # TO####################################################
-3 # ANOTHER###############################################
-4 # UNiVERSE##############################################
+ <div class="neonText">Hole to another universe 
+ <ul>
+    <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
+    <li>2 # TO###MY_RESUME#######################################</li>
+    <li>3 # ANOTHER###SANDBOX####################################</li>
+    <li>4 # UNiVERSALCONTACKT####################################</li>
+ </ul>
+</div>  
+    <p>
+    <h2 class="neonText"> Now i get it, </h2>
 
 	 
  
