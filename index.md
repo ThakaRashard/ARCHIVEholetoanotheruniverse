@@ -7,7 +7,7 @@
 	
 div#page {
   border:1px solid purple;
-  width:855px;
+  width:100%;
   margin:0 auto;
   padding:5px;
   text-align:left;
@@ -23,15 +23,15 @@ div#header {
 	
 div#menu {
   border:2px solid green;
-  width:200px;
+  width:20%;
   float:left;
   margin:0px 0 0px 0px;
-  height:350px;
+  
 }
 	
 div#content {
   border:2px solid blue;
-  width:800px;
+  width:80%;
   margin:0px 0 0px 0px;
   min-height:500px;
   _height:500px
