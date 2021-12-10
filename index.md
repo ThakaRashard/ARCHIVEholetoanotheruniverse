@@ -1,9 +1,13 @@
-<link rel="stylesheet" href="style.css">
+
 <html>
   <head>
 <style>
   
+body {
 
+  background: hsl(220, 10%, 12%);
+	
+	}
 	
 	
 div#page {
@@ -118,6 +122,7 @@ table {
  <div id="content">
 		  
 		  # LATEST_POST ############# ~>
+	 <iframe width="100%" height="315" src="https://www.youtube.com/embed/i-UXy-b8TaU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K_O4BrwHWH4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/I379EECFVoM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/I379EECFVoM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
