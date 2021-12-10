@@ -1,7 +1,1 @@
-theme: jekyll-theme-hackcss
-# Sass settings
-sass:
-  style: compressed
-# Plugins
-gems:
-  - jekyll-seo-tag
+theme: jekyll-theme-hacker
