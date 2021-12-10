@@ -74,7 +74,8 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU##
 
 # LATEST_POST ############# ~>
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F4_3TO7jH04" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LMkJZqVnx0s" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XHrskkHf958" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GAWHzGNcTEw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ScMJrK5bQDg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
