@@ -51,16 +51,7 @@ li a:hover {
   <li><a href="#about">4 # UNiVERSALCONTACKT####################################</a></li>
 </ul>
 </div>
-<div class="neonText">
 
- <ul>
-    <li>1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</li>
-    <li>2 # TO###MY_RESUME#######################################</li>
-    <li>3 # ANOTHER###SANDBOX####################################</li>
-    <li>4 # UNiVERSALCONTACKT####################################</li>
- </ul>
-	Now i get it, 
-</div> 
 
 
     	 
