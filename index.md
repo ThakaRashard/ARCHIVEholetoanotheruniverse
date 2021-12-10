@@ -31,10 +31,7 @@
       0 0 102px #0fa,
   
 }	
-li a {
-  color: #fff;
-  text-decoration: none;
-  
+
 }
 li a:hover {
  color: yellow;
