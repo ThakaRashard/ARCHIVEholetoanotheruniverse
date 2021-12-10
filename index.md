@@ -42,11 +42,10 @@
     <li>3 # ANOTHER###SANDBOX####################################</li>
     <li>4 # UNiVERSALCONTACKT####################################</li>
  </ul>
+	<h2 Now i get it, </h2>
 </div>  
-    <p>
-    <h2 class="neonText"> Now i get it, </h2>
 
-	 
+    	 
  
 ##START##
 <span class="neonText"> 
