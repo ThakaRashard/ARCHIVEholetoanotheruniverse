@@ -31,6 +31,15 @@
       0 0 102px #0fa,
       0 0 151px #0fa;
 }	
+li a {
+  display: block;
+  padding: 8px 16px;
+  color: #fff;
+  text-decoration: none;
+  
+}
+li a:hover {
+ color: yellow;
 
 </style>
   	 
