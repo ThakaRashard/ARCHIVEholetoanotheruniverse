@@ -28,15 +28,15 @@ div#header {
 	
 div#menu {
   border:2px solid green;
-  width:15%;
+  width:25%;
   float:right;
   margin:0px 0 0px 0px;
   
 }
 	
 div#content {
-  border:2px solid blue;
-  width:80%;
+  border:2px dashed blue;
+  width:75%;
   margin:0px 0 0px 0px;
   min-height:500px;
   _height:500px
