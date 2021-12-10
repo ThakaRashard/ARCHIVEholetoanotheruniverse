@@ -59,8 +59,6 @@ li a:hover {
 <div class="neonText">
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
  Hole To Another Universe 
-</div>
-<div class="neonText">
 <ul>
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
   <li><a href="#news">2 # TO###MY_RESUME#######################################</a></li>
@@ -80,6 +78,8 @@ li a:hover {
 
   <!-- ======================================-->
 # LATEST_POST ############# ~>
+	![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/U_tyfMUSGo4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b-7-mgnseB8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gJktf4aTNvk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
