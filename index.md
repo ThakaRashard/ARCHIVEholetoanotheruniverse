@@ -31,21 +31,7 @@
       0 0 102px #0fa,
   
 }	
-
-}
-li a:hover {
- color: yellow;
-
-
-
-li a {
-  display: block;
-  color: #fff;
-  text-decoration: none;
-  
-}
-
-/* Change the link color on hover */
+	
 li a:hover {
  color: yellow;
 
@@ -56,8 +42,9 @@ li a:hover {
 </style>
   	 
 ## #!/usr/bin/ruby -w --debug 
-<div class="neonText">
+
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
+ <div class="neonText">
  Hole To Another Universe 
 <ul>
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
