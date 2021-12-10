@@ -26,20 +26,21 @@ div#header {
   border:2px solid red;
 }
 	
-div#menu {
+
+	
+div#content {
+  border:4px dashed blue;
+  width:75%;
+  margin:0px 0 0px 0px;
+  
+}
+
+	div#menu {
   border:2px solid green;
   width:25%;
   float:left;
   margin:0px 0 0px 0px;
   
-}
-	
-div#content {
-  border:2px dashed blue;
-  width:75%;
-  margin:0px 0 0px 0px;
-  min-height:500px;
-  _height:500px
 }
 	
 div#footer {
