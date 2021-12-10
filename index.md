@@ -23,7 +23,7 @@ div#header {
 	
 div#menu {
   border:2px solid green;
-  
+  width:15%;
   float:right;
   margin:0px 0 0px 0px;
   
