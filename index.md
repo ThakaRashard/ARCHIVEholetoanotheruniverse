@@ -42,6 +42,7 @@ li a:hover {
 <div class="neonText">
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
  Hole To Another Universe 
+<div class="neonText">
 <ul>
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
   <li><a href="#news">2 # TO###MY_RESUME#######################################</a></li>
