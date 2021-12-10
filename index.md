@@ -32,6 +32,7 @@ div#content {
   border:4px dashed blue;
   width:75%;
   margin:0px 0 0px 0px;
+  float:right;
   
 }
 
