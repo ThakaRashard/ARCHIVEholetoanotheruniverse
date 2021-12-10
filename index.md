@@ -58,10 +58,10 @@ li a:hover {
 </style>
 
 # #!/usr/bin/ruby -w --debug  
-<p><span class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line</p> </span>
+<p><span class="glow">## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE  </span> when run from the command line</p> 
 
 
- <div class="glow >
+ <div class="neonText >
  Hole To Another Universe 
 <ul>
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG######################</a></li>
