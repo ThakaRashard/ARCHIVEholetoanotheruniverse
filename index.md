@@ -31,7 +31,8 @@
       0 0 102px #0fa,
       0 0 151px #0fa;
 }	
-	
+
+	cssnav li a:hover,#cssnav li.current a {background:transparent;color:#000} /* hide anchor on hover (and set current tab)*/
 </style>
   	 
 ## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
@@ -42,7 +43,7 @@
     <li>3 # ANOTHER###SANDBOX####################################</li>
     <li>4 # UNiVERSALCONTACKT####################################</li>
  </ul>
-	<h2 Now i get it, </h2>
+	<h2> Now i get it, </h2>
 </div>  
 
     	 
@@ -54,6 +55,9 @@
 
   <!-- ======================================-->
 # LATEST_POST ############# ~>
+	<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bJ9r8LMU9bQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/p-xXGVsYOyM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yCmxcHJapCA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OTnH3zs8wRo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zJBC8L3pG_Y" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
