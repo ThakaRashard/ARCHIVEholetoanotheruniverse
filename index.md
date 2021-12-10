@@ -2,12 +2,46 @@
   <head>
 <style>
   
-      body {
-         margin:9px 9px 0 9px;
-         padding:0;
-         background:##020421;
-      }
-  
+div#page {
+  border:1px solid purple;
+  width:755px;
+  margin:0 auto;
+  padding:5px;
+  text-align:left;
+}
+div {
+  text-align:center;
+}
+	
+	
+div#header {
+  border:2px solid red;
+  width:750px;
+  height:30px;
+}
+	
+div#menu {
+  border:2px solid green;
+  width:200px;
+  float:left;
+  margin:10px 0 10px 5px;
+  height:350px;
+}
+	
+div#content {
+  border:2px solid blue;
+  width:500px;
+  margin:10px 0 10px 235px;
+  min-height:500px;
+  _height:500px
+}
+	
+div#footer {
+  border:2px solid red;
+  width:750px;
+  height:30px;
+}
+	
   /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -48,6 +82,12 @@ table {
 </style>
   </head>
   <body>
+	  <div id="page">
+ <div id="header">Header</div>
+ <div id="menu">Menu</div>
+ <div id="content">Content</div>
+ <div id="footer">Footer</div>
+</div>
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
