@@ -36,6 +36,23 @@
 li a:hover {
  color: yellow;
 
+
+
+li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+/* Change the link color on hover */
+li a:hover {
+ color: yellow;
+
+     
+}	
+	
+	
 </style>
   	 
 ## #!/usr/bin/ruby -w --debug 
