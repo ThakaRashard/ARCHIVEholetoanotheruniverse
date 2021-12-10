@@ -74,7 +74,12 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU##
 
 # LATEST_POST ############# ~>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XHrskkHf958" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GAWHzGNcTEw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ScMJrK5bQDg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 ##THiS_iS_LOS_ANGELES
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/n3ceoeubxxQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hkygiqC7ulQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Ldil3a7Y3g" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bPrBzreWZW0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
