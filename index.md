@@ -19,8 +19,6 @@ div {
 	
 div#header {
   border:2px solid red;
-  width:750px;
-  height:30px;
 }
 	
 div#menu {
@@ -34,7 +32,7 @@ div#menu {
 div#content {
   border:2px solid blue;
   width:800px;
-  margin:10px 0 10px 235px;
+  margin:0px 0 0px 0px;
   min-height:500px;
   _height:500px
 }
