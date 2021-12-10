@@ -248,7 +248,7 @@ input:checked ~ .questions {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 	  <body>
-	  <div id="page">
+	
  <div id="header"> 
 	 
 ## #!/usr/bin/ruby -w --debug #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
@@ -463,8 +463,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 		  
 		  
 		  </div>
- <div id="footer">Footer</div>
-</div>
+
+
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
 {% highlight ruby %}
