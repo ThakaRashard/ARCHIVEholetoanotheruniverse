@@ -57,8 +57,8 @@ li a:hover {
 	
 </style>
 
-<p><span class="glow">  # #!/usr/bin/ruby -w --debug  
-</p> </span>
+<span class="glow">  # #!/usr/bin/ruby -w --debug  
+</span>
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
 
