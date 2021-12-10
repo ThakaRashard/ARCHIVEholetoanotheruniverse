@@ -12,10 +12,8 @@
 ##MMAKING_PLANS_##4_SAATU##
 
   <!-- ======================================-->
-	
- <div id="content">
-		  
-		  # LATEST_POST ############# ~>
+# LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0vafNHo3GuQ" title="YouTube video player" frameborder="0" aallowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-9aqK0nCPPk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MOwP-woHsnw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
@@ -168,10 +166,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and weâ€™ll help you sort it out.
-		  
-		  
-		  </div>
-
+	
 
 ## #!/usr/bin/ruby -w --debug
 #ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line
