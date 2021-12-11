@@ -157,39 +157,11 @@ Hole To Another Universe
   <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
 </ul>
 <script language="javascript">
-alert("Hello there, Im Looking for Coral_AKA_LAROC, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
+alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-
-<iframe width="100%" height="315" src="https://www.dailymotion.com/embed/video/x7kl5uv" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-	      <h2>Slide in Overlay from the Right</h2>
-              <p>Hover over the image to see the effect.</p>
-          <div class="container">
-              <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
-              <div class="overlay">
-    <div class="text">Hello World</div>
-  </div>
-</div>
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <h2>Slide in Overlay from the Right</h2>
-        <p>Hover over the image to see the effect.</p>
-        <div class="container">
-        <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
-        <div class="overlay">
-    <div class="text">Hello World</div>
-  </div>
-</div>
-
 
 <div class='some-page-wrapper'>
   <div class='row'>
@@ -664,4 +636,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 {% endhighlight %}
-
