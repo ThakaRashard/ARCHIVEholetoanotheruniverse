@@ -157,16 +157,13 @@ Hole To Another Universe
   <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
 </ul>
 <script language="javascript">
-alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
+alert("Hello there, Im Looking for Coral_AKA_LAROC, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
 
-
-<iframe style="width:100%;height:333;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x7kl5uv" width="100%" height="100%" allowfullscreen > </iframe> 
-
-
+<iframe width="100%" height="315" src="https://www.dailymotion.com/embed/video/x7kl5uv" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <div class='some-page-wrapper'>
   <div class='row'>
