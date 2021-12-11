@@ -120,8 +120,22 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+<a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
+ <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://images.solecollector.com/complex/images/c_crop,h_893,w_1074,x_3,y_75/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_800/oivtkfz2vwgpdfzccpwr/air-jordan-4-retro-infrared-dh6927-061-pair" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://images.solecollector.com/complex/images/c_crop,h_893,w_1074,x_3,y_75/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_800/oivtkfz2vwgpdfzccpwr/air-jordan-4-retro-infrared-dh6927-061-pair" alt="Girl in a jacket" >
+      </div>
+    </div>
+    </div>	
+  </div>
 <iframe width="500" height="315" src="https://www.youtube.com/embed/2klTw123_jw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/TwYz5iI7pm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/TwYz5iI7pm0" title="YouTube video player" frameborder="0"allowfullscreen></iframe>
 <iframe width="333" height="315" src="https://www.youtube.com/embed/_Hcl-oA6bfk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="444" src="https://www.youtube.com/embed/K_ovAyxoriE" frameborder="0" title="YouTube video player" allowfullscreen></iframe>
  <div class='row'>
