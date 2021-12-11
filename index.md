@@ -187,7 +187,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
     <div class="text">Hello World</div>
   </div>
 </div>
-	      <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
+	  
       </div>
     </div>
   </div>
