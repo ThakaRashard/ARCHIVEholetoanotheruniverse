@@ -166,6 +166,35 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 
 
 
+
+
+
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+	      <h2>Slide in Overlay from the Right</h2>
+              <p>Hover over the image to see the effect.</p>
+          <div class="container">
+              <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
+              <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <h2>Slide in Overlay from the Right</h2>
+        <p>Hover over the image to see the effect.</p>
+        <div class="container">
+        <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
+        <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+
+
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
