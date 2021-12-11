@@ -75,6 +75,12 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="WNZxOOx" data-editable="true" data-user="cjgammon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/cjgammon/pen/WNZxOOx">
+  gradient mesh</a> by CJ Gammon (<a href="https://codepen.io/cjgammon">@cjgammon</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRMqwdK" data-editable="true" data-user="Calleb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/Calleb/pen/GRMqwdK">
   UFO with Ease (codepenchallenge)</a> by Calle (<a href="https://codepen.io/Calleb">@Calleb</a>)
