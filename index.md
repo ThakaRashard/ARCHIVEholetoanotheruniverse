@@ -55,6 +55,51 @@ li a:hover {
   }
 }
 	
+	
+	
+.some-page-wrapper {
+  margin: 15px;
+  background-color: red;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  overflow: hidden;
+}
+
+.blue-column {
+  background-color: blue;
+  
+}
+
+.green-column {
+    
+    background-color: green;
+}	
+	
+	
+	
+	
+	
+	
 </style>
 
 <span class="glow">  # #!/usr/bin/ruby -w --debug  </span>
@@ -75,6 +120,20 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="../img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="../img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lehBlK2MrD8" title="YouTube video player" allowfullscreen frameborder="0"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AWVd-UHov0Q" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/apf2KPgBoSM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
