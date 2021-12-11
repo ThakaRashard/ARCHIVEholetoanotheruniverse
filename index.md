@@ -120,7 +120,8 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
-<iframe width="100%" height="444" src="https://www.youtube.com/embed/K_ovAyxoriE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="333" height="315" src="https://www.youtube.com/embed/_Hcl-oA6bfk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="444" src="https://www.youtube.com/embed/K_ovAyxoriE" frameborder="0" title="YouTube video player" allowfullscreen></iframe>
  <div class='row'>
     <div class='column'>
       <div class='blue-column'>
