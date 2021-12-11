@@ -59,7 +59,7 @@ li a:hover {
 	
 .some-page-wrapper {
   margin: 15px;
-  background-color: red;
+  background-color: ##23b2ff;
 }
 
 .row {
@@ -86,13 +86,13 @@ li a:hover {
 }
 
 .blue-column {
-  background-color: blue;
+  background-color: #23ff32;
   
 }
 
 .green-column {
     
-    background-color: green;
+    background-color: #c9ff23;
 }	
 	
 	
