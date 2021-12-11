@@ -118,6 +118,7 @@ Hole To Another Universe
 alert("Hello there, and welcome.")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU##  
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # LATEST_POST ############# ~>
 <a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
