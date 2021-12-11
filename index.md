@@ -120,6 +120,23 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+ <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://i.pinimg.com/564x/b9/ee/08/b9ee0813b77317a011c579c1474adb83.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+ <div class='column'>
+      <div class='blue-column'>
+        <img src="https://i.pinimg.com/564x/59/8c/52/598c5256f48e182e0dd034e2f8e875ae.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>	
+  </div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6Vi-o09XpYQ" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ai55ujNrF_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class='some-page-wrapper'>
@@ -133,12 +150,20 @@ alert("Hello there, and welcome.")
       <div class='green-column'>
         <img src="https://i.pinimg.com/564x/8a/6f/62/8a6f6232a31191619856168f186f0904.jpg" alt="Girl in a jacket" >
       </div>
-	     <div class='green-column'>
+
+    </div>
+  </div>
+	  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
         <img src="https://i.pinimg.com/564x/8a/6f/62/8a6f6232a31191619856168f186f0904.jpg" alt="Girl in a jacket" >
       </div>
-	      <div class='blue-column'>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
         <img src="https://i.pinimg.com/564x/8a/6f/62/8a6f6232a31191619856168f186f0904.jpg" alt="Girl in a jacket" >
       </div>
+
     </div>
   </div>
 </div>
