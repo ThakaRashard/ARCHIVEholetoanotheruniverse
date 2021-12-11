@@ -124,12 +124,12 @@ alert("Hello there, and welcome.")
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
-        <img src="../img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
       </div>
     </div>
     <div class='column'>
       <div class='green-column'>
-        <img src="../img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
