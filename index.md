@@ -119,6 +119,24 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############# ~>
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+<div class='row'>
+	<iframe width="100%" height="315" src="https://cdn3-www.musicfeeds.com.au/assets/uploads/5102ecd3d47f6561de70979017b87a801-640x360.jpg" frameborder="0"  allowfullscreen></iframe>
+	</div>
+</div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pe7mk5M9OK8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lo0X2ZdElQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CFtsHf1lVI4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
