@@ -1,5 +1,47 @@
 <style>
 
+	.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  width: 100%;
+  left: 0;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+	
+	
+	
 .firstcharacter {
     color: #fff;
   text-shadow:
@@ -102,7 +144,7 @@ li a:hover {
 	
 </style>
 
-<span class="glow">  # #!/usr/bin/ruby -w --debug  </span>
+<span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
@@ -120,6 +162,43 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+
+
+
+
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+	      <h2>Slide in Overlay from the Right</h2>
+              <p>Hover over the image to see the effect.</p>
+          <div class="container">
+              <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
+              <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <h2>Slide in Overlay from the Right</h2>
+        <p>Hover over the image to see the effect.</p>
+        <div class="container">
+        <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
+        <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+	      <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+
+
+
+
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="knqyK" data-editable="true" data-user="dudleystorey" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/dudleystorey/pen/knqyK">
   Fullscreen HTML5 Page Background Video</a> by Dudley Storey (<a href="https://codepen.io/dudleystorey">@dudleystorey</a>)
