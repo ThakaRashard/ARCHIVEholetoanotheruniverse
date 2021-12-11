@@ -120,6 +120,27 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://akns-images.eonline.com/eol_images/Entire_Site/2017107/rs_1080x1080-171107190450-23279723_777542925770459_8932444824968101888_n.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://i.pinimg.com/564x/87/c2/37/87c237ef7511042953d3d58f8af4d6c8.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+<div class='row'>
+	<iframe width="100%" height="315" src="https://www.youtube.com/embed/7XLW5CvDQ7E" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+	<iframe width="100%" height="500" src="https://www.youtube.com/embed/V54CEElTF_U" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+	<iframe width="100%" height="500" src="https://www.youtube.com/embed/tCXGJQYZ9JA" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+	</div>
+</div>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4t649hEMbIA" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MGBGdtoupJU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <script src="https://gist.github.com/ThakaRashard/464f6645a69d82bdfe6a8dc224fe0f3d.js"></script>
