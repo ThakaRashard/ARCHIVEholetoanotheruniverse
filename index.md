@@ -75,6 +75,12 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRMqwdK" data-editable="true" data-user="Calleb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Calleb/pen/GRMqwdK">
+  UFO with Ease (codepenchallenge)</a> by Calle (<a href="https://codepen.io/Calleb">@Calleb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="dpZVOr" data-editable="true" data-user="luke__duncan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/luke__duncan/pen/dpZVOr">
   HTML5 Audio Player</a> by Luke Duncan (<a href="https://codepen.io/luke__duncan">@luke__duncan</a>)
