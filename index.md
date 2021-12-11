@@ -117,9 +117,11 @@ Hole To Another Universe
 <script language="javascript">
 alert("Hello there, and welcome.")
 </script>
-##START#######MMAKING_PLANS_##4_SAATU##  
+##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="504" src="https://www.youtube.com/embed/q-yYwKYqtsU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 # LATEST_POST ############# ~>
 <a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
