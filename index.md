@@ -118,7 +118,14 @@ Hole To Another Universe
 alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
+
 # LATEST_POST ############# ~>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="knqyK" data-editable="true" data-user="dudleystorey" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/dudleystorey/pen/knqyK">
+  Fullscreen HTML5 Page Background Video</a> by Dudley Storey (<a href="https://codepen.io/dudleystorey">@dudleystorey</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
