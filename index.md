@@ -163,39 +163,6 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 
 # LATEST_POST ############# ~>
 
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-	      <h2>Slide in Overlay from the Right</h2>
-              <p>Hover over the image to see the effect.</p>
-          <div class="container">
-              <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
-              <div class="overlay">
-    <div class="text">Hello World</div>
-  </div>
-</div>
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <h2>Slide in Overlay from the Right</h2>
-        <p>Hover over the image to see the effect.</p>
-        <div class="container">
-        <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="image">
-        <div class="overlay">
-    <div class="text">Hello World</div>
-  </div>
-</div>
-	  
-      </div>
-    </div>
-  </div>
-
-
-
-
-
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="knqyK" data-editable="true" data-user="dudleystorey" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/dudleystorey/pen/knqyK">
   Fullscreen HTML5 Page Background Video</a> by Dudley Storey (<a href="https://codepen.io/dudleystorey">@dudleystorey</a>)
