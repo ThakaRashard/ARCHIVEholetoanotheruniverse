@@ -118,12 +118,13 @@ Hole To Another Universe
 alert("Hello there, and welcome.")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
+# LATEST_POST ############# ~>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/583566769?h=5ae16cdf3e&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="504" src="https://www.youtube.com/embed/q-yYwKYqtsU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-# LATEST_POST ############# ~>
 <a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
  <div class='row'>
     <div class='column'>
