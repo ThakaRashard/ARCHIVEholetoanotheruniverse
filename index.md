@@ -109,18 +109,27 @@ li a:hover {
 
 Hole To Another Universe  
 <ul>
-  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##################</a></li>
-  <li><a href="#news">2 # TO###MY_RESUME###################################</a></li>
+  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##############היים##</a></li>
+  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
   <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
-  <li><a href="#about">4 # UNiVERSALCONTACKT################################</a></li>
+  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
 </ul>
 <script language="javascript">
-alert("Hello there, and welcome.")
+alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
 </script>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lo0X2ZdElQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CFtsHf1lVI4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYLBwdaPiZI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/4BQx0p1nVzg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="508" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K0-Uvvb2QqU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NT6J4kMLAas" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jnb6T7608RU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XaFbY1Fn9JQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</pre></div>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/583566769?h=5ae16cdf3e&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
@@ -458,7 +467,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
    [_((==)[`-----"](==)j
       I--I"~~"""~~"I--I
       |[]|         |[]|
-      l__j         l__j
+      l__j         l__j                                                                   'Iw --> <a href="https://edition.cnn.com/style/article/star-trek-klingon-marc-okrand/index.html"> KLiNGON_IS_STOLEN_EAST_AFICAN_LANGUAGE</a>
       |!!|         |!!|
       |..|         |..|
       ([])         ([])
