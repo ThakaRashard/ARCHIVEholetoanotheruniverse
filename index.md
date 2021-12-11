@@ -42,7 +42,7 @@ li a:hover {
 .glow {
   color: #fff;
   text-align: center;
-  animation: glow 5s ease-in-out infinite alternate;
+  animation: glow 3s ease-in-out infinite alternate;
 }
 
 @-webkit-keyframes glow {
@@ -120,6 +120,7 @@ alert("Hello there, and welcome.")
 ##START#######MMAKING_PLANS_##4_SAATU##  
 
 # LATEST_POST ############# ~>
+<script src="https://gist.github.com/ThakaRashard/464f6645a69d82bdfe6a8dc224fe0f3d.js"></script>
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -133,6 +134,9 @@ alert("Hello there, and welcome.")
       </div>
     </div>
   </div>
+<div class='row'>
+	<iframe width="100%" height="315" src="https://www.youtube.com/embed/wlASYNwGo9E" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+	</div>
 </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lehBlK2MrD8" title="YouTube video player" allowfullscreen frameborder="0"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AWVd-UHov0Q" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
