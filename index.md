@@ -164,10 +164,69 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a>
-<a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a>
+<div><img "https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg ></img>
+	
+<b> An Unexpected Aurora over Norway </b> <br> 
+<b> Image Credit & Copyright: </b> 
+<a href="http://trichardsen.smugmug.com/About-me">Tommy Richardsen</a>
+</center> <p> 
+
+<b> Explanation: </b> 
+Sometimes the sky lights up unexpectedly.
+
+A trip to northern Norway to photograph 
+<a href="http://www.nasa.gov/mission_pages/sunearth/news/gallery/aurora-index.html"
+>auroras</a> was not going as well as hoped.
+
+It was now past midnight in 
+<a href="http://en.wikipedia.org/wiki/Nordreisa">Steinsvik</a>, 
+<a href="http://en.wikipedia.org/wiki/Troms">Troms</a>, in northern 
+<a href="http://en.wikipedia.org/wiki/Norway">Norway</a>, and the date was 2014 February 8. 
+
+Despite 
+<a href="http://spaceweather.com/archive.php?view=1&day=08&month=02&year=2014"
+>recent activity</a> on the Sun, the skies were 
+<a href="http://www.shizarium.ru/wp-content/gallery/animals5/34520-114759-ba1d04b3a7e17d10d0a272533ca71316.jpg">disappointing</a>.
+
+Therefore, the astrophotographer began packing up to go.
+
+His brother began searching for a missing lens cap.
+
+When the sky suddenly exploded with 
+<a href="ap141103.html">spectacular aurora</a>.
+
+Reacting quickly, 
+<a href="http://www.tommyrichardsen.com/Store/Nightscapes/i-27DK9gn"
+>a sequence</a> detailing dramatic 
+<a href="http://www.webexhibits.org/causesofcolor/4D.html">green</a> curtains was captured, 
+with the bright Moon near the image center, and the lens-cap seeking brother on the far right. 
+
+The <a href="ap110328.html">auroral flare</a> lasted only a few minutes, 
+but the memory of this event, the photographer speculates, will last much longer. 
+
+</div>
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://apod.nasa.gov/apod/image/9701/pillars3_hst.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://apod.nasa.gov/apod/image/9701/pillars3_hst.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+<a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
+<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/>##EXTRA_SENSORY_PERCEPTION##</a>
+<a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
+<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_85.pdf">##NSA_TYPESHIT_wit_DAH_SOViETS</a>
+<a href="https://jamesaconrad.com/TK/US-government-interest-in-telekinesis-and-psychokinesis.html">##PSYCHIC_ARMY##ALEX_JONES_and_DAVID_ICK_KNOW_ALL_ABOUT_IT</a>
+<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://youtu.be/6nwA8oPkaSg">##FORZA5_STi</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a> <a href="https://en.wikipedia.org/wiki/Stargate_Project">##STARGATE_PROJECT##</a>
+<a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000700620001-2.pdf">##PARAPSYCHOLOGY_COMMUNiCATiON_BARRiERS</a>
 <a href="https://www.gaia.com/article/what-is-remote-viewing">What is Remote Viewing?</a>
-<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION##  </a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION##  </a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003300190006-0.pdf">##NONiNVASiVE_BRAiN_WORK##</a>
 <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf"> EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER) </a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300180001-1.pdf"> ##EFFORTS_TO_IMPROVE_REMOTE_VIEWING##</a>
 <a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100040012-1.pdf"> ##TELEKINESIS## </a>
 <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400100005-8.pdf"> PARAPSYCHOLOGY ##THE_ANGLOS_-->VS<--_THE_LATiNS##</a>
