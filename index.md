@@ -162,6 +162,23 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/futurebeats/comments/reaxbk/stereolab_free_witch_and_no_bra_queen_some_neat/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="365" width="100%" scrolling="no"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278263271&color=%238fff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/jhene-aiko-1" title="Jhené Aiko" target="_blank" style="color: #cccccc; text-decoration: none;">Jhené Aiko</a> · <a href="https://soundcloud.com/jhene-aiko-1/jhene-aiko-new-balance-rough" title="Jhené Aiko - new balance (ROUGH)" target="_blank" style="color: #cccccc; text-decoration: none;">Jhené Aiko - new balance (ROUGH)</a></div>
 
@@ -548,14 +565,17 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 
 
 <article>
-  <pre class="candybox2">           ________
-      _,.-Y  |  |  Y-._
-  .-~"   ||  |  |  |   "-.
-  I" ""=="|" !""! "|"[]""|     _____
-  L__  [] |..------|:   _[----I" .-{"-.
- I___|  ..| l______|l_ [__L]_[I_/r(=}=-P
-[L______L_[________]______j~  '-=c_]/=-^
- \_I_j.--.\==I|I==_/.--L_]
+  <pre>           ________
+     ,        ,                                                    
+      {\      /}   MITT ROMNEY SEEMS LIKE A NICE GUY I SUPPOSE     
+     {~ \ ,__/~}                                                   
+     {~= ;`'_)=}    BUT I THINK IT'S ALL AN ACT                    
+     `{~,;) \~}                                                    
+       `;/ \)=-"   IN HIS HEART I BET HE'S A CHEST-CRAPPER         
+      ~~( )/`=="                                                   
+        /))         THAT MEANS SOMEONE WHO CRAPS ON PEOPLES' CHESTS
+jgs     \\\                                                        
+         ``"       (USUALLY WITHOUT PERMISSION) 
    [_((==)[`-----"](==)j
       I--I"~~"""~~"I--I
       |[]|         |[]|
