@@ -164,6 +164,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8BCwDA67CqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8BCwDA67CqY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
  <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO [##STREAMING## </a>
 <a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498] </a>
@@ -389,7 +390,6 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
     </div>	
   </div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6Vi-o09XpYQ" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ai55ujNrF_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -419,10 +419,6 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
   </div>
 </div>
 
-
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/flK2tqusitk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/stuySQv7qw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.deviantart.com/sachsen">##CHECK_OUT_SACHSEN_ON_DEVIANT_ART</a> <em>Try to click on it.</em>
   <div class='row'>
     <div class='column'>
@@ -474,10 +470,6 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/hkygiqC7ulQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7Ldil3a7Y3g" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bPrBzreWZW0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-### Deazeer! PORNHUB##WHERE_ARE_MY_WIVES##A_HOTEL_IN_LANCASTER?!##
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/8HAcOSc_aGI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/DqDeH3hwxfw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <li><a href="https://www.rferl.org/a/exiled-jehovahs-witness-i-dont-know-what-the-russian-government-is-doing-/29917297.html">1 # Exiled Jehovah's Witness: 'I Don't Know What The Russian Government Is Doing'</a>  
 	![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
 
@@ -501,13 +493,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/F5Qx4Y_hUuE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/iooViITRp9M" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/NYOQDnWFXYI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/0vafNHo3GuQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-9aqK0nCPPk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/MOwP-woHsnw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1147966270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/only-love-with-brijean" title="Only Love (with Brijean)" target="_blank" style="color: #cccccc; text-decoration: none;">Only Love (with Brijean)</a></div>
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qy2D66L8lBw" title="##JAYDA_G_IS_IN_PROSTITUTION##I_WAS_KIDNAPPED##DAT_WAZ_JAYDA" frameborder="0" allowfullscreen></iframe>
