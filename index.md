@@ -161,7 +161,14 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-
+##SOMALiA##IN_PICTURES##DEY_OTHA_PLACES_TOO##
+##HAYAT_DOES_HER_HIJAB_THIS_WAY##SO_DO_MUNA_and_SARTU##THATS_MY_FAMILY##
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/84199397?h=ef693f98e7&color=c9ff23&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/84199397">She is Somalia</a> from <a href="https://vimeo.com/dominikaplonska">DOMINIKA PŁOŃSKA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/35480886?h=ea1b39ee19&color=ffffff&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/35480886">Somalia - Nomad Girl</a> from <a href="https://vimeo.com/augustinpictures">Augustin Pictures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:66.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/49901085?h=26cfd6d52c&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/49901085">Somalia</a> from <a href="https://vimeo.com/user6295957">jan grarup</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
 
 <center>
