@@ -320,26 +320,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
     </div>
     </div>	
   </div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pe7mk5M9OK8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lo0X2ZdElQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/CFtsHf1lVI4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYLBwdaPiZI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/4BQx0p1nVzg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="508" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K0-Uvvb2QqU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/NT6J4kMLAas" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jnb6T7608RU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XaFbY1Fn9JQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="504" src="https://www.youtube.com/embed/q-yYwKYqtsU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/juqws1LIH-I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="500" height="315" src="https://www.youtube.com/embed/2klTw123_jw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/TwYz5iI7pm0" title="YouTube video player" frameborder="0"allowfullscreen></iframe>
-<iframe width="333" height="315" src="https://www.youtube.com/embed/_Hcl-oA6bfk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="444" src="https://www.youtube.com/embed/K_ovAyxoriE" frameborder="0" title="YouTube video player" allowfullscreen></iframe>
+
  <div class='row'>
     <div class='column'>
       <div class='blue-column'>
@@ -499,22 +480,6 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <li><a href="https://www.rferl.org/a/exiled-jehovahs-witness-i-dont-know-what-the-russian-government-is-doing-/29917297.html">1 # Exiled Jehovah's Witness: 'I Don't Know What The Russian Government Is Doing'</a>  
 	![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/U_tyfMUSGo4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/b-7-mgnseB8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gJktf4aTNvk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/HbqQL0J_Vr0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-	<a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a> <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/bJ9r8LMU9bQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/p-xXGVsYOyM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/yCmxcHJapCA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/OTnH3zs8wRo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zJBC8L3pG_Y" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kuDuDKvV2Mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qi2lPz2F3vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/249959909&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kevingates" title="Kevin Gates" target="_blank" style="color: #cccccc; text-decoration: none;">Kevin Gates</a> · <a href="https://soundcloud.com/kevingates/sets/islah-6" title="Islah (Deluxe)" target="_blank" style="color: #cccccc; text-decoration: none;">Islah (Deluxe)</a></div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sj9q5ve6bh0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Hr4wz4-27PY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/QlD_0iQr0nU" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <h2 class="neonText"> Its been 563 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
 Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
  
@@ -543,23 +508,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MOwP-woHsnw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K4XAwlYdSlA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1147966270&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/only-love-with-brijean" title="Only Love (with Brijean)" target="_blank" style="color: #cccccc; text-decoration: none;">Only Love (with Brijean)</a></div>
-	 <iframe width="100%" height="315" src="https://www.youtube.com/embed/i-UXy-b8TaU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K_O4BrwHWH4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/I379EECFVoM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/I379EECFVoM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/_wIci7ZseRA" title="YouTube video player"  allowfullscreen frameborder="0" ></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kGDhHxgY6uo" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/_11uQVI21mQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/r-Nw7HbaeWY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zsb1dgsFvpM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/SJuFdkMOP20" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/5eysL68IoTI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="60%" height="315" src="https://www.youtube.com/embed/TwYz5iI7pm0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="70%" height="315" src="https://www.youtube.com/embed/Qd176cCPJRs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="80%" height="315" src="https://www.youtube.com/embed/ssVpXj9dOB4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="90%" height="315" src="https://www.youtube.com/embed/sSHzosSNjbM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/KHDOj2QxAfQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pdp7vNmhwuw" frameborder="0" ></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qy2D66L8lBw" title="##JAYDA_G_IS_IN_PROSTITUTION##I_WAS_KIDNAPPED##DAT_WAZ_JAYDA" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yiSTcdi82S0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511197930&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting" title="Lover Chanting" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting</a></div>
