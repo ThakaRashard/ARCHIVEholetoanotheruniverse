@@ -164,7 +164,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a>
+<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a>
 <a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a>
 <a href="https://www.gaia.com/article/what-is-remote-viewing">What is Remote Viewing?</a>
 <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION##  </a>
