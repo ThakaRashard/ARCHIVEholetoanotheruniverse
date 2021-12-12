@@ -165,7 +165,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 
 # LATEST_POST ############# ~>
  <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO [##STREAMING## </a>
-<a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498 </a>
+<a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498] </a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div>
  <div class='row'>
