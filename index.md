@@ -170,7 +170,6 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf"> EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER) </a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300180001-1.pdf"> ##EFFORTS_TO_IMPROVE_REMOTE_VIEWING##</a>
 <a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100040012-1.pdf"> ##TELEKINESIS## </a>
 <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400100005-8.pdf"> PARAPSYCHOLOGY ##THE_ANGLOS_-->VS<--_THE_LATiNS##</a>
-	
 <a href="https://www.cia.gov/readingroom/freedom-information-act-5-usc-%C2%A7552"> ##THE_SOCIAL_MEDIA_COMPANIES_VIOLATED##THE_FREEDOM_OF_INFORMATION_ACT_IN_SUPRESSING
 	THE_SEARCH_FOR_THAKA_BEKELE_SELASSIE_aka_RASHARD_IMAN_KELLY_AHMEDs_FAMILY</a>
 
