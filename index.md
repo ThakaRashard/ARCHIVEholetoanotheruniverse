@@ -209,22 +209,6 @@ super-blue-blood-moon-coming-jan-31">total lunar eclipse</a>.
 
 </div>
 <div><img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
-<h1> Astronomy Picture of the Day </h1>
-<p>
-
-<a href="archivepix.html">Discover the cosmos!</a>
-Each day a different image or photograph of our fascinating universe is
-featured, along with a brief explanation written by a professional astronomer.
-<p>
-
-2020 September 26
-<br> 
-<a href="image/2009/PairsMoonPace.jpg">
-<IMG SRC="image/2009/PairsMoonPace.jpg"
-alt="See Explanation.  Clicking on the picture will download
-the highest resolution version available." style="max-width:100%"></a>
-
-</center>
 
 <center>
 <b> Moon Pairs and the Synodic Month </b> <br>
