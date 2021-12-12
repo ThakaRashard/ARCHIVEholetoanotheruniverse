@@ -158,67 +158,54 @@ Hole To Another Universe
   <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
   <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
 </ul><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
-<script language="javascript">
-alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
-</script>
+
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-<div><img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
-<h1> Astronomy Picture of the Day </h1>
-<p>
-
-<a href="archivepix.html">Discover the cosmos!</a>
-Each day a different image or photograph of our fascinating universe is
-featured, along with a brief explanation written by a professional astronomer.
-<p>
-
-2020 September 26
-<br> 
-<a href="image/2009/PairsMoonPace.jpg">
-<IMG SRC="image/2009/PairsMoonPace.jpg"
-alt="See Explanation.  Clicking on the picture will download
-the highest resolution version available." style="max-width:100%"></a>
-
-</center>
+<div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
 
 <center>
-<b> Moon Pairs and the Synodic Month </b> <br>
+<b> Phases of the Moon </b> <br> 
 
 <b>Image Credit &
 <a href="lib/about_apod.html#srapply">Copyright</a>: </b>
 
-<a href="https://greenflash.photo/about-me/">Marcella Giulia Pace</a>
+<a href="http://www.jfgout.com">Jean-Francois Gout</a>,
+<a href="http://www.pbase.com/polakis/">Tom Polakis</a>
 
 </center> <p> 
 
 <b> Explanation: </b> 
 
-<a href="https://moon.nasa.gov/observe-the-moon-night/about/overview/">Observe the Moon</a> each night and
-its visible sunlit portion will gradually change.
+<a href="ap171203.html">Look at the Moon</a>
+every night and its visible sunlit portion gradually changes.
 
-<a href="https://svs.gsfc.nasa.gov/Gallery/moonphase.html">In phases progressing</a>
-from New Moon to Full Moon to New Moon again, a lunar cycle or
-<a href="http://astropixels.com/ephemeris/moon/synodicmonth2001.html">synodic month</a>
-is completed in about 29.5 days.
+<a href="https://svs.gsfc.nasa.gov/4604">In phases progressing</a>
+from New Moon to Full Moon to New Moon again,
+a lunar cycle or lunation is completed in about 29.5 days.
 
-They look full, but top left to bottom right these panels do
-show the range of lunar phases for a complete
-<a href="https://greenflash.photo/portfolio/august-2019-all-moon-phases-in-a-month/">synodic month during August 2019</a>
-from Ragusa, Sicily, Italy, planet Earth.
+Top left to bottom right, these frames show the range of
+lunar phases for 25 consecutive nights beginning on January 18,
+following an
+<a href="https://www.youtube.com/watch?v=iLTgUvGLxxA">almost
+complete lunation</a>.
 
-For this lunar cycle project the panels organize
-images of the lunar phases in pairs.
+They skip the 2 days just after and 2 days before
+<a href="http://www.astrophoto.fr/new_moon_2013july8.html">New Moon</a>,
+when the lunar phase is at best a narrow crescent, close to the Sun
+and <a href="ap080411.html">really hard to see</a>.
 
-Each individual image is paired with another image separated by
-about 15 days, or approximately half a synodic month.
+Of course, mostly clear Arizona night skies and a little help from
+a friend were required to complete this lunar cycle project,
+imaging in early evening for the first half and
+late evening and early morning for the second half of the lunation.
 
-As a result the opposite sunlit portions complete the
-lunar disk and the shadow line at the boundary of lunar night and day, the
-terminator, steadily marches across the Moon's
-<a href="http://lroc.sese.asu.edu/posts/293">familiar nearside</a>.
+For extra credit, the cycle was centered on the Full Moon of January 31.
 
-For extra credit, what lunar phase would you pair with the Moon tonight?
+That was the second Full Moon in January, when the Moon was near lunar
+orbit perigee and took on reddish hues during a
+<a href="https://www.nasa.gov/feature/
+super-blue-blood-moon-coming-jan-31">total lunar eclipse</a>.
 
 </div>
 <div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" > 
