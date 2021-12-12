@@ -2,6 +2,65 @@
 
 <style>
 
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+.glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hover:active {
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
 	.container {
   position: relative;
   width: 50%;
@@ -161,6 +220,8 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242802389&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alunageorge" title="AlunaGeorge" target="_blank" style="color: #cccccc; text-decoration: none;">AlunaGeorge</a> · <a href="https://soundcloud.com/alunageorge/im-in-control" title="I&#x27;m In Control (ft. Popcaan)" target="_blank" style="color: #cccccc; text-decoration: none;">I&#x27;m In Control (ft. Popcaan)</a></div>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271399277&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alunageorge" title="AlunaGeorge" target="_blank" style="color: #cccccc; text-decoration: none;">AlunaGeorge</a> · <a href="https://soundcloud.com/alunageorge/mean-what-i-mean-1" title="Mean What I Mean (feat. Leikeli47 &amp; Dreezy)" target="_blank" style="color: #cccccc; text-decoration: none;">Mean What I Mean (feat. Leikeli47 &amp; Dreezy)</a></div>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-Q6qkdTz95A" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/930005872&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/t-e-e-d" title="Totally Enormous Extinct Dinosaurs" target="_blank" style="color: #cccccc; text-decoration: none;">Totally Enormous Extinct Dinosaurs</a> · <a href="https://soundcloud.com/t-e-e-d/bonobo-totally-enormous-extinct-dinosaurs-bbc-r1-essential-mix-17102020" title="Bonobo &amp; Totally Enormous Extinct Dinosaurs BBC-R1 Essential Mix - 17/10/2020" target="_blank" style="color: #cccccc; text-decoration: none;">Bonobo &amp; Totally Enormous Extinct Dinosaurs BBC-R1 Essential Mix - 17/10/2020</a></div>
 <iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%23c9ff23&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/linked" title="Linked" target="_blank" style="color: #cccccc; text-decoration: none;">Linked</a></div>
@@ -174,7 +235,6 @@ Hole To Another Universe
 <p><a href="https://vimeo.com/84199397">She is Somalia</a> from <a href="https://vimeo.com/dominikaplonska">DOMINIKA PŁOŃSKA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/35480886?h=ea1b39ee19&color=ffffff&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/35480886">Somalia - Nomad Girl</a> from <a href="https://vimeo.com/augustinpictures">Augustin Pictures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<iframe width="100%" height="315" src="https://www.dailymotion.com/video/x4l4vfi" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div style="padding:66.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/49901085?h=26cfd6d52c&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/49901085">Somalia</a> from <a href="https://vimeo.com/user6295957">jan grarup</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
