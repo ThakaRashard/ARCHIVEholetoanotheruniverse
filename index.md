@@ -164,12 +164,68 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-<div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" ></img>
-	
+<div><img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
+<h1> Astronomy Picture of the Day </h1>
+<p>
+
+<a href="archivepix.html">Discover the cosmos!</a>
+Each day a different image or photograph of our fascinating universe is
+featured, along with a brief explanation written by a professional astronomer.
+<p>
+
+2020 September 26
+<br> 
+<a href="image/2009/PairsMoonPace.jpg">
+<IMG SRC="image/2009/PairsMoonPace.jpg"
+alt="See Explanation.  Clicking on the picture will download
+the highest resolution version available." style="max-width:100%"></a>
+
+</center>
+
+<center>
+<b> Moon Pairs and the Synodic Month </b> <br>
+
+<b>Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>: </b>
+
+<a href="https://greenflash.photo/about-me/">Marcella Giulia Pace</a>
+
+</center> <p> 
+
+<b> Explanation: </b> 
+
+<a href="https://moon.nasa.gov/observe-the-moon-night/about/overview/">Observe the Moon</a> each night and
+its visible sunlit portion will gradually change.
+
+<a href="https://svs.gsfc.nasa.gov/Gallery/moonphase.html">In phases progressing</a>
+from New Moon to Full Moon to New Moon again, a lunar cycle or
+<a href="http://astropixels.com/ephemeris/moon/synodicmonth2001.html">synodic month</a>
+is completed in about 29.5 days.
+
+They look full, but top left to bottom right these panels do
+show the range of lunar phases for a complete
+<a href="https://greenflash.photo/portfolio/august-2019-all-moon-phases-in-a-month/">synodic month during August 2019</a>
+from Ragusa, Sicily, Italy, planet Earth.
+
+For this lunar cycle project the panels organize
+images of the lunar phases in pairs.
+
+Each individual image is paired with another image separated by
+about 15 days, or approximately half a synodic month.
+
+As a result the opposite sunlit portions complete the
+lunar disk and the shadow line at the boundary of lunar night and day, the
+terminator, steadily marches across the Moon's
+<a href="http://lroc.sese.asu.edu/posts/293">familiar nearside</a>.
+
+For extra credit, what lunar phase would you pair with the Moon tonight?
+
+</div>
+<div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" > 
 <b> An Unexpected Aurora over Norway </b> <br> 
 <b> Image Credit & Copyright: </b> 
 <a href="http://trichardsen.smugmug.com/About-me">Tommy Richardsen</a>
-</center> <p> 
+ <p> 
 
 <b> Explanation: </b> 
 Sometimes the sky lights up unexpectedly.
@@ -219,7 +275,7 @@ but the memory of this event, the photographer speculates, will last much longer
     </div>
   </div>
 <a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
-<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/>##EXTRA_SENSORY_PERCEPTION##</a>
+<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/">##EXTRA_SENSORY_PERCEPTION##</a>
 <a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
 <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_85.pdf">##NSA_TYPESHIT_wit_DAH_SOViETS</a>
 <a href="https://jamesaconrad.com/TK/US-government-interest-in-telekinesis-and-psychokinesis.html">##PSYCHIC_ARMY##ALEX_JONES_and_DAVID_ICK_KNOW_ALL_ABOUT_IT</a>
