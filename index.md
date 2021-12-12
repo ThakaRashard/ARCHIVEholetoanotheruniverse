@@ -1,3 +1,5 @@
+<head>
+	<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 <style>
 
 	.container {
@@ -143,7 +145,7 @@ li a:hover {
 	
 	
 </style>
-
+</head>
 <span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
