@@ -194,7 +194,7 @@ just my view on thangs - Dehejia
 <span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 
 Hole To Another Universe  
 <ul>
