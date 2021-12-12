@@ -162,6 +162,23 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://m.media-amazon.com/images/I/513hrlq4RML.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JbFhwsSAxro" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/113287278&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fadetomind" title="FadetoMind" target="_blank" style="color: #cccccc; text-decoration: none;">FadetoMind</a> · <a href="https://soundcloud.com/fadetomind/kelela-bank-head-extended-prod" title="Kelela - Bank Head (Extended) [Prod. Kingdom]" target="_blank" style="color: #cccccc; text-decoration: none;">Kelela - Bank Head (Extended) [Prod. Kingdom]</a></div>
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vickileekx" title="ViCKILEEKX" target="_blank" style="color: #cccccc; text-decoration: none;">ViCKILEEKX</a> · <a href="https://soundcloud.com/vickileekx/vicki-leekx-vicki-leekx-mixtape" title="VICKI LEEKX -- VICKI LEEKX MIXTAPE" target="_blank" style="color: #cccccc; text-decoration: none;">VICKI LEEKX -- VICKI LEEKX MIXTAPE</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bvmlUDYtjY8" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="knqyK" data-editable="true" data-user="dudleystorey" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -306,7 +323,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
   </div>
 </div>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZmPfxMBNilg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZmPfxMBNilg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="457" src="https://www.youtube.com/embed/QzK-fn9NaCE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/ZpIkc7KlqZw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4I3CovIKJWE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
