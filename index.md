@@ -209,7 +209,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-
+<iframe width="100%" height="700" src="https://www.youtube.com/embed/pLC9rlHzZJw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <div class='some-page-wrapper'>
   <div class='row'>
