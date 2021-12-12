@@ -164,6 +164,47 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+
+
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://i.ibb.co/wJvpMx2/DEHi-Ji-A-LOVELY.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://i.ibb.co/wJvpMx2/DEHi-Ji-A-LOVELY.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
+
+She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
+
+When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
+
+He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
+
+Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
+
+He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
+
+Confusion
+
+He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
+
+On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
+
+Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
+
+Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
+
+just my view on thangs - Dehejia	
+</div>
+
+
 <a href="https://board.okayplayer.com/okp.php?az=show_mesg&forum=20&topic_id=7575&mesg_id=7589&page=" >###OKAY_PLAYER_SLUM_VILLAGE_ENTRY_BY_MY_DEPARTED_FRIEND##ALPHONSO_GREGORY##</a>
 Check it my flow be 3 parts like a Trinity
 But me be one man rolling through Infinity\
@@ -244,12 +285,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/113287278&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fadetomind" title="FadetoMind" target="_blank" style="color: #cccccc; text-decoration: none;">FadetoMind</a> · <a href="https://soundcloud.com/fadetomind/kelela-bank-head-extended-prod" title="Kelela - Bank Head (Extended) [Prod. Kingdom]" target="_blank" style="color: #cccccc; text-decoration: none;">Kelela - Bank Head (Extended) [Prod. Kingdom]</a></div>
 <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vickileekx" title="ViCKILEEKX" target="_blank" style="color: #cccccc; text-decoration: none;">ViCKILEEKX</a> · <a href="https://soundcloud.com/vickileekx/vicki-leekx-vicki-leekx-mixtape" title="VICKI LEEKX -- VICKI LEEKX MIXTAPE" target="_blank" style="color: #cccccc; text-decoration: none;">VICKI LEEKX -- VICKI LEEKX MIXTAPE</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/bvmlUDYtjY8" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="knqyK" data-editable="true" data-user="dudleystorey" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/dudleystorey/pen/knqyK">
-  Fullscreen HTML5 Page Background Video</a> by Dudley Storey (<a href="https://codepen.io/dudleystorey">@dudleystorey</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -267,23 +303,8 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 	<iframe width="100%" height="315" src="https://cdn3-www.musicfeeds.com.au/assets/uploads/5102ecd3d47f6561de70979017b87a801-640x360.jpg" scrolling="no"  frameborder="0"  allowfullscreen></iframe>
 	</div>
 </div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pe7mk5M9OK8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lo0X2ZdElQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/CFtsHf1lVI4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYLBwdaPiZI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/4BQx0p1nVzg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="508" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/K0-Uvvb2QqU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/NT6J4kMLAas" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jnb6T7608RU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XaFbY1Fn9JQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/583566769?h=5ae16cdf3e&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="504" src="https://www.youtube.com/embed/q-yYwKYqtsU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
+
 
 <a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
  <div class='row'>
@@ -299,6 +320,21 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
     </div>
     </div>	
   </div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pe7mk5M9OK8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lo0X2ZdElQ4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CFtsHf1lVI4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EYLBwdaPiZI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/4BQx0p1nVzg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="508" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/z24IhoBOI68" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K0-Uvvb2QqU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NT6J4kMLAas" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Jnb6T7608RU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XaFbY1Fn9JQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dnV-O6gC3jY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="504" src="https://www.youtube.com/embed/q-yYwKYqtsU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/p578E7tC9EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/juqws1LIH-I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="500" height="315" src="https://www.youtube.com/embed/2klTw123_jw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/TwYz5iI7pm0" title="YouTube video player" frameborder="0"allowfullscreen></iframe>
@@ -439,26 +475,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XzQMn5Tm8gM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0TBkSRPDXME" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <a href="https://babysizer.com/?ref=discuvver" > ##BABYSIZER##Quite_well_designed_the_coupons-fuck_us_up-tho </a>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="WNZxOOx" data-editable="true" data-user="cjgammon" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/cjgammon/pen/WNZxOOx">
-  gradient mesh</a> by CJ Gammon (<a href="https://codepen.io/cjgammon">@cjgammon</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="GRMqwdK" data-editable="true" data-user="Calleb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Calleb/pen/GRMqwdK">
-  UFO with Ease (codepenchallenge)</a> by Calle (<a href="https://codepen.io/Calleb">@Calleb</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="dpZVOr" data-editable="true" data-user="luke__duncan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/luke__duncan/pen/dpZVOr">
-  HTML5 Audio Player</a> by Luke Duncan (<a href="https://codepen.io/luke__duncan">@luke__duncan</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p><a href="https://vimeo.com/153849913">Surfing Stockshots</a> from <a href="https://vimeo.com/timbonython">Tim Bonython</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -554,34 +571,6 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sqhqb6utjxe38qgr920211209204127?height=2048&source=spaceship&width=2048&s=617c137d21b7ba5d6ec7b66f8be27f007d12b87d&Expires=1639086148&Signature=Xh1bE3ypIDs1Z0fmxwTTZDxd-wPARlXc8B1NmGtSx2Irxu8bD~-Z4cR0aJbg6aLRvXSr1BdFySgKzz5HGCzogsZTrCkNrDMhr3Sg3wPqDd3h0uPQflqHUlduZI-tajdLK4~T5ksn~IdAyPPdMXjUrPmgLMC8oXk1Fzp-4Q-Uyh198PmZjk28FoGwI53uotvxlG8WuIeW4uudUbil-M3jmABdw2e8B6TbyedJdD-APCT54va2p78~PAY0EAOeFKV2nR~DTu9Z-N6Ef0Hig7XPaZ8LDhQmH0im8Hyng3iktwTMUSNyLqQCzDuROqxpRTXzRBauqZmJfkN9BMejm27kOg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
   </a>
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="prMyrO" data-editable="true" data-user="morimiko" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/morimiko/pen/prMyrO">
-  Accordion Menu + Tooltip</a> by mori (<a href="https://codepen.io/morimiko">@morimiko</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="NoKOrE" data-editable="true" data-user="liquidcharcoal" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/liquidcharcoal/pen/NoKOrE">
-  CSS Only Accordion Menu</a> by PARTH PATEL (<a href="https://codepen.io/liquidcharcoal">@liquidcharcoal</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="QPvjQJ" data-editable="true" data-user="rssabbir" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/rssabbir/pen/QPvjQJ">
-  Amazing accordion menu using only HTML &amp; CSS</a> by Rs Sabbir Ahmed (<a href="https://codepen.io/rssabbir">@rssabbir</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<div id="box-shadow"> 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="aOoBXq" data-editable="true" data-user="samarkandiy" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/samarkandiy/pen/aOoBXq">
-  Animate sprite with CSS</a> by Avaz Bokiev (<a href="https://codepen.io/samarkandiy">@samarkandiy</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-  </div>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
-<amp-iframe width=100% height=620 sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" resizable frameborder="0" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark"> <amp-img layout="fill" src="https://rebed.redditmedia.com/assets/03657792c480fd6bbb7bef821c859742.svg" placeholder></amp-img> <div overflow>Click to expand</div> </amp-iframe>
 ![DREEZY_IS_HIS_WIFE](https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sjzxd9o4v1b8x4pbh20211209191816?height=2048&source=spaceship&width=2048&s=e898eadaf2e90a6453b4e4cbd3b3ca3e5a67f8b9&Expires=1639081101&Signature=gUqZ2nQT9AKhOkEhyhRIcNqv660GLaaX~fV1PKJconQndLf4wCn7t7C2SDpAof4UjYgsmgvocIvcHtl60XPDsRWox3cKI3dqB0VRgCMJAKqCxmK1TLzzX3K2mexfmiUjj~KhFQ2CvQrqwAP34BfM99PZG0BRbPmPtGxdRGSfjhcte9jpTRR-ID8Mu2Eu7nZvO80~G7dBy9lOCpSUhvbZt1ji4ZZcVFUugIPf-A3yciSWAmTd8-DGOrPyRyEw-w-m0wc8nY2d~iOPyF7ZnbZjyuQ6fQbe6p2m3AvqxJ5wnasqgg3jgcWO4cCIa539F~Rp-djjg9Z42aOGp2PzofrViw__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ)
 <iframe height="300" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/suez/pen/GJKRPN">
@@ -589,52 +578,6 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 <img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/s5h3kpkljjeo4134l20211209185320?height=2048&source=spaceship&width=2048&s=7c2d8359b221cc60d37994c95878ff3e98537aac&Expires=1639079610&Signature=gzehJ~JE8AD1B8490aoh37~af0IyNGj4htu~qFgBg8b5NmJoS-FWWZyEcVMBL4PHOAuy27WjrD~wqBIb0ozmB0a5E3DSOg-8veRlmaqGo~IINLMG1BqHtUmWu0SlZSawoDGL5n5Qv80qpiWA~C1Ggnr9v6Dj23s54Gdc~v56XYj~Xiea-DyGPvLu0cwsjGy9bnAfvbIPrOzCgi0e0i1P7tD9ABz1C3BKFlxnfPpRlXQhBqZMAoLm6QXzrri1WgkEG5yWrQ-W3bIhyLY7Fh9A~tltHQxhCmR8rTNXi8-qhnB52pA~9mD-Sy8moizSaW1evJX1in~fEHPTQZnwMH8IDA__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" >
-<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
-<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="lEDBj" data-editable="true" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Rplus/pen/lEDBj">
-  [PURE CSS] border animation without svg</a> by Rplus (<a href="https://codepen.io/Rplus">@Rplus</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="lEDBj" data-user="Rplus" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Rplus/pen/lEDBj">
-  [PURE CSS] border animation without svg</a> by Rplus (<a href="https://codepen.io/Rplus">@Rplus</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
-
-<article>
-  <pre>           ________
-     ,        ,                                                    
-      {\      /}   MITT ROMNEY SEEMS LIKE A NICE GUY I SUPPOSE     
-     {~ \ ,__/~}                                                   
-     {~= ;`'_)=}    BUT I THINK IT'S ALL AN ACT                    
-     `{~,;) \~}                                                    
-       `;/ \)=-"   IN HIS HEART I BET HE'S A CHEST-CRAPPER         
-      ~~( )/`=="                                                   
-        /))         THAT MEANS SOMEONE WHO CRAPS ON PEOPLES' CHESTS
-jgs     \\\                                                        
-         ``"       (USUALLY WITHOUT PERMISSION) 
-   [_((==)[`-----"](==)j
-      I--I"~~"""~~"I--I
-      |[]|         |[]|
-      l__j         l__j                                                                   'Iw --> <a href="https://edition.cnn.com/style/article/star-trek-klingon-marc-okrand/index.html"> KLiNGON_IS_STOLEN_EAST_AFICAN_LANGUAGE</a>
-      |!!|         |!!|
-      |..|         |..|
-      ([])         ([])
-      ]--[         ]--[
-      [_L]         [_L]
-     /|..|\       /|..|\
-    `=}--{='     `=}--{='
-   .-^--r-^-.   .-^--r-^-.
-</pre>
-  
-</article>
-## HOW_DO_YOU_POST##
-
-![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
-
 
 â€œEverything should be done in love.â€ â€” 1 Corinthians 16:14
 
