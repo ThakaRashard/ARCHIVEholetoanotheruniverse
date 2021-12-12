@@ -156,9 +156,8 @@ Hole To Another Universe
   <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##############היים##</a></li>
   <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
   <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
-  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
-</ul><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
-
+  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ####</a></li>
+</ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
