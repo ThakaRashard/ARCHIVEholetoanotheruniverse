@@ -162,6 +162,44 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+<a href="https://board.okayplayer.com/okp.php?az=show_mesg&forum=20&topic_id=7575&mesg_id=7589&page=" >###OKAY_PLAYER_SLUM_VILLAGE_ENTRY_BY_MY_DEPARTED_FRIEND##ALPHONSO_GREGORY##</a>
+Check it my flow be 3 parts like a Trinity
+But me be one man rolling through Infinity\
+I walk miles and miles through Slum Villages
+Looking for MC�s to start scrimmages\ But they
+styles is all Tainted so when I came with the realness
+they all fainted\ They hearts are weak like heart attack patients\
+My flows like blood they just couldn�t take it\
+The blood I pump its turns to acid burning you Kats
+with my hot classics\ I call you Kats XBOX�s
+because your games can fit in my pocket\ Moving through
+engines like a piston my style you can call it mad Precision\
+I�m built Ford tough but I�m Focused\ No smoking mirrors no hocus-pocus
+My flows no joke like the city of Detroit wrote this\ Writing rhymes heavy like
+T3, Baatin, and Elzhi\ I be the rhyme synthesizer I size up rhymes to make
+them liver so when I cut ya it feels like the barber\
+My competition had them all wishing that I would quite this game because I got them
+all looking lame like kids walking cripple my girl she got big nipples and she
+throws fits when she thinks she got a big pimple those holes in her face are called
+dimples\ Most of you Kats got holes in your rhymes and that�s why the XBOX is
+Mine
+
+
+
+"Thoughts and dreams drip from your mouth, onto my tongue, down my throat to my heart"-symphonygoddess
+
+"I wish I wasn't me sometimes"-BiLal
+
+"The slowest melodies coated me, soothing rhythms stoked the fire in my belly, music was the lamb that made a loin out of me"-esthero
+
+Po'ADDiX http://www.geocities.com/sb202us/index.htm 
+
+"Thoughts and dreams drip from your mouth, onto my tongue, down my throat to my heart"-symphonygoddess
+
+"I wish I wasn't me sometimes"-BiLal
+
+
+
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
