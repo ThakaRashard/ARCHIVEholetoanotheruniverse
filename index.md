@@ -157,7 +157,7 @@ Hole To Another Universe
   <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
   <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
   <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
-</ul>
+</ul><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 <script language="javascript">
 alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
 </script>
