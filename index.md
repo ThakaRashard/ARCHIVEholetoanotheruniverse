@@ -164,7 +164,7 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
-<div><img "https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg ></img>
+<div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" ></img>
 	
 <b> An Unexpected Aurora over Norway </b> <br> 
 <b> Image Credit & Copyright: </b> 
