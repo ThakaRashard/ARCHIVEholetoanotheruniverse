@@ -145,7 +145,26 @@ li a:hover {
 	
 	
 </style>
-</head><div>
+</head>
+<span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
+
+## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+
+Hole To Another Universe  
+<ul>
+  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##############היים##</a></li>
+  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
+  <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
+  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
+</ul><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+<script language="javascript">
+alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
+</script>
+##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
+
+# LATEST_POST ############# ~>
+<div>
  <div class='row'>
     <div class='column'>
       <div class='blue-column'>
@@ -191,24 +210,6 @@ just my view on thangs - Dehejia
 
 
   </div>
-<span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
-
-## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-
-Hole To Another Universe  
-<ul>
-  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##############היים##</a></li>
-  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
-  <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
-  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ######</a></li>
-</ul><a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
-<script language="javascript">
-alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu_HAYAT_and_MEYU... Thats my close family, wives, mother-in-law, daughters, sons##KIDNAPPERS_SEPARATED_US")
-</script>
-##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
-
-# LATEST_POST ############# ~>
 <iframe width="100%" height="700" src="https://www.youtube.com/embed/pLC9rlHzZJw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <div class='some-page-wrapper'>
