@@ -149,7 +149,7 @@ li a:hover {
 <span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+
 
 Hole To Another Universe  
 <ul>
@@ -164,6 +164,8 @@ alert("Hello there, Im Looking for Coral, Saattu, Erika, Jackson, and Muna_Jabdu
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 
 # LATEST_POST ############# ~>
+ <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO </a><iframe srhttp://www.wefunkradio.com/song/436_am?style=embed1c="http://www.wefunkradio.com/song/436_am?style=embed1" style="width:100%;height:120px;border:0;overflow:hidden"></iframe> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div>
  <div class='row'>
     <div class='column'>
