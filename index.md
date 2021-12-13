@@ -245,7 +245,7 @@ Sartu's bizarre and nearly deadly affair with Travis, left me without anything t
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vMaJC4ZiahQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=IGlJeDmq50Q" >[RAiNY_DAYZ_FEAT.GHOSTFACE]</a>
 </div>
-<a class="left" href="http://www.hiphoparea.com/breakdance"> Taken from hiphoparea.cOm </a>
+<a class="right" href="http://www.hiphoparea.com/breakdance"> Taken from hiphoparea.cOm </a>
 <div>
 <img class="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Downrock.jpg?1639357739125" alt="Floor RocKER" /> 	
 <span class="firstcharacter">I</span>n 1969, when James Brown was getting down with his big hit "Get on the Good Foot" the big dance style of the day appeared. This almost acrobatic dance became rather well known around New York City: kids in New York were doing the Good Foot - better known as B-Boy(the 'B' in b-boy usually doesn't correspond to a specific word, but most likely means "Boogaloo" or "Break") - which was the direct precursor to the sort of breakdancing we know today. As for origins it was the African people's dance culture which brought the heavy rhythm and the idea of dancing in a circle, but it was definitely a variety of influences that made up early B-Boying including gymnastics, Eastern martial arts, tap dance, Salsa, Afro-Cuban and Native American dances. One of the most influential dances was a South American martial arts/fighting dance known as the Capoeira.
