@@ -253,7 +253,7 @@ Sartu's bizarre and nearly deadly affair with Travis, left me without anything t
 <div>
 <a href="http://www.hiphoparea.com/breakdance"> Taken from hiphoparea.cOm </a>
 </div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/n5NYrVvTZFM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/oxS_r_EMq80" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <div>
 <img class="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Downrock.jpg?1639357739125" alt="Floor RocKER" /> 	
