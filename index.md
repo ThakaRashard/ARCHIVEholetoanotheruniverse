@@ -243,7 +243,10 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
-## <h1 class="firstcharacter">##YOUTUBE_IS_SLOWING_US_DOWN#PLEASE_BE_PATIENT_AND_SHAKE_YOUR_SCROLLBAR_OR_SUMTHIN!##SARTU_AND_I_POSTED_SOME_GREAT_VIDEOS##ALICIA_KEYS_NEW_VIDEO_IS_UP
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FUYarKCTvIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/S9e7zXKNNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/39ke19-I4hY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1 class="firstcharacter">I miss my daughter##CORAL_IRIS_KELLY## </h1>
 <iframe width="100%" height="222" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276884963&color=%2300ff01&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/miauk" title="MIA" target="_blank" style="color: #cccccc; text-decoration: none;">MIA</a> · <a href="https://soundcloud.com/miauk/bird-song-blaqstarr-remix" title="Bird Song (Blaqstarr Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Bird Song (Blaqstarr Remix)</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ExNRLBrXPxI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/G3YMetkYn_c" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
