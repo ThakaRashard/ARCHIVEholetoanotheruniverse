@@ -243,6 +243,12 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hSTzr2V4KMw" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1POru2g5mQU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NbkQ6J_rM6s" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/J5t4efgR51M" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2iAVQ5qEqvA" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D8rG_2ed1wg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1eNA0RBueoY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/Gmk31TW0pXI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/j3kMvvg2H8g" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
