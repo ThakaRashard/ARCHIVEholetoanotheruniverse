@@ -242,10 +242,10 @@ Hole To Another Universe
 ## ##DEAR_WiLLOW
 ### I_WiSH_I_HAD_A_PAiR_OF_HEADPHONES_AND_A_MUSiC_PLAYER 
 Sartu's bizarre and nearly deadly affair with Travis, left me without anything to access the internet and the cyberbullying from the social media companies has turned hundreds possibly thousands into "KEEP##THAKA_OFF_THE_INTERNET##ZOMBiES"! Im in the mood for this classic. Maybe I can get some studiotime with your dad someday as his DJ.
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vMaJC4ZiahQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vMaJC4ZiahQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=IGlJeDmq50Q" >[RAiNY_DAYZ_FEAT.GHOSTFACE]</a>
 </div>
-<div class="right" >
+<div>
 <a href="http://www.hiphoparea.com/breakdance"> Taken from hiphoparea.cOm </a>
 </div>
 <div>
