@@ -243,6 +243,7 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kC2QK6KHnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="http://wallachprintsandphotos.nypl.org/images/3.jpg"></img>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/711410224&color=%23ff00e0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-581138477" title="Y0ひNG$ひAVE" target="_blank" style="color: #cccccc; text-decoration: none;">Y0ひNG$ひAVE</a> · <a href="https://soundcloud.com/user-581138477/zip-em-up-fredowitthejuice-x-quanny-supreme" title="Zip Em Up - Fredowitthejuice x Quanny Supreme" target="_blank" style="color: #cccccc; text-decoration: none;">Zip Em Up - Fredowitthejuice x Quanny Supreme ####THIS_MUSIC_IS_SCARILY_MURDEROUS####</a></div>
 <a href="https://www.youtube.com/watch?v=RyZU9ptzy68" target="_blank">##IAMAMEYEWHOAMEYE##LOOKS_LIKE_ANGELA_CANTOR_FROM_GEORGIA_TECH##DEKAY##DO_YOU_KNOW_HER?##</a>
@@ -793,15 +794,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p><a href="https://vimeo.com/651386804">Takeover</a> from <a href="https://vimeo.com/newyorktimes">The New York Times</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-RbSogwKY94" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/esQXF9UGFw0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/F4_3TO7jH04" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LMkJZqVnx0s" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XHrskkHf958" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/GAWHzGNcTEw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ScMJrK5bQDg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+
 <li><a href="https://www.rferl.org/a/exiled-jehovahs-witness-i-dont-know-what-the-russian-government-is-doing-/29917297.html">1 # Exiled Jehovah's Witness: 'I Don't Know What The Russian Government Is Doing'</a>  
 	![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
 
