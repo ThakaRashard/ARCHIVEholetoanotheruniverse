@@ -243,6 +243,9 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
+<a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/bVV8tMO9kMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="285" src="https://www.youtube.com/embed/UnX47Odz3z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="%100" height="515" src="https://www.youtube.com/embed/wLH1QBc3zzc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
   <a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
   <iframe width="100%" height="500" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346138113&color=%23ff00e0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thejezabels" title="thejezabels" target="_blank" style="color: #cccccc; text-decoration: none;">thejezabels</a> · <a href="https://soundcloud.com/thejezabels/long-highway" title="Long Highway" target="_blank" style="color: #cccccc; text-decoration: none;">Long Highway</a></div>
