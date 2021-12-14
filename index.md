@@ -243,6 +243,7 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OTnH3zs8wRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://youtu.be/i3_dOWYHS7I" target="_blank">    <img src="https://img.discogs.com/CTg4315jjTtj8m-DrlrenypZDEc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227020-1301243535.jpeg.jpg"> </a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1esf0efHbjM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/eLbmdG8U60E" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
