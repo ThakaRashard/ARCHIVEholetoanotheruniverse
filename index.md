@@ -244,7 +244,6 @@ Hole To Another Universe
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_4853931?widget_id=55&pwc[song_ids]=23607706&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/BWs3fs9nnzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -260,8 +259,7 @@ Hole To Another Universe
   </div>
 </div>
 <a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
-
-  <a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
+<a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
 https://copperhead.co/#training --> ##IM_LIVING_IN_SANTA_CLARITA_CALITHOPIA##CALIFORNIA_FEDERALLY_and_US_JURISDICTIONALLY##
 I was attacked while sleeping in front of <a href="https://btohome.org/"> BRIDGE TO HOME. Its a housing assistance and homeless recovery agency thats community funded and approved. Its raining and I have an appointment, so I slept in front of the door. To keep myself progressive, I practice my programming by working on my <a 
 <iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296704981&color=%2300a3ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lapalux" title="Lapalux" target="_blank" style="color: #cccccc; text-decoration: none;">Lapalux</a> · <a href="https://soundcloud.com/lapalux/straight-over-my-head" title="Straight Over My Head" target="_blank" style="color: #cccccc; text-decoration: none;">Straight Over My Head##BETHANY_SELASSIE##I_LOVE_YOU_COMPLETELY##</a></div>
@@ -531,7 +529,6 @@ just my view on thangs - Dehejia
 
 
   </div>
-<iframe width="100%" height="700" src="https://www.youtube.com/embed/pLC9rlHzZJw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <div class='some-page-wrapper'>
   <div class='row'>
