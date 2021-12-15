@@ -243,6 +243,7 @@ Hole To Another Universe
 </ul>
 ##START#######MMAKING_PLANS_##4_SAATU####TUPAC_PLEASE_GUIDE_ME
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mJIbNepRCS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b7k0a5hYnSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WaQTwVPvCAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kC2QK6KHnEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
