@@ -243,6 +243,7 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/r4J5nKy6dDw" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_4853931?widget_id=55&pwc[song_ids]=23607706&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
 <div class='some-page-wrapper'>
   <div class='row'>
