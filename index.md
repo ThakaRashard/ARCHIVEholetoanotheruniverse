@@ -244,6 +244,7 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>
 <iframe src="https://archive.org/embed/illustratorv55_mac" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<a href="https://adobe.fandom.com/wiki/Adobe_Illustrator_5"><img src="https://raw.githubusercontent.com/ThakaRashard/hole_to_another_universe_blog/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png"></img></a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r4J5nKy6dDw" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_4853931?widget_id=55&pwc[song_ids]=23607706&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
 <div class='some-page-wrapper'>
