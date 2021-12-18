@@ -185,8 +185,7 @@ li a:hover {
 	
 	
 .some-page-wrapper {
-  margin: 15px;
-  background-color: ##23b2ff;
+
 }
 
 .row {
@@ -243,6 +242,22 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kxESbKORdc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Ct0bGQJgRtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://t2.genius.com/unsafe/891x0/https%3A%2F%2Fimages.genius.com%2Fe26d135ae13aed3f34deac6f6f818198.1000x1000x1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://t2.genius.com/unsafe/891x0/https%3A%2F%2Fimages.genius.com%2Fe26d135ae13aed3f34deac6f6f818198.1000x1000x1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kxESbKORdc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_ZMfQ0Aj7h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://adobe.fandom.com/wiki/Adobe_Illustrator_5"><img src="https://raw.githubusercontent.com/ThakaRashard/hole_to_another_universe_blog/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png"></a>
