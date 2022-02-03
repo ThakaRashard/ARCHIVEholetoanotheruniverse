@@ -343,7 +343,6 @@ Powered By <a href="http://treez.io/" style="color:#6EBD46">Treez, Inc</a> © 20
     </div>
   </div>
 </div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kxESbKORdc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_ZMfQ0Aj7h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://adobe.fandom.com/wiki/Adobe_Illustrator_5"><img src="https://raw.githubusercontent.com/ThakaRashard/hole_to_another_universe_blog/gh-pages/Illustrator_v5.5_Disk_1_Installer_0199_7626Adobe_Systems_Inc.May_1994_Front_1000x.png"></a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r4J5nKy6dDw" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
