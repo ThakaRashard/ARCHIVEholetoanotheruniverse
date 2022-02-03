@@ -291,9 +291,11 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'
 <div id="neonText">
-Can Class Action Lawsuits Be Brought in Sexual Abuse Cases?
+<span class="neonText"> Can Class Action Lawsuits Be Brought in Sexual Abuse Cases?  </span>
 	</div>
 <span class="firstcharacter">When</span>there are multiple individuals affected by the single or group of abusers in sexual crimes, it is sometimes possible to initiate a class action lawsuit when the statute of limitations does not pass. It is important that the victims band together and provide incontrovertible evidence to increase the strength of the claim.
+[DEAR_SARTU##DEAR_ERIKA##DEAR_MUNA##DEAR_LEELAHBAELAH##DEAR_LAREN##DEAR_LAURA##DEAR_RIHANNA##DEAT_SUMMER](https://www.hg.org/legal-articles/can-class-action-lawsuits-be-brought-in-sexual-abuse-cases-49735)
+[##HOW_CAN_I_SAY_THIS##LETS_FIGHT_##DFACS##TO##GET_##CoRAL_aka_LARoC##BACK](https://www.hg.org/legal-articles/prostitution-in-the-united-states-30997)
 
 ##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
 <div class="gradient-border" id="neon_box"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1nwbuMqH2bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
