@@ -156,8 +156,9 @@ img {
       0 0 82px #0fa,
       0 0 92px #0fa,
       0 0 102px #0fa,
-  
-}	
+      0 0 151px #0fa;
+}
+	
 	
 li a:hover {
  color: #c9ff23;
@@ -271,22 +272,31 @@ li a:hover {
 	
 </style>
 </head>
-<span class="neonText">  # #!/usr/bin/ruby -w --debug  </span>
+
+<div id="neonText">
+    # #!/usr/bin/ruby -w --debug 
+</div>
+<span class="neonText"> span </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
 
 Hole To Another Universe  
 <ul>
-  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG##############היים##</a></li>
-  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME###################################</a></li>
-  <li><a href="#contact">3 # ANOTHER###SANDBOX################################</a></li>
-  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ####</a></li>
+  <li><a href="#home">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
+  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
+  <li><a href="#contact">3 # ANOTHER###SANDBOX#############################</a></li>
+  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 
 # LATEST_POST ############## ~>'
+<div id="neonText">
+Can Class Action Lawsuits Be Brought in Sexual Abuse Cases?
+	</div>
+<span class="firstcharacter">When</span>there are multiple individuals affected by the single or group of abusers in sexual crimes, it is sometimes possible to initiate a class action lawsuit when the statute of limitations does not pass. It is important that the victims band together and provide incontrovertible evidence to increase the strength of the claim.
+
 ##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
-<div class="gradient-border" id="neon_box"><iframe width="560" height="315" src="https://www.youtube.com/embed/1nwbuMqH2bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="gradient-border" id="neon_box"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1nwbuMqH2bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="gradient-border" id="neon_box"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/LyrGXnpSlIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <div> <span style="font-color: #c9ff23">blue 
