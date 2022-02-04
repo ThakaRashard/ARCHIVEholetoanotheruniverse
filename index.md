@@ -303,6 +303,36 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_THAKA_SARTU_ERIKA_CORAL_MEYU_AND_JABDU_WILL_BRING_A_SUCCULENT_APPLEBOTTOMFREE_MUNIFUL_TO_YOU##
+	<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+      <a href="https://www.youtube.com/watch?v=7TRStCd7qYU">  <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="Girl in a jacket" >  </a>
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+       <a href="https://www.youtube.com/watch?v=rOGWygPcv78> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="Girl in a jacket" > </a>
+      </div>
+    </div>
+  </div>
+</div>
+	
+	
+	<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+      <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc">  <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >  </a>
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+       <a href="https://youtu.be/ZmPfxMBNilg> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kWkKdJ-OVyI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/JBaV6uQyE1U" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="275" src="https://www.youtube.com/embed/5qap5aO4i9A" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
