@@ -307,12 +307,12 @@ Hole To Another Universe
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
-      <a href="https://www.youtube.com/watch?v=7TRStCd7qYU">  <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="Girl in a jacket" >  </a>
+      <a href="https://www.youtube.com/watch?v=7TRStCd7qYU">  <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" >  </a>
       </div>
     </div>
     <div class='column'>
       <div class='green-column'>
-       <a href="https://www.youtube.com/watch?v=rOGWygPcv78> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="Girl in a jacket" > </a>
+       <a href="https://www.youtube.com/watch?v=rOGWygPcv78> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
       </div>
     </div>
   </div>
