@@ -286,10 +286,10 @@ li a:hover {
 </style>
 </head>
 
-<div id="neonText">
+<span class="neonText">
     # #!/usr/bin/ruby -w --debug 
-</div>
-<span class="neonText"> span </span>
+< / d i v>
+<> span </span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
@@ -337,7 +337,7 @@ Here I go again
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/tld1o5pjdB0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/2BqAfsLbHJ4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 [##HAILEY_IS_MY_WIFE##IN_CHALLENGING_MY_OPENESS_AND_WILLINGNESS_TO_ACCEPT_EVERYONE_SIMULTANEOUSLY##](https://www.youtube.com/channel/UCdeGMtF2xelP7Od2ofdP0qg)
-<iframe width="100" height="300" src="https://www.youtube.com/embed/fPfZTXQLEjI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/fPfZTXQLEjI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/foTgYYQniJ0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div id="neonText">
 <span class="neonText"> Can Class Action Lawsuits Be Brought in Sexual Abuse Cases?  </span>
