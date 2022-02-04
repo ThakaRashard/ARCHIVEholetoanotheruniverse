@@ -1,6 +1,19 @@
 <head>
 
 <style>
+	
+h2{
+font-size: 20px;
+font-family:  Tahoma, Verdana, Segoe;
+color: #fff;
+ padding: 0px;
+  margin: 0px;
+text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
+text-align: center;
+background: black;
+}	
+	
+	
 body {
 	font-smooth: never;
 -webkit-font-smoothing : none;
@@ -290,6 +303,35 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ExXt21DDDY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdBOwOG" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/mdBOwOG">
+  NEON TEXT </a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<h2> [Hook: Rell]
+Came up out the darkness, searching for light
+I know home is where my heart is
+And now nothing seems right
+I tried to make peace and cut my losses
+And carry on somehow
+But I've come much too far, man
+Too late to turn back now, here I go again
+Here I go again
+Here I go again
+Here I go again
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/fAQ_C2-ohI4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="270" src="https://www.youtube.com/embed/brNtbaMadX4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/tld1o5pjdB0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
