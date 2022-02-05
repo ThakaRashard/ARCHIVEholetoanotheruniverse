@@ -303,6 +303,11 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_THAKA_SARTU_ERIKA_CORAL_MEYU_AND_JABDU_WILL_BRING_A_SUCCULENT_APPLEBOTTOMFREE_MUNIFUL_TO_YOU##
+	<span class="neonText">
+   ##DEAR_CORAL##aka##LAROC##I_WAS_JUST_SHARING_AND_HAVING_FUN##SORRY_ABOUT_THE_HEARTBREAK_FROM_THE_SINGERS_OF_OUR_FAVORITE_SONGS##ITSOOHKAYDAD##HOLLYWOOD##BIGRED## </span>
+	<iframe width="100%" height="315" src="https://www.youtube.com/embed/uHbpDAXC14A" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+	
+	https://youtu.be/QaR843im04A
 	<div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -312,7 +317,7 @@ Hole To Another Universe
     </div>
     <div class='column'>
       <div class='green-column'>
-       <a href="https://www.youtube.com/watch?v=rOGWygPcv78> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+       <a href="https://www.youtube.com/watch?v=rOGWygPcv78"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
       </div>
     </div>
   </div>
@@ -323,12 +328,12 @@ Hole To Another Universe
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
-      <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc">  <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >  </a>
+      <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc">  <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" >  </a>
       </div>
     </div>
     <div class='column'>
       <div class='green-column'>
-       <a href="https://youtu.be/ZmPfxMBNilg> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+       <a href="https://youtu.be/ZmPfxMBNilg> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
       </div>
     </div>
   </div>
