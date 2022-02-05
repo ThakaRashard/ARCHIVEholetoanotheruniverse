@@ -304,7 +304,8 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_THAKA_SARTU_ERIKA_CORAL_MEYU_AND_JABDU_WILL_BRING_A_SUCCULENT_APPLEBOTTOMFREE_MUNIFUL_TO_YOU##
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7uvbwpPdM-I" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-	<iframe width="100%" height="300" src="https://www.youtube.com/embed/vsVt0go30EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+	<iframe width="100%" height="300" src="https://www.youtube.com/embed/vsVt0go30EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+	<iframe width="100%" height="315" src="https://www.youtube.com/embed/vsVt0go30EA" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 	<span class="neonText">
    ##DEAR_CORAL##aka##LAROC##I_WAS_JUST_SHARING_AND_HAVING_FUN##SORRY_ABOUT_THE_HEARTBREAK_FROM_THE_SINGERS_OF_OUR_FAVORITE_SONGS##ITSOOHKAYDAD##HOLLYWOOD##BIGRED##
 	</span>
