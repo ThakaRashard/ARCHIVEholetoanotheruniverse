@@ -304,6 +304,12 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME_PUBLICLY##??##
 
+	
+<span class="neonText">
+    ##SAATUZEE_WILL_YOU_MARRY_ME?!
+< / d i v>
+<> span </span>
+	
 [
 [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) [DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
 <iframe width="100%" height="305" src="https://www.youtube.com/embed/9FFHcWusrKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
