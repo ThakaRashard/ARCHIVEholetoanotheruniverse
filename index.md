@@ -303,7 +303,7 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME_PUBLICLY##??##
-
+[THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
 	
 <span class="neonText">
     ##SAATUZEE_WILL_YOU_MARRY_ME?!
