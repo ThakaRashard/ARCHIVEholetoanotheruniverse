@@ -313,6 +313,10 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
 ### 
+
+<span class="firstcharacter">JUSTICE_FOR_SAUTUZEE</span>	
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dTXiH2hRmFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	https://www.fbi.gov/wanted/topten/rafael-caro-quintero
 	https://youtu.be/0DJk7h6uLZw
 [ ##voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE## :^( ](https://www.youtube.com/watch?v=oETVDKbThcE)
 <a href="https://youtu.be/C6fEKP_tlC8"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
@@ -436,7 +440,7 @@ Here I go again
 <iframe width="100%" height="270" src="https://www.youtube.com/embed/brNtbaMadX4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/tld1o5pjdB0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/2BqAfsLbHJ4" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-[##HAILEY_IS_MY_WIFE##IN_CHALLENGING_MY_OPENESS_AND_WILLINGNESS_TO_ACCEPT_EVERYONE_SIMULTANEOUSLY##](https://www.youtube.com/channel/UCdeGMtF2xelP7Od2ofdP0qg)
+(https://www.youtube.com/channel/UCdeGMtF2xelP7Od2ofdP0qg)
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/fPfZTXQLEjI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/foTgYYQniJ0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div id="neonText">
