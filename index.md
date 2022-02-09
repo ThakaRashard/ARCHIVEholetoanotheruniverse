@@ -315,8 +315,10 @@ Hole To Another Universe
 <a href="https://youtu.be/C6fEKP_tlC8"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
 <span class="neonText">
   ##WH0L34LBUM##PORGY&BESS##LOUiS&ELLA##JAZZ##VOCAL##SOUNDTRACK##!
-< / d i v>
-<> span </span>
+	##CLICK_THE_IMAGE_OF_AFFECTION_TO_WATCH##ROMANCE##
+	<> span </span>
+<a href="https://www.youtube.com/watch?v=YIdrZxaP-gE"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/porgy_and_bess_still_splash.jpg" alt="##DORTHY_DANDRIDGE##_and_##SIDNEY_POTIER##" > </a>
+
 <div class='some-page-wrapper'>
 <div class='row'>
     <div class='column'>
