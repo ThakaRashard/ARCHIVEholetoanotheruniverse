@@ -306,7 +306,9 @@ Hole To Another Universe
 <a href="https://youtu.be/C6fEKP_tlC8"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
 <span class="neonText">
   ##WH0L34LBUM##PORGY&BESS##LOUiS&ELLA##JAZZ##VOCAL##SOUNDTRACK##!
- </span>
+< / d i v>
+<> span </span>
+<div class='some-page-wrapper'>
 <div class='row'>
     <div class='column'>
       <div class='blue-column'>
