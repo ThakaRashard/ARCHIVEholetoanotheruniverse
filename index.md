@@ -313,6 +313,9 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
 ### 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mW04Tct60Rg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/T4lnfX4QXUQ" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+[##KiLLER_INSTiNCT_EMULATED_ON_MAME##](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
 [The U.S. National Archives *FLiCKRACCT* ](https://www.flickr.com/photos/35740357@N03/)
 <span class="neonText">
  #somalisong #Oromogirl#quxubesero
