@@ -313,6 +313,7 @@ Hole To Another Universe
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
 ### 
+[The U.S. National Archives *FLiCKRACCT* ](https://www.flickr.com/photos/35740357@N03/)
 <span class="neonText">
  #somalisong #Oromogirl#quxubesero
 <> span </span>
