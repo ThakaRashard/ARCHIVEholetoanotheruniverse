@@ -297,8 +297,7 @@ li a:hover {
 
 <span class="neonText">
  # #!/usr/bin/ruby -w --debug 
-< / d i v>
-<> span </span>
+</span>
 
 ## ONE_DAY_MY_BLOG_WiLL_RETURN TRUE when run from the command line 
 
@@ -312,19 +311,21 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
-### 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/mW04Tct60Rg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/T4lnfX4QXUQ" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/M2c6qblEwnQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/P_Ww0ZXAEsY" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mW04Tct60Rg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/T4lnfX4QXUQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 [##KiLLER_INSTiNCT_EMULATED_ON_MAME##](https://www.thekillerinstinctproject.com/kiproject/kimame.html)
 [The U.S. National Archives *FLiCKRACCT* ](https://www.flickr.com/photos/35740357@N03/)
 <span class="neonText">
  #somalisong #Oromogirl#quxubesero
-<> span </span>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/LAmd1DQaotk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/v9AKH16--VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/qp1Pq2Fuw30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</span>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LAmd1DQaotk" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/v9AKH16--VE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qp1Pq2Fuw30" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <span class="firstcharacter">JUSTICE_FOR_SAUTUZEE</span> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dTXiH2hRmFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dTXiH2hRmFs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
  https://www.fbi.gov/wanted/topten/rafael-caro-quintero
  https://youtu.be/0DJk7h6uLZw
 [ ##voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE## :^( ](https://www.youtube.com/watch?v=oETVDKbThcE)
