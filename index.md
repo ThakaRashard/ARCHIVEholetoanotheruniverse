@@ -477,11 +477,6 @@ Powered By <a href="http://treez.io/" style="color:#6EBD46">Treez, Inc</a> © 20
 <div>
 <a href="http://treez.io/" style="color:#6EBD46">Treez Privacy Policy</a>
 </div>
-</div>
-</div>
-
- 
-</div> 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MGO4_8YRKro" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Pbz2tdXeWY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
