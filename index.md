@@ -363,23 +363,24 @@ Hole To Another Universe
  </div>
  </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0lMNMwTB5M8" title="##SAA2##PLEASE_GUIDE_ME_TO_OUR##MASJiD##" frameborder="0" allowfullscreen></iframe>
-[Spiderman Cartoon- (1967) Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo)
+
+[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo)
+ 
 [THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
  
 <span class="neonText">
  ##SAATUZEE_WILL_YOU_MARRY_ME?!
-< / d i v>
-<> span </span>
+</span>
  
-[
+
 [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) [DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
-<iframe width="100%" height="305" src="https://www.youtube.com/embed/9FFHcWusrKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/SYGgtyalmdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="305" src="https://www.youtube.com/embed/LmuuXJu0z6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/7uvbwpPdM-I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
- <iframe width="100%" height="300" src="https://www.youtube.com/embed/vsVt0go30EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
- 
- ##DEAR_CORAL##aka##LAROC##I_WAS_JUST_SHARING_AND_HAVING_FUN##SORRY_ABOUT_THE_HEARTBREAK_FROM_THE_SINGERS_OF_OUR_FAVORITE_SONGS##ITSOOHKAYDAD##HOLLYWOOD##BIGRED##
+<iframe width="100%" height="305" src="https://www.youtube.com/embed/9FFHcWusrKM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SYGgtyalmdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="305" src="https://www.youtube.com/embed/LmuuXJu0z6w" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7uvbwpPdM-I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/vsVt0go30EA" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
+
+### ##DEAR_CORAL##aka##LAROC##I_WAS_JUST_SHARING_AND_HAVING_FUN##SORRY_ABOUT_THE_HEARTBREAK_FROM_THE_SINGERS_OF_OUR_FAVORITE_SONGS##ITSOOHKAYDAD##HOLLYWOOD##BIGRED##
  
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uHbpDAXC14A" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
  
