@@ -311,6 +311,15 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+
+[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo)
+[THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
+<span class="neonText">
+ ##SAATUZEE_WILL_YOU_MARRY_ME?!
+</span>
+[DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
+[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
+<iframe width="100%" height="305" src="https://www.youtube.com/embed/9FFHcWusrKM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/M2c6qblEwnQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zVc-K1kKkVk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/P_Ww0ZXAEsY" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
@@ -363,18 +372,6 @@ Hole To Another Universe
  </div>
  </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0lMNMwTB5M8" title="##SAA2##PLEASE_GUIDE_ME_TO_OUR##MASJiD##" frameborder="0" allowfullscreen></iframe>
-
-[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo)
- 
-[THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
- 
-<span class="neonText">
- ##SAATUZEE_WILL_YOU_MARRY_ME?!
-</span>
- 
-
-[DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) [DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
-<iframe width="100%" height="305" src="https://www.youtube.com/embed/9FFHcWusrKM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SYGgtyalmdc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="305" src="https://www.youtube.com/embed/LmuuXJu0z6w" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7uvbwpPdM-I" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
