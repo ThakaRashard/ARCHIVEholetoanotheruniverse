@@ -311,8 +311,26 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg
+
+https://i.pinimg.com/originals/9f/9d/d3/9f9dd385a413b293272ced8d44757bcf.jpg
 https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg
-<a href="https://youtu.be/C6fEKP_tlC8"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
+<a href="https://youtu.be/UAi1e7AoEWA"> <img class="bwtocolor" src="https://i.pinimg.com/originals/9f/9d/d3/9f9dd385a413b293272ced8d44757bcf.jpg" alt="##SARTU_I_WANT_TO_SEE_EVERYONE_WE_CAN_MEET_UP_TOGETHER_AND_DIP_OFF_SOMEWHERE_WHEN_EVERYONE_GETS_THIER_HELLO_IN" > </a>
 
 
 
