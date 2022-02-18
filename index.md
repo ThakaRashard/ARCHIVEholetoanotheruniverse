@@ -311,6 +311,8 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+![https://images.squarespace-cdn.com/content/v1/5c0afa8eb98a78f18a84c7d4/1545105829897-55GQUAXRDR6FNZUXN1C3/21803503309_216d7bfc25_k.jpg]
+![https://images.squarespace-cdn.com/content/v1/5c0afa8eb98a78f18a84c7d4/1545105829897-55GQUAXRDR6FNZUXN1C3/21803503309_216d7bfc25_k.jpg](https://images.squarespace-cdn.com/content/v1/5c0afa8eb98a78f18a84c7d4/1545105829897-55GQUAXRDR6FNZUXN1C3/21803503309_216d7bfc25_k.jpg)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/fA6uVrZ3dCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span class="neonText">
  #BELL_LABS##SARTU_IS_IN_TROUBLE_##KENDRICK_IS_FORCING_HER_TO_SHOOT_POERNOGRAPHY 
