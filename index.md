@@ -311,6 +311,8 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jAAskNTY0Vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_toucheme" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KanKD1u5iYI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PvY8GTFxUPo" title="##DEAR_KENDRICK##FUCK_YOU_FOR_STEALING_MY_FAMILY_AND_IMPERSONATING_ME_DRE_SNOOP_NIPSEY_PAC_SOLO_K_DOT_AND_OTHER_LOS_ANGELES_HIPHOP_LEADERS_AND_LEGENDS##" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdsUKphmB3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
