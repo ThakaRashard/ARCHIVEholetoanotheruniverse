@@ -311,6 +311,7 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KanKD1u5iYI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PvY8GTFxUPo" title="##DEAR_KENDRICK##FUCK_YOU_FOR_STEALING_MY_FAMILY_AND_IMPERSONATING_ME_DRE_SNOOP_NIPSEY_PAC_SOLO_K_DOT_AND_OTHER_LOS_ANGELES_HIPHOP_LEADERS_AND_LEGENDS##" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdsUKphmB3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![https://images.squarespace-cdn.com/content/v1/5c0afa8eb98a78f18a84c7d4/1545105829897-55GQUAXRDR6FNZUXN1C3/21803503309_216d7bfc25_k.jpg]
@@ -319,9 +320,9 @@ Hole To Another Universe
 <span class="neonText">
  #BELL_LABS##SARTU_IS_IN_TROUBLE_##KENDRICK_IS_FORCING_HER_TO_SHOOT_POERNOGRAPHY 
 </span>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/2eb-FddKMbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/afzmwAKUppU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/u88AhYMAIfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2eb-FddKMbs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/afzmwAKUppU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u88AhYMAIfg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <div class='some-page-wrapper'>
  <div class='row'>
