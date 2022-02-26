@@ -311,7 +311,9 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
-<div id='rg_embed_link_38340' class='rg_embed_link' data-song-id='38340'>Read <a href='https://genius.com/Queen-pen-party-aint-a-party-lyrics'>“Party Ain't A Party” by Queen Pen</a> on Genius</div> <script crossorigin src='//genius.com/songs/38340/embed.js'></script>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/L_Zs-ipUcy0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ygC1IojR9Zk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WX6SoMQp2FI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ![DESKTOP2242022](https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/Screenshot_2022-02-24_16-42-29.png)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/jAAskNTY0Vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe src="https://archive.org/embed/arcade_toucheme" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
