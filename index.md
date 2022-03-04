@@ -310,7 +310,8 @@ Hole To Another Universe
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 
-# LATEST_POST ############## ~>'##BELL_LABS##IS_HERE_TO_SAY_SARTUZEE_WiLL_YOU_MARRY_ME##??##
+# LATEST_POST ############## ~>'##BELL_LABS####SAID_SAUTUZEE_SAID_YES##??##
+[STEREO_REVIEW_ARCHIVE](https://worldradiohistory.com/Archive-All-Audio/HiFI-Stereo-Review.htm)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/L_Zs-ipUcy0" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ygC1IojR9Zk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WX6SoMQp2FI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
