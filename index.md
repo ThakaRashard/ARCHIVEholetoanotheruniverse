@@ -312,6 +312,8 @@ Hole To Another Universe
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_and_QUBUCKSEE_SAID_YES##??####
 ##SARTUZULAH_IS_MY_THE_MAN_OF_THE_SELASSIE_HOUSEs_WiFE_ASWELL_AS_QUXUBE
+https://youtu.be/GPlzHR_WyVA
+[GRANDMASTER_FLASH_MELLE_MELL_AND_THE_FURIOUS_FIVE](https://youtu.be/DwRXI-y6M9o)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qWHCNieTMg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3eOuK-pYhy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/l0Pu2Rv_sQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
