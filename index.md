@@ -311,7 +311,27 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_and_QUBUCKSEE_SAID_YES##??####
-##SARTUZULAH_IS_MY_THE_MAN_OF_THE_SELASSIE_HOUSEs_WiFE_ASWELL_AS_QUXUBE
+##SARTUZULAHS_SISTER_WIFE_ERIKA_IS_MISSING##LAST_SEEN_WITH_RODRIC_GUCCi_MANe_DAViS
+
+
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://i.etsystatic.com/20347400/r/il/e67d19/2868035079/il_794xN.2868035079_ol8q.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://i.etsystatic.com/20347400/r/il/e67d19/2868035079/il_794xN.2868035079_ol8q.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+
 https://youtu.be/GPlzHR_WyVA
 [GRANDMASTER_FLASH_MELLE_MELL_AND_THE_FURIOUS_FIVE](https://youtu.be/DwRXI-y6M9o)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qWHCNieTMg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
