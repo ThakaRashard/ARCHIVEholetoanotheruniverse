@@ -313,7 +313,20 @@ Hole To Another Universe
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_and_QUBUCKSEE_SAID_YES##??####
 ##SARTUZULAHS_SISTER_WIFE_ERIKA_IS_MISSING##LAST_SEEN_WITH_RODRIC_GUCCi_MANe_DAViS
 
-
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://www.victoriassecret.com/p/760x1013/tif/b2/9c/b29c194106fa4be6940fd09bc7a08f05/1117127818M2_OM_B.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://www.victoriassecret.com/p/760x1013/tif/78/64/7864d0e0f2e442e0a91ef4864fdfff81/1117127818M2_OM_F.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
 
 <div class='some-page-wrapper'>
  <div class='row'>
