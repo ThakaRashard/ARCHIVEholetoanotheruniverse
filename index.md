@@ -311,6 +311,10 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_and_QUBUCKSEE_SAID_YES##??####
+https://www.youtube.com/watch?v=H5O9rd9NuMg&t=2s
+https://www.youtube.com/watch?v=Ttb8tcdE0PA&t=786s
+https://www.youtube.com/watch?v=x827FWFWGi8
+https://www.youtube.com/watch?v=ecFE-WOJLxA
 ##SARTUZULAHS_SISTER_WIFE_ERIKA_IS_MISSING##LAST_SEEN_WITH_RODRIC_GUCCi_MANe_DAViS
 
 <div class='some-page-wrapper'>
