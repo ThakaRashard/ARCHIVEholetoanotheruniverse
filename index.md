@@ -311,6 +311,10 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##PLEASE_FREE_BRANDY_NORWOOD##??####
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YMPF6lpM0XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ZbpONp5j8fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## HeKNows##
+<iframe width="100#" height="315" src="https://www.youtube.com/embed/jYdaQJzcAcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mFI4LFbOeDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/391c5nWG5-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SLNsa4vUIBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
