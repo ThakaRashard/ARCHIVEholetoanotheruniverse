@@ -311,6 +311,8 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##PLEASE_FREE_BRANDY_NORWOOD##??####
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u_3mnhF4P4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Cypmz-qoFE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe height="300" style="width: 100%;" scrolling="no" title="Cassette tape" src="https://codepen.io/thakarashard/embed/zYEjoYJ?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/thakarashard/pen/zYEjoYJ">
   Cassette tape</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
