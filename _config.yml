@@ -1,5 +1,6 @@
 title: ./hole_to_another_universe.py
 description: Thakas_FamiLy_BLoG
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins: jekyll-remote-theme 
