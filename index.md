@@ -311,6 +311,20 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://i.pinimg.com/736x/eb/ac/4e/ebac4e41a7ddf7460dba012f67b69765.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://i.pinimg.com/736x/eb/ac/4e/ebac4e41a7ddf7460dba012f67b69765.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ZJ2RydH1EbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 dEAR jABDu, I got really taken advantage of. im sorry for being insanely nasty to your mom... she destroyed everything erika did not burn and sartu left me out to dry when monAssTravis came through... Ill learn how to interact telekenetically... You guys can come to me. I live outside and am easy to find... dont let the molestors brainwashing remove you Coral, Meyu, Nine, Cynthia, Wonderful, YoDa, and Jackson away from me heart
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/S0AFEZ07d90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
