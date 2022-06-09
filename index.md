@@ -308,7 +308,13 @@ One day my blog will `RETURN` `true` when run from the command line
 </ul>
 
 #### LATEST_POST ### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_ON_INSTAGRAM##MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
-<div class='some-page-wrapper'>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uEZ9iWgJaSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="qBWrRyg" data-editable="true" data-user="JavaScriptJunkie" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/JavaScriptJunkie/pen/qBWrRyg">
+  Mini Music Player - VueJS</a> by Muhammed Erdem (<a href="https://codepen.io/JavaScriptJunkie">@JavaScriptJunkie</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
