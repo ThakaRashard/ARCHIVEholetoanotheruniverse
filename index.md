@@ -311,6 +311,70 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+### Internet rules @LAPL_LiTTLE_TOKYO_BRANCH
+```
+Library Computer Usage Agreement:
+
+ 
+
+To reserve a 1 Hour Internet and Word Processing computer you must have and use a valid Los Angeles Public Library card issued in your name.
+
+ 
+
+    * A free library card is available with proper identification at any circulation desk.
+
+       (Children under 18 require a parent/guardian signature to obtain a library card).
+
+    * Patrons may sign up for an Internet computer remotely on the library's website
+
+       or in any library building at an available computer.
+
+    * Patrons may sign up for a computer up to nine days before intended use. Telephone
+
+       reservations are not accepted.
+
+    * Patrons may use library Internet computer workstations for a maximum of two hours
+
+       per day.
+
+    * Patrons more than ten minutes late will forfeit their time slot.
+
+    * Before patrons leave terminals, they are requested to log off their session.
+
+ 
+
+1. Printouts from the library's catalog are free. Printouts from other databases are 25 cents per page.
+
+ 
+
+2. Library staff may limit the number of patrons using the same terminal.
+
+ 
+
+3. Patrons must:
+
+     not remove privacy screens;
+
+     not save files on hard drives or C drives;
+
+     not disconnect any computer cables;
+
+     not shut off computers;
+
+     not damage computer equipment or software;
+
+     not engage in harassing or defamatory activity on-line;
+
+     not use terminals for illegal activity.
+
+ 
+
+4. Violation of these guidelines may result in the loss of computer access.
+
+     Unlawful activities will be reported to library security or the Los Angeles Police Department and will 
+
+     be dealt with in an appropriate manner.      
+```
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8oKCIyityd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/vK78Wvrnquw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EQzvQO2LcA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
