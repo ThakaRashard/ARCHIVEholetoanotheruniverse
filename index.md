@@ -34,6 +34,8 @@ margin: 10px;
  
 img {
  padding: 3px;
+ margin: 0px;
+ width: 100%; 
  border: 1px solid #c9ff23;
 
 }
