@@ -296,13 +296,10 @@ li a:hover {
 </head>
 
 <span class="neonText">
-# #!/usr/bin/ruby -w --debug 
-</span>
-<span class="neonText">
-# One day my blog will `RETURN` `true` when run from the command line 
+One day my blog will `RETURN` `true` when run from the command line 
 </span>
 
-Hole To Another Universe 
+## Hole To Another Universe 
 <ul>
  <li><a href="https://t.ly/XWoc">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
  <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
@@ -310,7 +307,8 @@ Hole To Another Universe
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 
-# LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+### LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-muIgJD0rMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_cOViwuWxU8" title="##DEAR_MUNA_WE_ARE_AT_ONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XGe4hxmJrjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/GjqLUx7jxWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
