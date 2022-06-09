@@ -311,7 +311,11 @@ Hole To Another Universe
 </ul>
 
 # LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XGe4hxmJrjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GjqLUx7jxWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D2R_SOVLnjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Internet rules @LAPL_LiTTLE_TOKYO_BRANCH
+
 ```
 Library Computer Usage Agreement:
 
