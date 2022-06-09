@@ -304,12 +304,15 @@ One day my blog will `RETURN` `true` when run from the command line
 ## Hole To Another Universe 
 <ul>
  <li><a href="https://t.ly/XWoc">1 # HOLE_TO_ANOTHER_UNiVERSE###BLOG###########היים##</a></li>
- <li><a href="#https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
+ <li><a href="https://thakarashard.github.io/RESUME/">2 # TO###MY_RESUME################################</a></li>
  <li><a href="#contact">3 # ANOTHER###SANDBOX#############################</a></li>
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 
 #### LATEST_POST ### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_ON_INSTAGRAM##MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+[JON_SECADA##:](https://www.youtube.com/watch?v=Z193UHZnhB4)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/H7u5GtSIC5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rbBR4KIPfXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uEZ9iWgJaSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="qBWrRyg" data-editable="true" data-user="JavaScriptJunkie" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/JavaScriptJunkie/pen/qBWrRyg">
