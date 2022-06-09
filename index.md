@@ -307,7 +307,30 @@ One day my blog will `RETURN` `true` when run from the command line
  <li><a href="#about">4 # UNiVERSAL_KONTAKT##联系##接触##اتصل##접촉##যোগাযোগ#</a></li>
 </ul>
 
-### LATEST_POST ###### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_IN_DOWNTOWN_LOS_ANGELES##AND_MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+#### LATEST_POST ### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_ON_INSTAGRAM##MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="##DANCE411_IS_MY_HAREM##AND_ALL_THE_ONES_PRE_ERIKA_AND_POST_PROSTITUTION##TRIBAL_RIGHTS_ACT">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Cassette tape" src="https://codepen.io/thakarashard/embed/zYEjoYJ?default-tab=js%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/thakarashard/pen/zYEjoYJ">
+  Cassette tape</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xbJxcFyaCpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BH_gncP_5vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BH_gncP_5vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-muIgJD0rMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_cOViwuWxU8" title="##DEAR_MUNA_WE_ARE_AT_ONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XGe4hxmJrjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -412,7 +435,7 @@ dEAR jABDu, I got really taken advantage of. im sorry for being insanely nasty t
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PMpmYuRc-AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EJ_t8Qjbbsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8GW6sLrK40k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="[pic_trulli.jpg](https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png)" alt="##DANCE411_IS_MY_HAREM##AND_ALL_THE_ONES_PRE_ERIKA_AND_POST_PROSTITUTION##TRIBAL_RIGHTS_ACT">
+<img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="##DANCE411_IS_MY_HAREM##AND_ALL_THE_ONES_PRE_ERIKA_AND_POST_PROSTITUTION##TRIBAL_RIGHTS_ACT">
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uRn8d2O062A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u_3mnhF4P4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
