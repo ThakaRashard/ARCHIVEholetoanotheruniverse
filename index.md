@@ -310,6 +310,8 @@ One day my blog will `RETURN` `true` when run from the command line
 </ul>
 
 #### LATEST_POST ### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_ON_INSTAGRAM##MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RdvUhLjcSHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jL2tN-7QgEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-aZIaW3ZZio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1Vf4mMCpNY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/cYXHXj92oeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
