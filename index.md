@@ -313,6 +313,128 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNA##HAPPY_BIRTHDAY_FOR_TOMORROW_JUNE102022##ANNiVERSARY_AS_WELL (づ˶•༝•˶)づ♡ 
 </span>
+ 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aYtY7VaF85s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### ##L_A_P_L_CENTRAL_EULA_FOR_LIBRARY_COMPUTER_USE##
+#### ##ViLLANS_FROM_THE_PROSTITUTION_COMMUNITY_SABOTOAGED_MY_LIBRARY_ACCOUNT
+#### ##I_AM_OPERATING_AS_A_GUEST_OF_THE_L_A_P_L_SYSTEM_TO_FIND_MY_HAREM
+```
+Library Computer Usage Agreement:
+
+ 
+
+To reserve a 1 Hour Internet and Word Processing computer you must have and use a valid Los Angeles Public Library card issued in your name.
+
+ 
+
+    * A free library card is available with proper identification at any circulation desk.
+
+       (Children under 18 require a parent/guardian signature to obtain a library card).
+
+    * Patrons may sign up for an Internet computer remotely on the library's website
+
+       or in any library building at an available computer.
+
+    * Patrons may sign up for a computer up to nine days before intended use. Telephone
+
+       reservations are not accepted.
+
+    * Patrons may use library Internet computer workstations for a maximum of two hours
+
+       per day.
+
+    * Patrons more than ten minutes late will forfeit their time slot.
+
+    * Before patrons leave terminals, they are requested to log off their session.
+
+ 
+
+1. Printouts from the library's catalog are free. Printouts from other databases are 25 cents per page.
+
+ 
+
+2. Library staff may limit the number of patrons using the same terminal.
+
+ 
+
+3. Patrons must:
+
+     not remove privacy screens;
+
+     not save files on hard drives or C drives;
+
+     not disconnect any computer cables;
+
+     not shut off computers;
+
+     not damage computer equipment or software;
+
+     not engage in harassing or defamatory activity on-line;
+
+     not use terminals for illegal activity.
+
+ 
+
+4. Violation of these guidelines may result in the loss of computer access.
+
+     Unlawful activities will be reported to library security or the Los Angeles Police Department and will 
+
+     be dealt with in an appropriate manner.
+Internet Use Policy
+
+ 
+
+The Los Angeles Public Library makes the Internet accessible in accordance with our mission to provide free and easy access to information to our diverse communities. Information found on the Internet is provided by millions of people and organizations from around the world. Not all information found in the internet is accurate, up-to-date, legal or acceptable to all individuals. The library does not control information found on the Internet and cannot be held responsible for its content. Individuals who use the Internet are responsible for evaluating the validity and appropriateness of the information they access.
+
+ 
+
+In accordance with the federal Children's Internet Protection Act (CIPA) (Pub. L. 106-554), all library computers are equipped with filtering software. The software is intended to protect against access to sites which may reasonably be construed as obscene, as that term is defined in section 1460 of title 18, United States Code; or child pornography, as that term is defined in section 2256 of title 18, United States Code; or harmful to minors as defined in section 1703, Pub. L. 106-544. The Library has implemented filtering software that complies with CIPA guidelines while providing users the broadest possible access to constitutionally protected speech and information. The Library cannot and does not guarantee that the filtering software will block all obscenity, child pornography, or materials that are harmful to minors. Nor can the Library guarantee that the filtering software will not restrict access to sites that may have legitimate research or other value. If a website is found to be incorrectly blocked, users may send the site address to filtering@lapl.org for evaluation. Users who are 18 years of age or older may disable the filtering software in order to obtain unfiltered Internet access for bona fide research or other lawful purposes.
+
+ 
+Responsibilities of Internet Users
+
+ 
+
+All users of electronic information resources such as the Internet are expected to use these resources in a responsible manner, consistent with the educational and informational purposes for which they are provided, and following the Library’s Rules of Conduct.
+
+ 
+
+It is unacceptable to use the Library's computer system and Internet resources for any of the following:
+
+●        For any purposes which violate applicable U.S. or state laws. Users must respect all copyright laws and licensing agreements pertaining to software, files and other resources obtained via the Internet.
+
+●        Destruction, damage, or disruption of equipment, software, or data belonging to the Library, including removal of privacy screens, shutting off computers, and disconnecting any computer cables.
+
+●        Disruption or interference of network users or services. Such interference or disruption includes, but is not limited to: distribution of unsolicited advertising, harassment, libeling, or slandering of others; propagation of computer worms, hacking, or viruses.
+
+●        Sending, receiving, or displaying text or graphics which may reasonably be construed as either obscene or child pornography by community standards.
+
+ 
+
+Violating these guidelines may result in being restricted from using the Library’s online services for the day; the Library reserves the right to take appropriate action after repeated violations of the internet use guidelines.
+
+ 
+Internet Safety for Minors
+
+ 
+
+As with other library materials, supervision of a child’s use of the Internet is the responsibility of a parent or legal guardian. The library has created guides to useful resources for children and teens that provide information and links to other websites designed for these age groups. Although filtering standards on reservation computers still meet the standards required to comply with CIPA, the use of reservation computers by minors should be monitored by their parent or legal guardian as access to its content and filtering does not follow the same standards as those intended for Children’s computers.
+
+ 
+
+To address the issue of the safety and security of minors when using email, chat rooms and other forms of direct electronic communications, as well as the unauthorized disclosure, use and dissemination of personal identification information regarding minors, the Library urges minors to keep in mind the following safety guidelines:
+
+ 
+
+   1. Never give out identifying information such as home address, school name, or telephone number.
+   2. Let parents or guardians decide whether personal information such as age, marital status, or financial information should be revealed.
+   3. Never arrange a face-to-face meeting with someone via the computer without parents' or guardians' approval.
+   4. Never respond to messages that are suggestive, obscene, threatening, or make one uncomfortable.
+   5. Remember that people online may not be who they say they are.
+   6. Remember that everything one reads may not be true.
+```
+     
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZNFnafF_9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nXePgT3JiH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5RC4olINisg" title="##DEAR_SARTU___I_PLAN_TO_TONIGHT_IN_THE_MORNING_THE_MESSAGE_HAS_BEEN_HIJACKED_BY_MUNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
