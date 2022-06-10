@@ -310,7 +310,11 @@ One day my blog will `RETURN` `true` when run from the command line
 </ul>
 
 #### LATEST_POST ### ~>'##BELL_LABS####SAID_SARTUZULA_CLAIMED_THAKA_ON_INSTAGRAM##MUNA_IS_ALIVE_AND_RUNNING_AN_EMPIRE_##
- 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Bn69xgKPXKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/iOHmlbMSYFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_0DvXQ05Xw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/sxyR_zOzW-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/c8N72t7aScY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ARJ8cAGm6JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### THIS_IS_##HOLLYWOODS_L_A_P_L_EULA 
 ```
