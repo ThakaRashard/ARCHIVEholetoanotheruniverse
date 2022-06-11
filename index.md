@@ -9,8 +9,8 @@ color: #fff;
  padding: 0px;
  margin: 0px;
 text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;
-text-align: center;
-background: black;
+text-align: left;
+
 } 
  
  
