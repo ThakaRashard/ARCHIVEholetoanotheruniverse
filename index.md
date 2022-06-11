@@ -313,6 +313,19 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNA##HAPPY_BIRTHDAY_FOR_TOMORROW_JUNE102022##ANNiVERSARY_AS_WELL (づ˶•༝•˶)づ♡ 
 </span>
+<iframe  height="300" src="https://www.youtube.com/embed/eeTnog5RRQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="dydJddJ" data-preview="true" data-editable="true" data-user="s_ryosuke_1242" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/s_ryosuke_1242/pen/dydJddJ">
+  TextRollOver + gsap</a> by りょーすけ (<a href="https://codepen.io/s_ryosuke_1242">@s_ryosuke_1242</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="LNGYQe" data-preview="true" data-editable="true" data-user="melluvia" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/melluvia/pen/LNGYQe">
+  Melissa Phillips First Portfolio</a> by melissa phillips (<a href="https://codepen.io/melluvia">@melluvia</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4IQYKarce2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [##THANKS_ERIKA ~>](https://www.youtube.com/watch?v=4IQYKarce2M)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HnCiU8mcPWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
