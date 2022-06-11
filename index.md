@@ -313,7 +313,12 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNA##I_SAW_ELLA_MAI_FROM_ATLANTA_AMHARIC_YESTERDAY## (づ˶•༝•˶)づ♡ 
 </span>
-
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="css,result" data-slug-hash="dWWqjN" data-editable="true" data-user="mandymichael" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/mandymichael/pen/dWWqjN">
+  Angled Fractured Text</a> by Mandy Michael (<a href="https://codepen.io/mandymichael">@mandymichael</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvBVDibOrgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308016226&color=%2300ff6d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/breakfast-in-bed" title="Breakfast In Bed" target="_blank" style="color: #cccccc; text-decoration: none;">Breakfast In Bed</a></div>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGLQJpY" data-editable="true" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
