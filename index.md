@@ -7,6 +7,7 @@ font-size: 20px;
 font-family: Tahoma, Verdana, Segoe;
 color: #fff;
  padding: 0px;
+ font-weight: 900;
  margin: 0px;
  color: #fff;
   text-shadow:
