@@ -23,12 +23,7 @@ text-align: left;
 
 } 
  
- 
-body {
- font-smooth: never;
--webkit-font-smoothing : none;
- }
- 
+
 .left {
  float: left;
 padding: 5px;
