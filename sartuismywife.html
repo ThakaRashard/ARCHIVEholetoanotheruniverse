@@ -3,311 +3,6 @@
 <head>
 
 <style>
- 
-h2{
-font-size: 20px;
-font-family: Tahoma, Verdana, Segoe;
-color: #fff;
- padding: 0px;
- font-weight: 900;
- margin: 0px;
- color: #fff;
-  text-shadow:
-    0 0 5px #fff,
-    0 0 10px #fff,
-    0 0 20px #fff,
-    0 0 40px #0ff,
-    0 0 80px #0ff,
-    0 0 90px #0ff,
-    0 0 100px #0ff,
-    0 0 150px #0ff;
-text-align: left;
-
-} 
- 
-
- 
-h2{
-font-weight: 900;
-font-family:  system-ui;
-padding: 0px;
-margin: 0px;
-text-align: left;
-text-transform: uppercase;
-}
-
-.left {
- float: left;
-padding: 5px;
-margin: 10px;
-}
- 
-.right {
- float: right;
- padding: 5px;
- margin: 10px;
- 
-}
- 
-img {
- padding: 3px;
- margin: 0px;
- width: 100%; 
- border: 1px solid #c9ff23;
-
-}
- 
-
-.glow-on-hover {
- width: 220px;
- height: 50px;
- border: none;
- outline: none;
- color: #fff;
- background: #111;
- cursor: pointer;
- position: relative;
- z-index: 0;
- border-radius: 10px;
-}
-
-.glow-on-hover:before {
- content: '';
- background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
- position: absolute;
- top: -2px;
- left:-2px;
- background-size: 400%;
- z-index: -1;
- filter: blur(5px);
- width: calc(100% + 4px);
- height: calc(100% + 4px);
- animation: glowing 20s linear infinite;
- opacity: 0;
- transition: opacity .3s ease-in-out;
- border-radius: 10px;
-}
-
-.glow-on-hover:active {
- color: #000
-}
-
-.glow-on-hover:active:after {
- background: transparent;
-}
-
-.glow-on-hover:hover:before {
- opacity: 1;
-}
-
-.glow-on-hover:after {
- z-index: -1;
- content: '';
- position: absolute;
- width: 100%;
- height: 100%;
- background: #111;
- left: 0;
- top: 0;
- border-radius: 10px;
-}
-
-@keyframes glowing {
- 0% { background-position: 0 0; }
- 50% { background-position: 400% 0; }
- 100% { background-position: 0 0; }
-}
- .container {
- position: relative;
- width: 50%;
-}
-
-.image {
- display: block;
- width: 100%;
- height: auto;
-}
-
-.overlay {
- position: absolute;
- bottom: 0;
- left: 100%;
- right: 0;
- background-color: #008CBA;
- overflow: hidden;
- width: 0;
- height: 100%;
- transition: .5s ease;
-}
-
-.container:hover .overlay {
- width: 100%;
- left: 0;
-}
-
-.text {
- color: white;
- font-size: 20px;
- position: absolute;
- top: 50%;
- left: 50%;
- -webkit-transform: translate(-50%, -50%);
- -ms-transform: translate(-50%, -50%);
- transform: translate(-50%, -50%);
- white-space: nowrap;
-}
- 
- 
- 
-.firstcharacter {
- color: #fff;
- text-shadow:
- 0 0 7px #fff,
- 0 0 10px #fff,
- 0 0 21px #fff,
- 0 0 42px #0fa,
- 0 0 82px #0fa,
- 0 0 92px #0fa,
- 0 0 102px #0fa,
- 0 0 151px #0fa;
- float: left;
- font-size: 75px;
- line-height: 60px;
- padding-top: 4px;
- padding-right: 8px;
- padding-left: 3px;
-}
-
-.neonText {
- color: #fff;
- text-shadow:
- 0 0 7px #fff,
- 0 0 10px #fff,
- 0 0 21px #fff,
- 0 0 42px #0fa,
- 0 0 82px #0fa,
- 0 0 92px #0fa,
- 0 0 102px #0fa,
- 0 0 151px #0fa;
-}
- 
- 
-li a:hover {
- color: #c9ff23;
-
- 
-} 
-
- 
-.glow {
- color: #fff;
- text-align: center;
- animation: glow 3s ease-in-out infinite alternate;
-}
-
-@-webkit-keyframes glow {
- from {
- text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #008000, 0 0 40px #008000, 0 0 50px #008000, 0 0 60px #008000, 0 0 70px #e60073;
- }
- 
- to {
- text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
- }
-}
- 
- 
- 
-.some-page-wrapper {
-
-}
-
-.row {
- display: flex;
- flex-direction: row;
- flex-wrap: wrap;
- width: 100%;
-}
-
-.column {
- display: flex;
- flex-direction: column;
- flex-basis: 100%;
- flex: 1;
- overflow: hidden;
-}
-
-.double-column {
- display: flex;
- flex-direction: column;
- flex-basis: 100%;
- flex: 2;
- overflow: hidden;
-}
-
-.blue-column {
- background-color: #23ff32;
- 
-}
-
-.green-column {
- 
- background-color: #c9ff23;
-} 
- 
-#neon_box {
- display: flex;
- align-items: center;
- justify-content: center;
- width: 700px;
- height: 200px;
- color: white;
- font-family: 'Raleway';
- font-size: 2.5rem;
-}
-.gradient-border {
- --borderWidth: 10px;
- background: #1D1F20;
- position: relative;
- border-radius: var(--borderWidth);
-}
-.gradient-border:after {
- content: '';
- position: absolute;
- top: calc(-1 * var(--borderWidth));
- left: calc(-1 * var(--borderWidth));
- height: calc(100% + var(--borderWidth) * 2);
- width: calc(100% + var(--borderWidth) * 2);
- background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
- border-radius: calc(2 * var(--borderWidth));
- z-index: -1;
- animation: animatedgradient 3s ease alternate infinite;
- background-size: 300% 300%;
-}
-
-
-@keyframes animatedgradient {
- 0% {
- background-position: 0% 50%;
- }
- 50% {
- background-position: 100% 50%;
- }
- 100% {
- background-position: 0% 50%;
- }
-}
-
-.bwtocolor img {
- -webkit-filter: grayscale(100%) !important;
- filter: grayscale(100%) !important;
-}
-
-
-.bwtocolor img:hover {
- -webkit-filter: grayscale(0) !important;
- filter: grayscale(0) !important;
-} 
- 
  @import "compass/css3";
 
 //colors
@@ -677,10 +372,9 @@ body {
 }
 
  
- 
 </style>
 </head>
-
+<body>
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line 
 </span>
@@ -697,7 +391,7 @@ One day my blog will `RETURN` `true` when run from the command line
 #### LATEST_POST ### ~>'##BELL_LABS####_I_WANT_MY_HAREM_BACK_AND_FREE_FROM_PROSTITUTION###FREE_DANCE_4_1_1
 <span class="neonText">
 ##DEAR_HAREM##I_DO_TAKE_YOU_AS_MY_LAWFULLY_WEDDED_BRIDES(づ˶•༝•˶)づ♡ (づ˶•༝•˶)づ♡ (づ˶•༝•˶)づ♡
-  <div class="cassette">
+<div class="cassette">
   
   <div class="screws">
     <div class="screw">
@@ -776,6 +470,10 @@ One day my blog will `RETURN` `true` when run from the command line
     </div>
   </div>
 </div><!-- /.cassette -->
+
+<div class="credits">
+  <p>Inspired by <a href="http://dribbble.com/shots/1651416-Press-Play">Press Play</a> dribble shot by Sean Vickery</p>
+  <p>Created by <a href="http://miukimiu.com/">Miukimiu</a></p>
   
 </div>
-<!-- /.BEGIN_PLAYLIST -->
+	</body>
