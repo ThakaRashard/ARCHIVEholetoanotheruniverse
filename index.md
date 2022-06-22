@@ -26,6 +26,16 @@ text-align: left;
 } 
  
 
+ 
+h2{
+font-weight: 900;
+font-family:  system-ui;
+padding: 0px;
+margin: 0px;
+text-align: left;
+text-transform: uppercase;
+}
+
 .left {
  float: left;
 padding: 5px;
