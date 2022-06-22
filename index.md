@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ThakaRashard 
-ThakaRashard
-/
-holetoanotheruniverse
-Public
-Code
-Issues
-1
-Pull requests
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-holetoanotheruniverse/index.md
-@ThakaRashard
-ThakaRashard ##LISTEN_CLOSELY##NAS_THE_WAR_AGAINST_LOVE##TELECATE_HIS_ASS_ON_HIS_C…
-…
-Latest commit 8949ce4 4 days ago
- History
- 1 contributor
-1753 lines (1400 sloc)  424 KB
+
 
 <head>
 
@@ -348,8 +318,9 @@ One day my blog will `RETURN` `true` when run from the command line
 
 #### LATEST_POST ### ~>'##BELL_LABS####_I_WANT_MY_HAREM_BACK_AND_FREE_FROM_PROSTITUTION###FREE_DANCE_4_1_1
 <span class="neonText">
-##DEAR_MUNA##I_SAW_ELLA_FROM_ATLANTA_AMHARIC_YESTERDAY#(づ˶•༝•˶)づ♡ 
+##DEAR_HAREM##I_DO_TAKE_YOU_AS_MY_LAWFULLY_WEDDED_BRIDES(づ˶•༝•˶)づ♡ (づ˶•༝•˶)づ♡ (づ˶•༝•˶)づ♡ 
 </span>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wFLCqKsBIY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425539491&color=%23ffeb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1278888139&color=%23ff459b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/wifey" title="Wifey" target="_blank" style="color: #cccccc; text-decoration: none;">Wifey</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/fx8VqDOsC8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
