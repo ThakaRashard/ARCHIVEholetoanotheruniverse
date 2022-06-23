@@ -262,6 +262,21 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNA##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
 </span>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_P0XsjWmBlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
+## GOODTIMES_WITH_CORAL_aka_LAROC_WIT_BOBBY_RAY
+## PALMDALE_MALL_WITH_MY_CHILD_2015##SOUNDTRACK##SINGLE_FATHER_TYPESHiT
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mJ-2SRieDiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NKcCoxCSql8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/PctUKuCVCD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## SiMON_IM_IN_A_SHELTER_AND_DOWNLOADING_YOUR_MUSIC_ILL_PAY_YA_SOON_WHEN_SSi_DROPS
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mzj927xUG3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## DEAR_NELLY##YOU_ARE_TELLING_THE_STORY_OF_ME_AND_SARTU_iN_EXPLODE
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ogHDTOUhmxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Xw5AiRVqfqk" title="##SARTU_I_REALLY_LOVE_LISTENING_TO_APHEX_TWIN##NO_FRONTING_FOR_Q_OR_BIG_STUFF_OR_FLEXING_ON_ERIKA##" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/InFbBlpDTfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/C5YkVhk-LZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/69RdQFDuYPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
