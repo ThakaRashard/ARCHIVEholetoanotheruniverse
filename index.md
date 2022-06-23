@@ -6,7 +6,7 @@
  
 h2{
 font-size: 20px;
-font-family: Tahoma, Verdana, Segoe;
+font-family: system-ui;
 color: #fff;
  padding: 0px;
  font-weight: 900;
@@ -33,7 +33,7 @@ font-family:  system-ui;
 padding: 0px;
 margin: 0px;
 text-align: left;
-text-transform: uppercase;
+font-variant-caps: small-caps;
 }
 
 .left {
@@ -199,21 +199,6 @@ li a:hover {
 } 
 
  
-.glow {
- color: #fff;
- text-align: center;
- animation: glow 3s ease-in-out infinite alternate;
-}
-
-@-webkit-keyframes glow {
- from {
- text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #008000, 0 0 40px #008000, 0 0 50px #008000, 0 0 60px #008000, 0 0 70px #e60073;
- }
- 
- to {
- text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
- }
-}
  
  
  
