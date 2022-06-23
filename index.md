@@ -2,7 +2,7 @@
 
 <head>
 
-<style>
+
  
 h2{
 font-size: 20px;
@@ -243,7 +243,7 @@ li a:hover {
  
  
  
-</style>
+
 </head>
 
 <span class="neonText">
