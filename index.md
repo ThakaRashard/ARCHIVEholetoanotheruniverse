@@ -2,7 +2,7 @@
 
 <head>
 
-
+<style>
  
 h2{
 font-size: 20px;
@@ -241,7 +241,7 @@ li a:hover {
 } 
  
  
- 
+ </style>
  
 
 </head>
@@ -262,7 +262,7 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNA##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
 </span>
-
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/59vnNBNKp98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
 ## GOODTIMES_WITH_CORAL_aka_LAROC_WIT_BOBBY_RAY
 ## PALMDALE_MALL_WITH_MY_CHILD_2015##SOUNDTRACK##SINGLE_FATHER_TYPESHiT
