@@ -260,8 +260,10 @@ One day my blog will `RETURN` `true` when run from the command line
 
 #### LATEST_POST ### ~>'##BELL_LABS####I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS###FREE_DANCE_4_1_1
 <span class="neonText">
-##DEAR_MUNA##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
+##DEAR_MUNi##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
 </span>
+## DEAR_KALi, First Fire ##CONFiRMED##CONSUMATED##
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/88403794&color=%2394bca8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/first-fires" title="First Fires" target="_blank" style="color: #cccccc; text-decoration: none;">Kali, is my wife... - Thaka</a></div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ks3_kuRAzHs" title="My_WiFE_iS_BRiLLiANT_iN_THIS____he_shined___Wish_he___got_healthy_sexually___what_a_dissapointment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ii63fKLTSuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="KKPYoBq" data-editable="true" data-user="robin-dela" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
