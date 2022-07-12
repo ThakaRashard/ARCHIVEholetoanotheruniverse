@@ -5,13 +5,13 @@
 <style>
  
 h2{
-font-size: 20px;
-font-family: system-ui;
+font-family:  Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 color: #fff;
  padding: 0px;
  font-weight: 900;
  margin: 0px;
- color: #fff;
   text-shadow:
     0 0 5px #fff,
     0 0 10px #fff,
@@ -22,14 +22,10 @@ color: #fff;
     0 0 100px #0ff,
     0 0 150px #0ff;
 text-align: left;
-
-} 
- 
-
- 
-h2{
 font-weight: 900;
-font-family:  system-ui;
+font-family:   Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 padding: 0px;
 margin: 0px;
 text-align: left;
@@ -262,6 +258,8 @@ One day my blog will `RETURN` `true` when run from the command line
 <span class="neonText">
 ##DEAR_MUNi##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
 </span>
+
+<img src="https://i.discogs.com/hNTJ3v2h-iXyZ6myjy_PeKRy2374rMtYaTJ91l3j7NU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk5/Ny0xNTU0MDY5NDQw/LTUxNjAuanBlZw.jpeg">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115293827&color=%23a87931&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/897564661&color=%23b4ac9c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 [Tips for Improving CSS and JS Animation Performance](https://www.keycdn.com/blog/animation-performance)
