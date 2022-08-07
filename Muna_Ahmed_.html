@@ -27,9 +27,101 @@
       align-items: left;
       background: hsl(220, 10%, 12%);
       font-family: -apple-system,"Lato", "Segoe Ui", BlinkMacSystemFont, sans-serif;
+      font-weight: 900;
     }
     
-    
+    /* LAYOUTS */
+/* ##6panel4collages use equallateral images */
+.sixpanel {
+  align-items: stretch;
+  /* flex-flow: row nowrap; */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  line-height: 0;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+ /* min-width: fit-content; */
+ /* max-width: max-content; */
+  width: 100%;
+  display: grid;
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+  grid-template-columns: auto auto auto;
+  object-fit: contain;
+}
+
+.sixpanel>div {
+  border: 1px solid #b4e853;
+}
+
+.sixpanel>img {
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  border: 0px solid #b4e853;
+}
+
+
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp ) center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  background-color: #2470ff;
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.twoPanelSpread>img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
           
         </style>     
     </head>
@@ -43,6 +135,20 @@
       </span>
     </div> 
 
+    <div class='twoPanelSpread'>
+      <div class='row'>
+        <div class='panelColumn'>
+          <div class='leftColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+          </div>
+        </div>
+        <div class='panelColumn'>
+          <div class='rightColumn'>
+            <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134047465_1824448104383505_8670164328192079049_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iozKoIQnN_oAX-KugqG&_nc_ht=scontent-lax3-1.xx&oh=00_AT8378CztgaNQKLMQfKSQtvlphONZJBk1hqqwrbJTAhoCQ&oe=63158A95">
+          </div>
+        </div>
+      </div>
+    </div>
         <div class="sixpanel">
   <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
