@@ -1,0 +1,1189 @@
+/* ##BRANDY_NORWOOD_IS_MY_WIFE##BRANDY_SELASSIE##  */
+.neonText {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 125px #0fa;
+  }
+  
+  
+  
+  /* body 
+  body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: left;
+    background: hsl(220, 10%, 12%);
+    font-family: "Lato", "Segoe Ui", -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+*/  
+  .container {
+position: relative;
+width: 50%;
+}
+
+.image {
+display: block;
+width: 100%;
+height: auto;
+}
+/*
+.overlay {
+position: absolute;
+bottom: 0;
+left: 100%;
+right: 0;
+background-color: #008CBA;
+overflow: hidden;
+width: 0;
+height: 100%;
+transition: .5s ease;
+}
+
+.container:hover .overlay {
+width: 100%;
+left: 0;
+}
+
+.text {
+color: white;
+font-size: 20px;
+position: absolute;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+white-space: nowrap;
+}
+*/	
+  
+  
+.firstcharacter {
+  color: #fff;
+text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+float: left;
+font-size: 75px;
+line-height: 60px;
+padding-top: 4px;
+padding-right: 8px;
+padding-left: 3px;
+}
+
+.neonText {
+color: #fff;
+text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+
+}	
+  
+li a:hover {
+color: #c9ff23;
+
+   
+}	
+
+/* 	
+.glow {
+color: #fff;
+text-align: center;
+animation: glow 3s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+from {
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #008000, 0 0 40px #008000, 0 0 50px #008000, 0 0 60px #008000, 0 0 70px #e60073;
+}
+
+to {
+  text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+}
+}
+  */
+  
+  
+.some-page-wrapper {
+margin: 15px;
+background-color: ##23b2ff;
+}
+
+.row {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 100%;
+}
+
+.column {
+display: flex;
+flex-direction: column;
+flex-basis: 100%;
+flex: 1;
+overflow: hidden;
+}
+
+.double-column {
+display: flex;
+flex-direction: column;
+flex-basis: 100%;
+flex: 2;
+overflow: hidden;
+}
+
+.blue-column {
+background-color: #23ff32;
+
+}
+
+.green-column {
+  
+  background-color: #c9ff23;
+}	
+  
+  
+  
+
+  
+/* orginsof:https://vscode.dev/github/ThakaRashard/BUBBLEGUMPOP_MUNA */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;1,300;1,400&family=Noto+Emoji:wght@300;500&family=Quicksand:wght@300;500;600;700&family=Red+Hat+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@900&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import "rouge-base16-dark";
+@import "default_colors";
+
+$body-background: $cod-grey !default;
+$body-foreground: $gallery !default;
+$header: $conifer !default;
+$blockquote-color: $silver-chalice !default;
+$blockquote-border: $dove-grey !default;
+$container-max-width: 1000px;
+
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* BEGiN_ViSUALS **********************************************/
+/* BEGiN_ViSUALS **********************************************/
+/* BEGiN_ViSUALS **********************************************/
+/* BEGiN_ViSUALS **********************************************/
+/* BEGiN_ViSUALS **********************************************/
+
+@mixin media-max-width($max-width) {
+  @media (max-width: $max-width) {
+      @content;
+  }
+}
+body {
+  color: white;
+	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
+  font-family: Ubuntu, sans-serif;
+  line-height: 1.5;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
+}
+
+/*
+body {
+  margin: 0;
+  padding: 0;
+  background: $body-background url("../images/bkg.png") 0 0;
+  color: $body-foreground;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Ubuntu', sans-serif;
+}
+*/
+/* General & 'Reset' Stuff */
+
+.container {
+  width: 90%;
+  max-width: $container-max-width;
+  margin: 0 auto;
+}
+
+section {
+  display: block;
+  margin: 0 0 20px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 20px;
+}
+
+li {
+  line-height: 1.4 ;
+}
+
+/* Header, <header>
+   header   - container
+   h1       - project name
+   h2       - project description
+*/
+
+header {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-bottom: 1px dashed $conifer; //header;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
+}
+/*
+header h1 {
+  font-size: 30px;
+  line-height: 1.5;
+  margin: 0 0 0 -40px;
+  font-weight: bold;
+  font-family: 'Rubik Burned', cursive;
+  color: $conifer;//$header;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+  letter-spacing: -1px;
+  -webkit-font-smoothing: antialiased;
+  @include media-max-width($container-max-width) {
+    margin-left: 0;
+  }
+}
+
+
+header h1:before {
+
+  font-size: 50px;
+}
+*/
+header h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  margin: 0 0 0 -40px;
+  /* font-family: 'Fredoka One', 'Anybody', -apple-system, Ubuntu, "Ariel Black", Verdana; */
+  color: $conifer; //$header;
+  /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+    0 0 5px rgba(181, 232, 83, 0.1),
+    0 0 10px rgba(181, 232, 83, 0.1);  */
+    font-family: 'Rubik Iso', cursive;
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0DCBFF,
+        0 0 82px #0DCBFF,
+        0 0 92px #0DCBFF,
+        0 0 102px #0DCBFF,
+        0 0 125px #0DCBFF;
+    letter-spacing: -1px;
+  -webkit-font-smoothing: antialiased;
+
+  @include media-max-width($container-max-width) {
+    margin-left: 0;
+  }
+/*
+  box-shadow: rgba(240, 46, 170, 0.4) 5px 5px,
+  rgba(240, 46, 170, 0.3) 10px 10px,
+  rgba(240, 46, 170, 0.2) 15px 15px,
+  rgba(240, 46, 170, 0.1) 20px 20px,
+  rgba(240, 46, 170, 0.05) 25px 25px;
+*/
+}
+
+
+header h1:before {
+ /* content: "./BUBBLEGUMPOP"; */
+  font-size: 4rem;
+}
+
+header h2 {
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+}
+
+#downloads .btn {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+}
+
+/* Main Content
+*/
+
+#main_content {
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+section img {
+  max-width: 100%
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: $header;
+  padding: 10px 10px 10px 15px;
+  letter-spacing: -0.03em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
+               0 0 5px rgba(181, 232, 83, 0.1),
+               0 0 10px rgba(181, 232, 83, 0.1);
+}
+
+#main_content h1 {
+  font-size: 30px;
+}
+
+#main_content h2 {
+  font-size: 24px;
+}
+
+#main_content h3 {
+  font-size: 18px;
+}
+
+#main_content h4 {
+  font-size: 14px;
+}
+
+#main_content h5 {
+  font-size: 12px;
+  text-transform: uppercase;
+  margin: 0 0 5px 0;
+}
+
+#main_content h6 {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #999;
+  margin: 0 0 5px 0;
+}
+
+dt {
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul li {
+  list-style-image:url('../images/bullet.png');
+}
+
+blockquote {
+  color: $blockquote-color;
+  padding-left: 10px;
+  border-left: 1px dotted $blockquote-border;
+}
+
+pre {
+  background: rgba(0, 0, 0, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  font-size: 16px;
+  color: #b5e853;
+  border-radius: 2px;
+  word-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+}
+
+code.highlighter-rouge {
+  background: rgba(0,0,0,0.9);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 0px 3px;
+  margin: 0px -3px;
+  color: #aa759f;
+  border-radius: 2px;
+}
+
+table {
+  width: 100%;
+  margin: 0 0 20px 0;
+  background: rgb(0,212,255);
+background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+th {
+  text-align: left;
+  border-bottom: 1px dashed #b5e853;
+  padding: 5px 10px;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+hr {
+  height: 0;
+  border: 0;
+  border-bottom: 1px dashed #b5e853;
+  color: #b5e853;
+}
+
+/* Buttons
+*/
+
+.btn {
+  display: inline-block;
+  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.3), rgba(35, 35, 35, 0.3) 50%, rgba(10, 10, 10, 0.3) 50%, rgba(0, 0, 0, 0.3));
+  padding: 8px 18px;
+  border-radius: 0px;
+  border: 2px solid rgba(0, 0, 0, 0.7);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+  border-top: 2px solid rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: bold;
+  font-size: 13px;
+  text-decoration: none;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.btn:hover {
+  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
+}
+
+.btn .icon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: 1px 8px 0 0;
+  float: left;
+}
+
+.btn-github .icon {
+  opacity: 0.6;
+  background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+
+   a, a:hover, a:visited
+
+   a:hover {
+    color: #c9ff23;
+  }
+a {
+  color: #63c0f5;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+/* Clearfix */
+
+.cf:before, .cf:after {
+  content:"";
+  display:table;
+}
+
+.cf:after {
+  clear:both;
+}
+
+.cf {
+  zoom:1;
+}
+
+#a-title {
+  text-decoration: none;
+}
+
+	
+
+
+iframe {
+  margin: 0px;
+  padding: 0px;
+  margin: 0;
+
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  border: none;
+}
+
+p
+{
+  color: white;
+  background: rgb(172,65,66);
+  background: linear-gradient(90deg, rgba(172,65,66,0.7399334733893557) 0%, rgba(170,117,159,0.8127626050420168) 35%, rgba(0,212,255,0.7091211484593838) 100%);
+  /* background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif"); */
+}
+	
+img {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+h2,
+h1,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
+    center repeat;
+  font-weight: 900;
+  background: rgb(0,0,0);
+background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,83,89,0.8292011019283747) 35%, rgba(176,185,191,0.7768595041322314) 100%);
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-variant-caps: small-caps;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
+h2 {
+font-weight: 900;
+padding: 0px;
+margin: 0px;
+text-align: left;
+
+}
+.firstcharacter {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.neonText {
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+
+}
+
+.storyBox {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.storyBox .card {
+  position: relative;
+  cursor: pointer;
+}
+
+.storyBox .card .face {
+  width: 100%;
+  height: 200px;
+  transition: 0.5s;
+}
+
+.storyBox .card .face.face1 {
+  position: relative;
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  transform: translateY(100px);
+}
+
+.storyBox .card:hover .face.face1 {
+  background: #00c2ff;
+  transform: translateY(0);
+}
+
+.storyBox .card .face.face1 .storycontent {
+  opacity: 0.2;
+  transition: 0.5s;
+}
+
+.storyBox .card:hover .face.face1 .storycontent {
+  opacity: 1;
+}
+
+.storyBox .card .face.face1 .storycontent img {
+  max-width: 100px;
+}
+
+.storyBox .card .face.face1 .storycontent h3 {
+  margin: 10px 0 0;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.storyBox .card .face.face2 {
+  position: relative;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+  transform: translateY(-100px);
+}
+
+.storyBox .card:hover .face.face2 {
+  transform: translateY(0);
+}
+
+.storyBox .card .face.face2 .storycontent p {
+  margin: 0;
+  padding: 0;
+}
+
+.storyBox .card .face.face2 .storycontent a {
+  margin: 15px 0 0;
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 900;
+  color: #333;
+  padding: 5px;
+  border: 1px solid #333;
+}
+
+.storyBox .card .face.face2 .storycontent a:hover {
+  background: #333;
+  color: #fff;
+}
+
+	
+.some-page-wrapper {
+  margin: 15px;
+  background-color: #23b2ff;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  overflow: hidden;
+}
+
+.blue-column {
+  background-color: #23ff32;
+  
+}
+
+.green-column {
+    
+    background-color: #c9ff23;
+}	
+	/* ------------------------------------------- */	
+	
+	
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp )
+    center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  background-color: #2470ff;
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+
+.divAlbumReview {
+  background-image: url("https://m.media-amazon.com/images/I/41QKR5BJVZL.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+  clear: both;
+  margin: 0px;
+  border-bottom: 0px dashed #c9ff23;
+  font-size: 20px;
+  color: white;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
+    monospace;
+}
+
+.pdivAlbumReview {
+  background: rgba(255, 108, 35, 0.5);
+}
+
+.broken-width {
+  width: 100%;
+}
+
+.right-width {
+  min-width: 100%;
+}
+
+audio {
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -o-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  -moz-box-shadow: 2px 2px 4px 0px #006773;
+  -webkit-box-shadow: 2px 2px 4px 0px #006773;
+  box-shadow: 2px 2px 4px 0px #006773;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border-radius: 7px 7px 7px 7px;
+  border-radius: 7px 7px 7px 7px;
+}
+
+audio:hover,
+audio:focus,
+audio:active {
+  -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+#row_image  {
+border: 5px solid #ccc;
+background: #666;
+  max-width: 100%;
+  padding: 50px;
+  background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
+  background-repeat: repeat;
+	}
+
+	
+.gallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 50px #fff,
+    inset 20px 0 80px #FFF300,
+    inset -20px 0 80px #0AFF00,
+    inset 20px 0 300px #FFF300,
+    inset -20px 0 300px #0AFF00,
+    0 0 50px #fff,
+    -10px 0 80px #FFF300,
+    10px 0 80px #0AFF00;
+  
+}
+.image {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-image {
+  flex: 0 0 100%;
+}
+
+/* GiTHUB_LOGO##TEAM_SPiRiT!!! */
+
+	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
+.pinupGallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 0 100%;
+}	
+	
+/* General presentation stuff */
+.post-content {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+/* img {	max-width: 100%; }  ###MAY_BE_BREAKING_SOME_SOME_IMAGES */
+
+/* Set content grid so it respects order values */
+.post-content {
+	display: grid;
+}
+
+/*
+Style image if there is an image right after the heading
+Use order to put it above the heading
+Relative position for absolute caption
+*/
+.post-content h1 + .kg-image-card {
+	margin: 0 -24px;
+	order: -1;
+	position: relative;
+}
+
+
+/* Style image's caption if there is an image right after the heading */
+.post-content h1 + .kg-image-card figcaption {
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 1rem 1rem 1.2rem;
+	opacity: 0.5;
+	background: white;
+}
+	
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+     flex-flow: row nowrap;  
+    flex-direction: row; 
+    flex-wrap: nowrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+   
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+
+
+
+
+/* LAYOUTS */
+/* ##6panel4collages use equallateral images */
+.sixpanel {
+  align-items: stretch;
+  /* flex-flow: row nowrap; */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  line-height: 0;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+ /* min-width: fit-content; */
+ /* max-width: max-content; */
+  width: 100%;
+  display: grid;
+    grid-template-columns: auto auto auto;
+  object-fit: contain;
+}
+
+.sixpanel>div {
+  border: 1px solid #b4e853;
+}
+
+.sixpanel>img {
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  border: 0px solid #b4e853;
+}
+
+/* GiTHUB_LOGO##TEAM_SPiRiT!!! */
+/* 4-6images
+	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
+.pinupGallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  object-fit: contain;
+}
+
+.pinupImage {
+  width: 100px;
+  flex: 1 0 auto;
+}
+
+.featured-pinupImage {
+  flex: 0 0 100%;
+}
+
+
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+/* ##TWO_PANEL_LAYOUT_ADDED_7_28_2022_FOR_SPLiT_SCREEN_POSTS */
+
+.twoPanelSpread {
+  margin: 0px;
+  padding: 0px;
+  background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp ) center repeat;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.leftColumn {
+  background-color: #2470ff;
+  width: 100%;
+}
+
+.leftColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.twoPanelSpread>img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
+/* 3PANEL_SPREAD_WORKS_WELL_WITH_SQUARE_AND_VERTiCAL_iMAGES */
+
+.flex3BorderedPaddedROW {
+
+  display: flex;
+  align-items: stretch;
+  /* flex-flow: row nowrap; */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+
+}
+
+.flex3BorderedPaddedROW>div {
+
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+
+.flex3BorderedPaddedROW>img {
+
+  border: 3px dotted #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+  display: flex;
+  align-items: stretch;
+  flex-flow: row nowrap;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
+
+}
+
+.flex-container>div {
+
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
+
+/*  4PANEL_SPREAD_CREATED_FOR_SARTUS_MODELiNG_ENERGY, many uses tho to feature things ##ASK_DiDO */
+.panel4-container {
+
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  height: 100%;
+  padding: 0px;
+  gap: 5px;
+
+}
+
+/* EXPANDiNG_GALLERY_##HTMLPUG_PORT_OF */
+:root {
+  --magnifier: 6;
+  --gap: 1vmin;
+  --transition: 0.5s;
+}
+
+
+
+.expandingGallery {
+  width: 100%;
+  height: 90vmin;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap);
+}
+
+.expandingGallery>img {
+  --brightness: 0.75;
+  --grayscale: 1;
+  transition: flex var(--transition), filter var(--transition);
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  flex: 1;
+}
+
+.expandingGallery>img:hover {
+
+  flex: var(--magnifier);
+}
+
+	
+	
