@@ -16,6 +16,7 @@ One day my blog will `RETURN` `true` when run from the command line
 ##DEAR_MUNi##I_FOUND_SARTU_PROSTITUTED_IN_FRONT_OF_A_BAR_ON_8th##DEER_IN_HEADLIGHTS(づ˶•༝•˶)づ♡ 
 </span>
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qnkDrDeXcNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <img src="https://i.discogs.com/hNTJ3v2h-iXyZ6myjy_PeKRy2374rMtYaTJ91l3j7NU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjk5/Ny0xNTU0MDY5NDQw/LTUxNjAuanBlZw.jpeg">
 ## Welcome to GitHub Pages
  </body>
