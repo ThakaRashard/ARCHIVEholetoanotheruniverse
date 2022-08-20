@@ -1,4 +1,4 @@
-@import "rouge-base16-dark";
+/* @import "rouge-base16-dark";
 @import "default_colors";
 
 $body-background: $cod-grey !default;
@@ -202,8 +202,7 @@ hr {
   color: #b5e853;
 }
 
-/* Buttons
-*/
+/* Buttons*/
 
 .btn {
   display: inline-block;
@@ -266,3 +265,238 @@ a {
 #a-title {
   text-decoration: none;
 }
+
+
+
+h2{
+  font-family:  Monaco, "Bitstream Vera Sans Mono",
+      "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  color: #fff;
+   padding: 0px;
+   font-weight: 900;
+   margin: 0px;
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 40px #0ff,
+      0 0 80px #0ff,
+      0 0 90px #0ff,
+      0 0 100px #0ff,
+      0 0 150px #0ff;
+  text-align: left;
+  font-weight: 900;
+  font-family:   Monaco, "Bitstream Vera Sans Mono",
+      "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-variant-caps: small-caps;
+  }
+  
+  .left {
+   float: left;
+  padding: 5px;
+  margin: 10px;
+  }
+   
+  .right {
+   float: right;
+   padding: 5px;
+   margin: 10px;
+   
+  }
+   
+  img {
+   padding: 3px;
+   margin: 0px;
+   width: 100%; 
+   border: 1px solid #c9ff23;
+  
+  }
+   
+  
+  
+  @keyframes glowing {
+   0% { background-position: 0 0; }
+   50% { background-position: 400% 0; }
+   100% { background-position: 0 0; }
+  }
+   .container {
+   position: relative;
+   width: 50%;
+  }
+  
+  .image {
+   display: block;
+   width: 100%;
+   height: auto;
+  }
+  
+  .overlay {
+   position: absolute;
+   bottom: 0;
+   left: 100%;
+   right: 0;
+   background-color: #008CBA;
+   overflow: hidden;
+   width: 0;
+   height: 100%;
+   transition: .5s ease;
+  }
+  
+  .container:hover .overlay {
+   width: 100%;
+   left: 0;
+  }
+  
+  .text {
+   color: white;
+   font-size: 20px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   white-space: nowrap;
+  }
+   
+   
+   
+  .firstcharacter {
+   color: #fff;
+   text-shadow:
+   0 0 7px #fff,
+   0 0 10px #fff,
+   0 0 21px #fff,
+   0 0 42px #0fa,
+   0 0 82px #0fa,
+   0 0 92px #0fa,
+   0 0 102px #0fa,
+   0 0 151px #0fa;
+   float: left;
+   font-size: 75px;
+   line-height: 60px;
+   padding-top: 4px;
+   padding-right: 8px;
+   padding-left: 3px;
+  }
+  
+  .neonText {
+   color: #fff;
+   text-shadow:
+   0 0 7px #fff,
+   0 0 10px #fff,
+   0 0 21px #fff,
+   0 0 42px #0fa,
+   0 0 82px #0fa,
+   0 0 92px #0fa,
+   0 0 102px #0fa,
+   0 0 151px #0fa;
+  }
+   
+   
+  li a:hover {
+   color: #c9ff23;
+  
+   
+  } 
+  
+   
+   
+   
+   
+  .some-page-wrapper {
+  
+  }
+  
+  .row {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 100%;
+  }
+  
+  .column {
+   display: flex;
+   flex-direction: column;
+   flex-basis: 100%;
+   flex: 1;
+   overflow: hidden;
+  }
+  
+  .double-column {
+   display: flex;
+   flex-direction: column;
+   flex-basis: 100%;
+   flex: 2;
+   overflow: hidden;
+  }
+  
+  .blue-column {
+   background-color: #23ff32;
+   
+  }
+  
+  .green-column {
+   
+   background-color: #c9ff23;
+  } 
+   
+  #neon_box {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 700px;
+   height: 200px;
+   color: white;
+   font-family: 'Raleway';
+   font-size: 2.5rem;
+  }
+  .gradient-border {
+   --borderWidth: 10px;
+   background: #1D1F20;
+   position: relative;
+   border-radius: var(--borderWidth);
+  }
+  .gradient-border:after {
+   content: '';
+   position: absolute;
+   top: calc(-1 * var(--borderWidth));
+   left: calc(-1 * var(--borderWidth));
+   height: calc(100% + var(--borderWidth) * 2);
+   width: calc(100% + var(--borderWidth) * 2);
+   background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+   border-radius: calc(2 * var(--borderWidth));
+   z-index: -1;
+   animation: animatedgradient 3s ease alternate infinite;
+   background-size: 300% 300%;
+  }
+  
+  
+  @keyframes animatedgradient {
+   0% {
+   background-position: 0% 50%;
+   }
+   50% {
+   background-position: 100% 50%;
+   }
+   100% {
+   background-position: 0% 50%;
+   }
+  }
+  
+  .bwtocolor img {
+   -webkit-filter: grayscale(100%) !important;
+   filter: grayscale(100%) !important;
+  }
+  
+  
+  .bwtocolor img:hover {
+   -webkit-filter: grayscale(0) !important;
+   filter: grayscale(0) !important;
+  } 
+   
